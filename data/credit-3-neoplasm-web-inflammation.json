@@ -1,0 +1,1466 @@
+{
+  "title": "Credit 3: NEOPLASM, WEB, INLFAMMATION",
+  "id": "credit-3-neoplasm-web-inflammation",
+  "questions": [
+    {
+      "id": "credit-3-neoplasm-web-inflammation-1",
+      "question": "For the first time in the experiment was proved the role of chemicals in the etiology of tumors by",
+      "options": [
+        "Banting and Best;",
+        "Yamagiwa, Ishikawa;",
+        "Raus;",
+        "Shoup;",
+        "L.A.Zilber."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-2",
+      "question": "For the first time in the experiment was proved the role of viruses in the etiology of tumors by",
+      "options": [
+        "Raus;",
+        "Yamagiwa;",
+        "Ishikawa;",
+        "L.M.Shabad;",
+        "L.A.Zilber."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-3",
+      "question": "The most correct statement is",
+      "options": [
+        "carcinogen is agent that causes tumor development;",
+        "carcinogen is only a chemical agent that causes the development of tumors;",
+        "carcinogen is substance which is secreted by tumor cells;",
+        "carcinogen is oncogene;",
+        "carcinogen is carcinogenic gene of oncovirus."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-4",
+      "question": "Endogenous chemical carcinogens are",
+      "options": [
+        "polycyclic aromatic hydrocarbons;",
+        "oxygen free radicals and nitrogen oxide;",
+        "aminoazocompounds;",
+        "nitrosamines;",
+        "simple chemical compounds."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-5",
+      "question": "An agent that enhances the action of carcinogens, but did not cause the development of tumors:",
+      "options": [
+        "procarcinogen;",
+        "oncogene;",
+        "protooncogene;",
+        "anti-oncogene;",
+        "co- carcinogen."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-6",
+      "question": "Carcinogen belonging to the group of cyclic aromatic hydrocarbons:",
+      "options": [
+        "3, 4- benzpyrene;",
+        "beta-naphthylamine;",
+        "diethylnitrosamine;",
+        "urethane;",
+        "dimethylaminoazobenzene."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-7",
+      "question": "The primary, fundamental sign of malignant tumors is",
+      "options": [
+        "cachexia;",
+        "the systemic effects of the tumor on the body;",
+        "the invasive growth;",
+        "recurrence;",
+        "negative effect of Pasteur."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-8",
+      "question": "Malignant tumors are characterized by",
+      "options": [
+        "suppression of the mechanisms of apoptosis;",
+        "strengthening of the mechanisms of apoptosis."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-9",
+      "question": "Biological features that are typical of malignant tumors",
+      "options": [
+        "uncontrolled proliferation of cells;",
+        "loss of 'limit' of the division of the Heylik;",
+        "expansive growth;",
+        "loss of contact inhibition;",
+        "invasive growth."
+      ],
+      "correctAnswers": [0, 1, 3, 4]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-10",
+      "question": "Specify the features characteristic of benign tumors",
+      "options": [
+        "does not give metastases and recurrences;",
+        "an infiltrative tissue growth."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-11",
+      "question": "Infiltrative tissue growth is observed at",
+      "options": [
+        "benign tumor growth;",
+        "malignant tumor growth;",
+        "hyperplasia;",
+        "hypertrophy;",
+        "regeneration."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-12",
+      "question": "Simplification of structural and chemical organization, reducing the differentiation of tumor tissue is called",
+      "options": [
+        "dysplasia;",
+        "the increasing complexity;",
+        "convergence;",
+        "anaplasia;",
+        "hypertrophy."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-13",
+      "question": "Increasing the degree of malignancy is called",
+      "options": [
+        "immortalization;",
+        "promotion;",
+        "tumor progression;",
+        "initiation;",
+        "malignant transformation."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-14",
+      "question": "Biochemical atypia of malignant tumor cells is characterized by:",
+      "options": [
+        "the weakening effect of Pasteur;",
+        "synthesis of embryonic proteins;",
+        "increasing the synthesis of tissue specific proteins in the cell;",
+        "isoenzymological simplification;",
+        "intensive synthesis of oncoproteins."
+      ],
+      "correctAnswers": [0, 1, 3, 4]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-15",
+      "question": "A feature of tumor cells is",
+      "options": [
+        "reduced ability to transamination and deamination of amino acids;",
+        "reducing the capture of amino acids from the blood;",
+        "reduction of glucose uptake from the blood;",
+        "reduction of cholesterol uptake from the blood;",
+        "reduction of the synthesis of nucleic acids."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-16",
+      "question": "The characteristic of malignant tumor cells -",
+      "options": [
+        "increasing glucose uptake;",
+        "reduction of glucose uptake."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-17",
+      "question": "Antigenic atypia of tumors include:",
+      "options": [
+        "synthesis of embryo-specific proteins;",
+        "the phenomenon of substrate traps;",
+        "synthesis of proteins, which are peculiar to other tissues;",
+        "the negative effect of Pasteur;",
+        "increasing the synthesis of proteins of major histocompatibility complex."
+      ],
+      "correctAnswers": [0, 2]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-18",
+      "question": "Cancer cachexia is characterized by profound exhaustion of the organism",
+      "options": [
+        "yes;",
+        "no."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-19",
+      "question": "Antigenic atypia of tumors include:",
+      "options": [
+        "synthesis of embryo-specific proteins;",
+        "the phenomenon of substrate traps;",
+        "the phenomenon of Warburg;",
+        "the negative effect of Pasteur;",
+        "increasing the synthesis of proteins of major histocompatibility complex."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-20",
+      "question": "It is not characteristic for malignant tumors",
+      "options": [
+        "synthesis of specific proteins;",
+        "inactivation of suppressor gene of cell division (anti-oncogenes)."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-21",
+      "question": "It is characteristic for malignant tumors",
+      "options": [
+        "inactivation of suppressor gene of cell division (anti-oncogenes);",
+        "synthesis of specific proteins."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-22",
+      "question": "Specify the second stage of tumor metastasis",
+      "options": [
+        "avulsion one or a group of tumor cells from the primary tumor focus;",
+        "transportation of cells through the lymphatic and blood vessels;",
+        "formation of the thromboembolus and fixing it to the wall of the vessel;",
+        "the yield of cells from the vessel, their implantation;",
+        "tumor progression."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-23",
+      "question": "Specify the correct sequence of stages of the carcinogenesis",
+      "options": [
+        "initiation, promotion, progression;",
+        "promotion, initiation, progression;",
+        "progression, initiation, promotion;",
+        "initiation, progression, promotions;",
+        "promotion, progression, initiation."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-24",
+      "question": "The initiation stage of carcinogenesis is",
+      "options": [
+        "the qualitative changes of the properties of the tumor cells aside malignancy;",
+        "the appearance of the more malignant clone of the cells;",
+        "transformation of the normal cell into the tumor cell;",
+        "the ability of tumor cells to metastasis;",
+        "activation mechanisms of antineoplastic resistance of the organism."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-25",
+      "question": "Leads to malignant transformation of cells:",
+      "options": [
+        "activation of oncogenes;",
+        "inhibition of anti-oncogenes;",
+        "activation of apoptotic genes;",
+        "formation of oncoproteins;",
+        "activation of DNA repair systems."
+      ],
+      "correctAnswers": [0, 1, 3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-26",
+      "question": "Protooncogenes - is",
+      "options": [
+        "genes of proliferation and differentiation of the cells;",
+        "genes which inhibit entry of cells into mitosis;",
+        "genes controlling biochemical processes in a tumor cell;",
+        "genes responsible for mechanisms of antineoplastic resistance;",
+        "genes responsible for DNA repair."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-27",
+      "question": "Leads to malignant transformation of cells:",
+      "options": [
+        "conversion of the protooncogene to oncogene;",
+        "activation of anti-oncogenes;",
+        "inactivation of the genes of anti-apoptosis;",
+        "activation of apoptotic genes;",
+        "activation of protooncogenes."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-28",
+      "question": "Activation of the oncogene is caused by",
+      "options": [
+        "inflammation;",
+        "hypoglycemia;",
+        "mutation;",
+        "necrosis;",
+        "hypoxia."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-29",
+      "question": "Oncogenes - is:",
+      "options": [
+        "genes of apoptosis;",
+        "genes controlling metabolism;",
+        "inactive genes of the growth and differentiation of cells;",
+        "genes - suppressors of cell proliferation;",
+        "modified protooncogenes, released out-of-control."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-30",
+      "question": "Anticogene - is",
+      "options": [
+        "genes that cause uncontrolled cell division;",
+        "genes controlling metabolism;",
+        "inactive genes of the growth and differentiation of cells;",
+        "suppressor genes of cell proliferation;",
+        "modified protooncogenes, released out-of-control."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-31",
+      "question": "The second stage of carcinogenesis is called",
+      "options": [
+        "promotion;",
+        "co-carcinogenesis;",
+        "syn-carcinogenesis;",
+        "initiation;",
+        "pro-carcinogenesis."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-32",
+      "question": "Metastasis of tumor cells occurs in stage",
+      "options": [
+        "progression;",
+        "initiation;",
+        "promotion."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-33",
+      "question": "Anti-transformative mechanisms of antineoplastic resistance of the organism are",
+      "options": [
+        "limitation of the interaction of cells with carcinogens;",
+        "inhibiting the transformation of a normal cell into a tumor cell;",
+        "elimination of separated tumor cells;",
+        "the destruction of the tumor as a whole;",
+        "activation of mechanisms of the specific immunological reactivity."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-34",
+      "question": "Select the properties that characterize the tumor cells",
+      "options": [
+        "the absence of contact inhibition of growth in a culture;",
+        "strengthening the forces of adhesion between cells;",
+        "reduction of the adhesion molecules on the cell membrane;",
+        "an increase in intracellular Ca 2+ ;",
+        "reduction of cytoplasmic Ca 2+ ."
+      ],
+      "correctAnswers": [0, 2, 3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-35",
+      "question": "What are the properties of oncoproteins?",
+      "options": [
+        "growth factors;",
+        "receptors of the growth factors;",
+        "membranous G-proteins;",
+        "chalones;",
+        "transmit of the growth signals on a DNA."
+      ],
+      "correctAnswers": [0, 1, 2, 4]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-36",
+      "question": "Specify the state of increased oncological risk:",
+      "options": [
+        "acute inflammatory processes;",
+        "chronic inflammatory processes;",
+        "irradiation of the body;",
+        "immunodeficiency states;",
+        "vaccination of BCG."
+      ],
+      "correctAnswers": [1, 2, 3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-37",
+      "question": "What contributes to the growth of tumor cells?",
+      "options": [
+        "the young age of the organism;",
+        "weakly expressed antigenic properties of tumor cells;",
+        "the production of TNF by the body;",
+        "strengthening of processes of the final differentiation of cells;",
+        "activation of natural killer cells (NK-cells)."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-38",
+      "question": "What features characterize the tumor progression?",
+      "options": [
+        "increasing anaplasia of the cells;",
+        "invasiveness;",
+        "infiltrative growth;",
+        "strengthening of processes of the final differentiation of cells;",
+        "strengthening of antigenic stimulation of the body by tumor cells."
+      ],
+      "correctAnswers": [0, 1, 2]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-39",
+      "question": "What factors contribute to metastasis of tumor cells?",
+      "options": [
+        "a high level of contact inhibition;",
+        "production of collagenase type 4 by tumor cells;",
+        "strengthening of the cohesive forces between the cells of the tumor;",
+        "reduction of adhesive molecules in the cytoplasmic membrane;",
+        "increase of the expression of molecules of the HLA-complex."
+      ],
+      "correctAnswers": [1, 3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-40",
+      "question": "Edema is",
+      "options": [
+        "accumulation of fluid in the serous cavities;",
+        "accumulation of fluid in the tissues and interstitial space;",
+        "increase in the formation of lymph;",
+        "increase of intravascular fluid;",
+        "increase of intracellular fluid."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-41",
+      "question": "Edema is",
+      "options": [
+        "a pathological reaction;",
+        "a pathological process;",
+        "a pathological state;",
+        "a nosological form of the disease;",
+        "preillness."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-42",
+      "question": "Local pathogenetic factor of the edema is",
+      "options": [
+        "increased oncotic pressure of the blood;",
+        "increase of hydrostatic pressure of the blood;",
+        "decrease of permeability of the vessel wall;",
+        "lowering of hydrostatic pressure of the blood;",
+        "increased tissue pressure."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-43",
+      "question": "Pathogenetic factor of the edema is:",
+      "options": [
+        "increased oncotic pressure of the blood;",
+        "lowering of hydrostatic pressure of the blood;",
+        "decrease of permeability of the vessel wall;",
+        "increased osmotic and oncotic pressure in the tissue;",
+        "decrease in aldosterone secretion."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-44",
+      "question": "The following contributes to the development of edema:",
+      "options": [
+        "higher levels of albumin of the blood;",
+        "increased production of aldosterone and ADH;",
+        "enhanced drainage of the interstitium by lymphatic vessels;",
+        "reduced production of antidiuretic hormone;",
+        "decreased permeability of the vascular wall."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-45",
+      "question": "Neuro-endocrine factor of edema is",
+      "options": [
+        "activation of the sympathetic-adrenal system;",
+        "lack of formation of the antidiuretic hormone;",
+        "secondary deficiency of aldosterone;",
+        "hyperinsulinism;",
+        "secondary increase in formation of aldosterone and ADH."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-46",
+      "question": "Tissue factor of edema is:",
+      "options": [
+        "reduction of the osmotic pressure of tissue;",
+        "reduction of the osmotic pressure of the plasma;",
+        "decrease in oncotic pressure of the blood;",
+        "increased hydrostatic pressure of tissue;",
+        "increased osmotic and oncotic pressure of tissue."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-47",
+      "question": "The leading role in the pathogenesis of allergic edema is played by:",
+      "options": [
+        "vascular factor;",
+        "tissue factor;",
+        "hemodynamic factor;",
+        "neuro-endocrine factor;",
+        "oncotic factor."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-48",
+      "question": "Oncotic factor plays a major role in the development of:",
+      "options": [
+        "cardiac edema;",
+        "cachectic edema;",
+        "allergy edema;",
+        "toxic edema;",
+        "nephritic edema."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-49",
+      "question": "In the development of inflammatory and allergic edema the leading role is played by:",
+      "options": [
+        "increase of vascular permeability;",
+        "reduction of vascular permeability."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-50",
+      "question": "In the development of hepatic of edema the leading role is played by:",
+      "options": [
+        "decrease in oncotic pressure of the blood;",
+        "increase in oncotic pressure of the blood."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-51",
+      "question": "In the development of congestive edema the main role is played by:",
+      "options": [
+        "neuro-endocrine factor;",
+        "oncotic factor;",
+        "tissue factor;",
+        "hemodynamic factor;",
+        "vascular factor."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-52",
+      "question": "Trigger pathogenetic factor in the development of cardiac edema is",
+      "options": [
+        "increase of the vascular permeability;",
+        "increased colloid-osmotic pressure of tissue;",
+        "increase in venous blood pressure;",
+        "decrease in oncotic pressure of the blood;",
+        "reduction of lymphatic outflow."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-53",
+      "question": "The initial link in the pathogenesis of cardiac edema is:",
+      "options": [
+        "stimulation of aldosterone secretion;",
+        "stimulation of volume- and baroreceptors;",
+        "decrease in cardiac output;",
+        "increase of sodium reabsorption in the kidney;",
+        "increased production of antidiuretic hormone and increase of water reabsorption in the kidney."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-54",
+      "question": "Pathogenetic therapy of hungry (cachectic) edema includes",
+      "options": [
+        "administration of antihistamines;",
+        "the use of diuretics;",
+        "introduction of glucocorticoids;",
+        "salt-free diet;",
+        "intravenous administration of albumin."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-55",
+      "question": "Dropy of abdominal cavity is termed as",
+      "options": [
+        "hydrothorax;",
+        "hydropericardium;",
+        "ascites;",
+        "peritonitis;",
+        "hydronephrosis."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-56",
+      "question": "Water intoxication develops when",
+      "options": [
+        "excessive intake of water in the body;",
+        "insufficient excretion of water from the body;",
+        "excessive intake of mineral salts;",
+        "excessive intake of water in the body against the background of its insufficient excretion;",
+        "forced use of seawater."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-57",
+      "question": "Hyperosmolar hyperhydration occurs when",
+      "options": [
+        "transfusion of large amounts of saline;",
+        "transfusion of hypoosmolality solutions;",
+        "intravenous administration of 5% glucose;",
+        "excessive consumption of fresh water;",
+        "forced excessive consumption of seawater."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-58",
+      "question": "Specify the compensatory reactions during dehydration:",
+      "options": [
+        "increase in the production of aldosterone;",
+        "centralization of circulation;",
+        "increased release of vasopressin;",
+        "decreased release of renin;",
+        "decrease in daily urine."
+      ],
+      "correctAnswers": [0, 1, 2, 4]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-59",
+      "question": "Specify the manifestation of the of total hyperhydration syndrome:",
+      "options": [
+        "edema, dropsy;",
+        "increase of body weight;",
+        "increase in hematocrit;",
+        "increase in blood volume;",
+        "increase in blood pressure."
+      ],
+      "correctAnswers": [0, 1, 3, 4]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-60",
+      "question": "The negative water balance is observed in",
+      "options": [
+        "cirrhosis of the liver;",
+        "heart failure;",
+        "diabetes insipidus;",
+        "nephrotic syndrome;",
+        "acute diffuse glomerulonephritis."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-61",
+      "question": "The cause of the hyperosmolar dehydration can be",
+      "options": [
+        "diarrhea;",
+        "frequent vomiting;",
+        "intestinal fistulae;",
+        "diabetes mellitus;",
+        "deficiency of aldosterone."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-62",
+      "question": "Hyperosmolar dehydration is characterized by:",
+      "options": [
+        "increase in total body water;",
+        "decreased osmotic pressure of the extracellular fluid;",
+        "increased water content in the cells;",
+        "movement of water from the cells into the extracellular space;",
+        "lack of thirst."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-63",
+      "question": "Hypoosmolar dehydration occurs in",
+      "options": [
+        "diarrhea;",
+        "diabetes mellitus;",
+        "diabetes insipidus;",
+        "esophageal atresia;",
+        "water fasting."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-64",
+      "question": "Hypoosmolar dehydration occurs in",
+      "options": [
+        "prolonged vomiting;",
+        "diabetes mellitus;",
+        "diabetes insipidus;",
+        "esophageal atresia;",
+        "water fasting."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-65",
+      "question": "Hypoosmolar dehydration is characterized by:",
+      "options": [
+        "increase in the total water content in the body;",
+        "decreased osmotic pressure of the extracellular fluid;",
+        "reduction of water content in the cells;",
+        "movement of water from the cells into the extracellular space;",
+        "tormenting thirst"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-66",
+      "question": "Dehydration is characterized by:",
+      "options": [
+        "hemoconcentration;",
+        "disturbance of microcirculation;",
+        "increase in central venous pressure;",
+        "decrease in blood pressure;",
+        "reduction of blood volume."
+      ],
+      "correctAnswers": [0, 1, 3, 4]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-67",
+      "question": "Hypernatremia occurs when excessive secretion of",
+      "options": [
+        "sexual hormones;",
+        "thyroid hormones;",
+        "natriuretic hormone;",
+        "antidiuretic hormone;",
+        "aldosterone."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-68",
+      "question": "The hypothalamus participates in the regulation of waterelectrolyte metabolism due to:",
+      "options": [
+        "synthesis of vasopressin;",
+        "presence of central osmoreceptors in the third ventricle;",
+        "ability to regulate fluid intake through the center of thirst;",
+        "implementation of the sympathetic regulation of secretion of renin by juxtaglomerular apparatus of kidneys;",
+        "ability to regulate salt appetite;",
+        "all of the answers correct."
+      ],
+      "correctAnswers": [5]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-69",
+      "question": "Specify the manifestation of the total dehydration syndrome:",
+      "options": [
+        "thirst;",
+        "weakness;",
+        "dryness of the skin and mucous membranes;",
+        "decrease in blood pressure;",
+        "increased viscosity of the blood;",
+        "all of the symptoms."
+      ],
+      "correctAnswers": [5]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-70",
+      "question": "The pathogenetic factor of edema is :",
+      "options": [
+        "increased oncotic blood pressure.",
+        "lowering the hydrostatic pressure of the blood.",
+        "reducing the permeability of the vessel wall.",
+        "an increase in osmotic and oncotic pressure in tissues.",
+        "decreased aldosterone secretion."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-71",
+      "question": "The main role in the pathogenesis of allergic edema plays:",
+      "options": [
+        "vascular factor",
+        "tissue",
+        "hemodynamic",
+        "neuro-endocrine",
+        "oncotic"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-72",
+      "question": "The main role in the pathogenesis of cachexic edema plays:",
+      "options": [
+        "vascular factor",
+        "tissue",
+        "hemodynamic",
+        "neuro-endocrine",
+        "oncotic blood pressure"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-73",
+      "question": "The main role in the pathogenesis of membranogenic edema plays:",
+      "options": [
+        "increased permeability of the vascular wall",
+        "tissue",
+        "hemodynamic",
+        "neuro-endocrine",
+        "oncotic blood pressure"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-74",
+      "question": "The initial link in the pathogenesis of cardiac edema is:",
+      "options": [
+        "Stimulation of the secretion of aldosterone.",
+        "Irritation of the volumc- and baroreceptors.",
+        "Reduced cardiac output.",
+        "Increased sodium reabsorption in the kidneys.",
+        "Increased production of antidiuretic hormone and water reabsorption in the kidneys;"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-75",
+      "question": "Abdominal edema is indicated by the term:",
+      "options": [
+        "hydrothorax",
+        "hydropericardium",
+        "ascites",
+        "peritonitis",
+        "hydronephrosis"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-76",
+      "question": "Water goes in the cells and damages them under what circumstances:",
+      "options": [
+        "when lower intracellular osmotic pressure.",
+        "when lower extracellular osmotic pressure.",
+        "when higher extracellular osmotic pressure.",
+        "when higher intracellular osmotic pressure."
+      ],
+      "correctAnswers": [1, 3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-77",
+      "question": "The infusion of normal saline to patients with disturbed renal function leads to:",
+      "options": [
+        "Isotonic hyperhydration.",
+        "Hypertonic hyperhydration.",
+        "Hypotonic hyperhydration.",
+        "Hypotonic normovolemia.",
+        "Hypertonic dehydration."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-78",
+      "question": "Water intoxication develops with:",
+      "options": [
+        "excess water intake",
+        "insufficient removal of water from the body",
+        "excess intake of mineral salts",
+        "excessive intake of water in the body against the background of its insufficient excretion",
+        "forced use of sea water"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-79",
+      "question": "Hyperosmolar hypervolemia occurs:",
+      "options": [
+        "when transfusing a large amount of saline;",
+        "during transfusion of hypoosmolal solutions;",
+        "with intravenous administration of 5% glucose;",
+        "with excessive consumption of fresh water;",
+        "with forced excess consumption of sea water"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-80",
+      "question": "Indicate compensatory reactions during dehydration :",
+      "options": [
+        "increased aldosterone production",
+        "increased release of vasopressin",
+        "decreased renin excretion",
+        "decrease in daily urine output"
+      ],
+      "correctAnswers": [0, 1, 3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-81",
+      "question": "Indicate the manifestations of general hypervolemia syndrome :",
+      "options": [
+        "edema, dropsy",
+        "weight gain",
+        "increased hematocrit",
+        "an increase in circulating blood volume",
+        "increase in blood pressure"
+      ],
+      "correctAnswers": [0, 1, 3, 4]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-82",
+      "question": "The cause of hyperosmolar dehydration may be :",
+      "options": [
+        "diarrhea",
+        "repeated vomiting",
+        "intestinal fistulas",
+        "diabetes insipidus",
+        "aldosterone deficiency."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-83",
+      "question": "Hyperosmolar dehydration is characterized by:",
+      "options": [
+        "an increase in the total water content in the body",
+        "lowering the osmotic pressure in the extracellular fluid",
+        "increase in water content in cells",
+        "the movement of water from cells into the extracellular space",
+        "lack of thirst"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-84",
+      "question": "Hypoosmolar dehydration occurs when :",
+      "options": [
+        "indomitable vomiting",
+        "diabetes",
+        "diabetes insipidus",
+        "intestinal form of acute radiation sickness",
+        "water starvation."
+      ],
+      "correctAnswers": [0, 3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-85",
+      "question": "Hyposmolar dehydration is characterized by :",
+      "options": [
+        "an increase in the total water content in the body",
+        "lowering the osmotic pressure in the extracellular fluid",
+        "decrease in water content in cells",
+        "the movement of water from cells into the extracellular space",
+        "A painful feeling of thirst"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-86",
+      "question": "Cause of gas acidosis is:",
+      "options": [
+        "excess non-volatile acids",
+        "mineral acid poisoning",
+        "enhanced release of CO2 from the body",
+        "the accumulation of carbon dioxide in the body",
+        "excess bases in the blood"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-87",
+      "question": "To the development of gas alkalosis leads :",
+      "options": [
+        "increase in carbon dioxide in the atmosphere",
+        "lung hypoventilation",
+        "circulatory failure",
+        "hypercapnia",
+        "hyperventilation of the lungs."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-88",
+      "question": "Losing large amounts of gastric juice with indomitable vomiting can lead to:",
+      "options": [
+        "gas acidosis",
+        "metabolic acidosis",
+        "gas alkalosis",
+        "metabolic alkalosis"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-89",
+      "question": "An arterial blood pH of 7, 49 indicates:",
+      "options": [
+        "compensated acidosis",
+        "alkalosis",
+        "gas acidosis",
+        "non-gas acidosis"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-90",
+      "question": "A positive water balance is synonymous with:",
+      "options": [
+        "dehydration",
+        "hyperhydration",
+        "exsicosis",
+        "hypohydri",
+        "hypohydration"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-91",
+      "question": "With isoosmolar hyperhydration, osmotic pressure:",
+      "options": [
+        "increases in the extracellular sector",
+        "does not change in the extracellular sector",
+        "decreases in the extracellular sector",
+        "decreases inside the cell",
+        "rises inside the cell"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-92",
+      "question": "Hypoosmolal hyperhydration occurs when:",
+      "options": [
+        "intake of large amounts of water without salt",
+        "the abundant use of sea salt water",
+        "transfusion of a large amount of isotonic solution",
+        "transfusion of large quantities of hypotonic solutions",
+        "overproduction of aldosterone"
+      ],
+      "correctAnswers": [0, 3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-93",
+      "question": "The stages of inflammation include:",
+      "options": [
+        "swelling, redness, impaired function, pain, local increased temperature of the focus of inflammation",
+        "arterial hyperemia, venous hyperemia, stasis",
+        "acidosis, hyperosmia, hyperoncia of the focus of inflammation",
+        "alteration, circulatory disorders with exudation, proliferation",
+        "leukocytosis, increased esr, increased body temperature"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-94",
+      "question": "The first stage of inflammation is:",
+      "options": [
+        "alteration",
+        "exudation;",
+        "emigration of white blood cells",
+        "phagocytosis",
+        "proliferation"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-95",
+      "question": "Primary alteration in inflammation results from:",
+      "options": [
+        "actions of inflammatory mediators",
+        "physico-chemical changes in the focus of inflammation",
+        "the damaging effect of the phlogogenic factor",
+        "microcirculation disorders",
+        "metabolic disorders in the focus of inflammation"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-96",
+      "question": "The released lysosome enzymes mainly:",
+      "options": [
+        "stimulate the phase of proliferation.",
+        "increase capillary permeability and destroy cells",
+        "play the role of intercellular regulators.",
+        "block the kinin system.",
+        "provoke autoimmune progression."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-97",
+      "question": "The great importance of the alteration in inflammation is:",
+      "options": [
+        "decreased levels of cyclooxygenase products",
+        "hydrolytic enzymes, released by the damaged lysosomes",
+        "the limited activity of the enzymes of the electron transport chains in the mitochondria.",
+        "structural alterations of cell receptors.",
+        "blocked activity of free radicals."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-98",
+      "question": "The phase of proliferation includes:",
+      "options": [
+        "alteration of cells and intercellular matter by the pathological agent.",
+        "growing of connective tissue and capillaries",
+        "formation of inflammatory oedema",
+        "hemodynamic vessel changes."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-99",
+      "question": "The hemodynamic vascular changes in inflammation in chronological order are:",
+      "options": [
+        "arterial hyperemia, spasm of the arterioles, stasis.",
+        "stasis, arterial hyperaemia, venous hyperaemia.",
+        "ischemia, thrombosis, arterial hyperemia.",
+        "spasm, reversible ischemia, venous hyperemia.",
+        "spasm, arterial hyperaemia, venous hyperaemia, stasis"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-100",
+      "question": "Permeability disturbances in inflammation are a result of:",
+      "options": [
+        "hemodynamic changes in blood vessels.",
+        "structural changes in blood vessel walls",
+        "disturbed speed of blood flow.",
+        "smooth-muscle hypertrophy.",
+        "alteration in receptor structure"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-101",
+      "question": "The early cell migration during the acute inflammation is associated with:",
+      "options": [
+        "fibroblast proliferation.",
+        "accumulation of neutrophils",
+        "active diapedesis of erythrocytes.",
+        "proliferation of angiooblasts.",
+        "eosinophils and basophils."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-102",
+      "question": "Chronic inflammation is characterized with a more pronounced infiltration with:",
+      "options": [
+        "adipocytes and segmented leukocytes.",
+        "tissue degradation products.",
+        "platelets and B-lymphocytes.",
+        "mast cells and erythrocytes.",
+        "lymphocytes and macrophages"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-103",
+      "question": "The increased decomposition of substances in the focus of inflammation is associated with:",
+      "options": [
+        "activation of lysosomal enzymes",
+        "activation of mitochondrial enzymes",
+        "activation of adenylate cyclase",
+        "inhibition of enzymes of the anaerobic stage of glycolysis",
+        "inhibition of lipid peroxidation enzymes."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-104",
+      "question": "For changes in carbohydrate metabolism in the focus of inflammation is characteristic:",
+      "options": [
+        "activation of anaerobic glycolysis",
+        "increased glycogen synthesis",
+        "increased synthesis of ketone bodies",
+        "increase in the content of nucleotides, nucleosides",
+        "activation of lipolysis."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-105",
+      "question": "The pathogenetic factor of local acidosis in inflammation is:",
+      "options": [
+        "arterial hyperemia",
+        "violation of vascular permeability",
+        "the accumulation of under-oxidized metabolic products",
+        "white blood cell emigration",
+        "Extravasation"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-106",
+      "question": "The plasma origin mediator in inflammation is:",
+      "options": [
+        "histamine",
+        "serotonin",
+        "prostaglandins",
+        "bradykinin",
+        "cytokines"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-107",
+      "question": "Plasma derived mediator is:",
+      "options": [
+        "lymphokines",
+        "complement active components",
+        "non-enzymatic cationic proteins",
+        "leukotrienes",
+        "serotonin"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-108",
+      "question": "The source of histamine in the focus of inflammation is:",
+      "options": [
+        "neutrophils",
+        "mast cells",
+        "parenchymal cells",
+        "lymphocytes",
+        "monocytes"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-109",
+      "question": "Leukotrienes and prostaglandins are derivatives:",
+      "options": [
+        "arachidonic acid",
+        "alpha ketoglutaric acid",
+        "oxalic acid",
+        "palmitic acid",
+        "linolenic acid"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-110",
+      "question": "In the pathogenesis of venous hyperemia in inflammation, it is important:",
+      "options": [
+        "spasm of arterioles",
+        "expansion of arterioles",
+        "the effect of acetylcholine on the vascular wall",
+        "increase blood viscosity",
+        "increased blood flow"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-111",
+      "question": "Exudation is called:",
+      "options": [
+        "the exit of blood from the vascular bed into the inflamed tissue",
+        "the exit of the protein-containing liquid part of the blood into the inflamed tissue",
+        "the release of leukocytes from blood vessels into tissue",
+        "fluid accumulation in cavities",
+        "accumulation of fluid in the tissues"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-112",
+      "question": "The exudation process contributes to:",
+      "options": [
+        "lowering osmotic pressure in the focus of inflammation",
+        "increased oncotic blood pressure",
+        "reduced capillary permeability",
+        "increased capillary permeability",
+        "decrease in hydrodynamic pressure in capillaries"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-113",
+      "question": "The factor, contributing to the emigration of white blood cells:",
+      "options": [
+        "decrease in oncotic blood pressure",
+        "positive chemotaxis",
+        "acceleration of blood flow",
+        "increased oncotic blood pressure",
+        "decrease in vascular wall penetrability"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-114",
+      "question": "The sequence of emigration of leukocytes in acute inflammation:",
+      "options": [
+        "neutrophils, eosinophils, monocytes",
+        "neutrophils, monocytes, lymphocytes",
+        "monocytes, lymphocytes, neutrophils",
+        "lymphocytes, monocytes, neutrophils",
+        "macrophages, neutrophils, monocytes"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-115",
+      "question": "\"Rolling\" of white blood cells in the focus of inflammation contributes:",
+      "options": [
+        "acceleration of blood flow",
+        "expression of integrins on the surface of leukocytes",
+        "decrease in the number of adhesion receptors on the endothelium",
+        "expression of immunoglobulin-like molecules on the endothelium",
+        "activation of P- and E-selectins"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-116",
+      "question": "Local signs of inflammation are:",
+      "options": [
+        "fever, leukocytosis, accelerated ESR",
+        "pain, redness, local heat, impaired organ function",
+        "headache, sleep disturbance, loss of appetite",
+        "myalgia, ossalgia",
+        "hypoalbuminemia, hypergammaglobulinemia"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-117",
+      "question": "The pathogenetic factor of local temperature increase in inflammation is:",
+      "options": [
+        "venous hyperemia",
+        "ischemia",
+        "arterial hyperemia",
+        "stasis",
+        "embolism"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-118",
+      "question": "The pathogenesis of local temperature increase in inflammation is due to:",
+      "options": [
+        "violation of the outflow of blood through venous vessels",
+        "the development of arterial hyperemia and \"fire\" metabolism",
+        "compression of the exudate walls of the venules",
+        "emigration of white blood cells",
+        "the action of catecholamines on the vascular wall"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-119",
+      "question": "Redness in the focus of inflammation is associated with:",
+      "options": [
+        "venous hyperemia",
+        "arterial hyperemia",
+        "ischemia",
+        "increased metabolism",
+        "physico-chemical changes"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-120",
+      "question": "Inflammation is considered as an adaptive reaction of the body, because:",
+      "options": [
+        "limits the damage zone, preventing the spread of phlogogenic factor and alteration products in the body",
+        "inactivates the phlogogenic agent and tissue alteration product",
+        "inhibits the allergization of the body",
+        "mobilizes the body's defense factors",
+        "increased metabolism"
+      ],
+      "correctAnswers": [0, 1, 3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-121",
+      "question": "A firm adhesion of leukocytes with endothelium in the focus of inflammation is provided by:",
+      "options": [
+        "L-selectins",
+        "integrins",
+        "immunoglobulin",
+        "E-selectins",
+        "prostaglandins",
+        "ICAM-1"
+      ],
+      "correctAnswers": [1, 5]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-122",
+      "question": "These substances have anti-inflammatory action",
+      "options": [
+        "histamine",
+        "glucocorticoids",
+        "interleukins",
+        "carboxypeptidase",
+        "serotonin"
+      ],
+      "correctAnswers": [1, 3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-123",
+      "question": "General signs of inflammation are:",
+      "options": [
+        "pain, redness, organ dysfunction",
+        "symptoms of intoxication",
+        "acceleration of ESR",
+        "fever, leukocytosis",
+        "swelling due to edema"
+      ],
+      "correctAnswers": [1, 2, 3]
+    },
+    {
+      "id": "credit-3-neoplasm-web-inflammation-124",
+      "question": "The bioactive substances released during alteration are called:",
+      "options": [
+        "mediators",
+        "synchronizing factors",
+        "statins",
+        "agglutinins",
+        "inhibitors"
+      ],
+      "correctAnswers": [0]
+    }
+  ]
+}

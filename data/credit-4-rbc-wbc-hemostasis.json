@@ -1,0 +1,1653 @@
+{
+  "title": "Credit 4: RBC, WBC, Hemostasis",
+  "id": "credit-4-rbc-wbc-hemostasis",
+  "questions": [
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-1",
+      "question": "Simple hypovolemia is observed",
+      "options": [
+        "with dehydration",
+        "in the early stages after acute blood loss",
+        "with erythemia",
+        "a few days after blood loss",
+        "with the introduction of a large number of plasma substitutes."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-2",
+      "question": "Polycythemic hypovolemia is observed with:",
+      "options": [
+        "dehydration",
+        "massive hemolysis of red blood cells",
+        "erythemia",
+        "anemia",
+        "blood loss."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-3",
+      "question": "Normovolemia oligocytemic observed with:",
+      "options": [
+        "dehydration",
+        "hypoxia",
+        "renal failure",
+        "erythemia",
+        "massive hemolysis of red blood cells."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-4",
+      "question": "Polycythemic hypervolemia is observed with:",
+      "options": [
+        "erythemia",
+        "kidney failure",
+        "dehydration",
+        "anemia",
+        "blood loss."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-5",
+      "question": "Oligocytemic normovolemia is observed in:",
+      "options": [
+        "dehydration",
+        "hypoxia",
+        "kidney disease",
+        "erythemia",
+        "massive hemolysis of erythrocytes"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-6",
+      "question": "Under what conditions is simple hypovolemia observed?",
+      "options": [
+        "24 hours after acute moderate hemorrhage",
+        "30-40 min after acute hemorrhage",
+        "burn shock",
+        "hyperthermia"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-7",
+      "question": "After infusion of large volumes of isotonic solutions may develops:",
+      "options": [
+        "simple hypervolemia",
+        "polycythemic hypervolemia",
+        "hypervolemia oligocyemic",
+        "polycythemic hypovolemia",
+        "oligocyemic hypovolemia"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-8",
+      "question": "Under what conditions is polycythemic hypovolemia observed?",
+      "options": [
+        "extensive burns",
+        "overheating of the body",
+        "water intoxication",
+        "Vakez disease (erythremia)"
+      ],
+      "correctAnswers": [0, 1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-9",
+      "question": "Indicate the processes that have adaptive significance for the body in the coming minutes and hours after acute blood loss:",
+      "options": [
+        "decrease venous return of blood",
+        "peripheral vasoconstriction",
+        "centralization of blood circulation",
+        "tissue hypoperfusion",
+        "increases secretion of catecholamines"
+      ],
+      "correctAnswers": [1, 2, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-10",
+      "question": "In what period after acute hemorrhage does reticulocytosis develop?",
+      "options": [
+        "after 5-6 hours",
+        "after 4-5 days",
+        "after 24-48 hours",
+        "immediately after hemorrhage"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-11",
+      "question": "Specify the processes that have adaptive value for the organism in the next few minutes and hours after acute blood loss:",
+      "options": [
+        "reduction of venous return",
+        "peripheral vasoconstriction",
+        "centralization of circulation",
+        "tissue hypoperfusion",
+        "hyperventilation"
+      ],
+      "correctAnswers": [1, 2, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-12",
+      "question": "A single massive blood loss occurs when:",
+      "options": [
+        "iron deficiency anemia",
+        "B-12 deficiency anemia",
+        "acute hemolytic anemia",
+        "acute aplastic anemia",
+        "acute post-hemorrhagic anemia"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-13",
+      "question": "Blood picture in acute post-hemorrhagic anemia is characterized on the 4-5 days:",
+      "options": [
+        "polychromatophilia",
+        "increase in the reticulocytes",
+        "presence megaloblasts",
+        "development of neutrophilic leukocytosis with a nuclear shift to the left",
+        "emergence of microspherocytes"
+      ],
+      "correctAnswers": [0, 1, 3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-14",
+      "question": "Relative erythrocytosis is observed with:",
+      "options": [
+        "anemia",
+        "indomitable vomiting",
+        "kidney disease",
+        "chronic hypoxia",
+        "erythremia"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-15",
+      "question": "Absolute erythrocytosis occurs:",
+      "options": [
+        "cancer of renal parenchyma",
+        "with excessive sweating",
+        "with significant diarrhea",
+        "with myeloid leukemia",
+        "with dehydration."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-16",
+      "question": "Absolute erythrocytosis occurs:",
+      "options": [
+        "In chronic hypoxia",
+        "with excessive sweating",
+        "with significant diarrhea",
+        "with myeloid leukemia",
+        "with dehydration."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-17",
+      "question": "Erythrocytosis that occurs with kidney tumors is:",
+      "options": [
+        "primary",
+        "erythremia",
+        "relative",
+        "secondary relative",
+        "absolute"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-18",
+      "question": "Anemia is characterized by a decrease in unit volume of blood:",
+      "options": [
+        "erythrocytes",
+        "white blood cells",
+        "platelet count",
+        "plasma cells",
+        "plasma coagulation factors"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-19",
+      "question": "Chronic blood loss leads to the development:",
+      "options": [
+        "vitamin B-12 deficiency anemia",
+        "hemolytic anemia",
+        "Fanconi anemia",
+        "iron deficiency anemia",
+        "microspherocytic anemia Minkowski Chauffard"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-20",
+      "question": "Specify the haematological parameters that are typical for iron deficiency anemia:",
+      "options": [
+        "RBC-3x1012, Hb-60 g/l",
+        "RBC-1.2x1012, Hb-50 g/l",
+        "MCH-25",
+        "MCH-35"
+      ],
+      "correctAnswers": [0, 2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-21",
+      "question": "Factors that are most often contributed to the development of iron deficiency anemia include:",
+      "options": [
+        "acute massive blood loss",
+        "chronic blood loss",
+        "achlorhydric states",
+        "irradiation",
+        "prolonged enteritis"
+      ],
+      "correctAnswers": [1, 2, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-22",
+      "question": "Which of the following statements is correct?",
+      "options": [
+        "always anemia is characterized by decreasing the number of erythrocytes",
+        "per unit volume of blood",
+        "in most cases of anemia is observed decrease in the number of erythrocytes per unit volume of blood",
+        "always anemia is characterized by decreasing the total amount of hemoglobin",
+        "anemia is not necessarily accompanied by a decrease in the total amount of hemoglobin"
+      ],
+      "correctAnswers": [1, 3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-23",
+      "question": "Describe the main pathogenetic factors contributing to the development of anemia:",
+      "options": [
+        "insufficient production of red blood cells",
+        "increased destruction of red blood cells",
+        "increased production of red blood cells",
+        "lack of destruction of red blood cells",
+        "violation of the output of erythrocytes from bone marrow"
+      ],
+      "correctAnswers": [0, 1, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-24",
+      "question": "What hereditary hemolytic anemia by type membranopathy does include?",
+      "options": [
+        "sickle cell anemia",
+        "anemia due to a deficiency of glucose-6-phosphate dehydrogenase",
+        "a-thalassemia",
+        "microspherocytosis",
+        "β-thalassemia"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-25",
+      "question": "Development of sickle-cell anemia is associated with:",
+      "options": [
+        "genetic defect of protein-lipid structure of the erythrocyte membrane",
+        "metabolic disorder of nucleotides",
+        "violation of the rate of synthesis of beta-chains of globin",
+        "blocking the oxidation of glucose-6-phosphate into the pentosephosphate cycle",
+        "substitution of glutamic acid in the beta-chains of globin on valine"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-26",
+      "question": "Anemia is defined as:",
+      "options": [
+        "Reduced count of erythrocytes, leukocytes, reticulocytes in given amount of blood",
+        "Reduced count of erythrocytes, trombocytes, leukocytes in given amount of blood",
+        "Reduced count of erythrocytes, haemoglobin in given amount of blood",
+        "Reduced count of erythrocytes, haemoglobin and hypovolemia",
+        "Olygocytemic hypervolemia"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-27",
+      "question": "Which of the following anemias are due to impaired erythropoiesis:",
+      "options": [
+        "Iron-deficient anemia, B12-folic acid-deficient anemia",
+        "Hypo- and aplastic anemias",
+        "Chronic anemias due to enzyme deficiency"
+      ],
+      "correctAnswers": [0, 1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-28",
+      "question": "Pathognomonic sign of pernicious anaemia is (1):",
+      "options": [
+        "Hunter's glossitis",
+        "Funicular myelosis",
+        "Shunt hyperbilirubinemia",
+        "Megaloblasts in the bone marrow and megalocytes in the peripheral blood",
+        "Nocturnal haemoglobinuria"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-29",
+      "question": "What reasons can cause the development of B12-deficiency anemia?",
+      "options": [
+        "radiation sickness",
+        "subtotal gastrectomy",
+        "ileal resection",
+        "resection of the jejunum"
+      ],
+      "correctAnswers": [1, 2, 3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-30",
+      "question": "Intravascular hemolysis most often occurs when:",
+      "options": [
+        "erythrocytopathies",
+        "haemoglobinopathies",
+        "transfusion of incompatible blood group",
+        "hemolytic action of poisons"
+      ],
+      "correctAnswers": [2, 3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-31",
+      "question": "Haemolytic disease of the newborn is a consequence of (1):",
+      "options": [
+        "Increased HbF levels",
+        "Increased number of enzyme deficient erythrocytes",
+        "Increased levels of maternal Rh antibodies in the blood of Rh-negative fetus",
+        "Incompatible (ABO) haemotransfusion to the mother during delivery",
+        "Spontaneous activation of cryogenic antibodies during delivery"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-32",
+      "question": "Haemoglobinopathies are hereditary diseases, resulting from:",
+      "options": [
+        "Enzyme defect in the glicolytic cycle",
+        "Glucose-6-phosphate dehydrogenase deficiency in erythrocytes",
+        "Reduced glutathione deficiency in erythrocytes",
+        "Genetically determined defect in the globin synthesis of haemoglobin",
+        "Genetically determined defect in the protoporphyrin ring synthesis"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-33",
+      "question": "Microspherocytic anaemia of Minkowski-Chauffard is a result of:",
+      "options": [
+        "Defect in the synthesis of haemoglobin beta chains",
+        "Genetic defect in the protein structure of the erythrocyte membrane",
+        "Inactivated glucose-6-phosphate-dehydrogenase and presence of cryogenic autoantibodies",
+        "Hexokinase inactivation",
+        "Methaemoglobin reductase deficiency"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-34",
+      "question": "Glucose-6-phosphate-dehydrogenase deficiency in erythrocytes leads to:",
+      "options": [
+        "Glycolytic chain disturbance with consequent energetic deficiency",
+        "Impaired glutathione reduction with decreased erythrocyte resistance",
+        "Increased tendency to polymerisation of haemoglobin",
+        "Impaired synthesis of globin beta-chain",
+        "Disturbances in the tricarbonic acids cycle"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-35",
+      "question": "Cooley's anemia (Thalassemia major) is a result of:",
+      "options": [
+        "Genetic defect in the synthesis of haemoglobin beta-chain",
+        "Genetic defect in the synthesis of haemoglobin alpha-chain",
+        "Deficiency of glucose-6-phosphate-dehydrogenase and reduced glutathione",
+        "Replacement of glutamine with valine at 6th place in the beta-chain",
+        "A complication of haemorrhagic disease of the newborn"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-36",
+      "question": "Erythrocyte poikilocytosis is:",
+      "options": [
+        "change in the average diameter of red blood cells",
+        "a change in the shape of red blood cells",
+        "red blood cells with basophilic puncture",
+        "red blood cells with Jolly bodies",
+        "red blood cells with rings of Kado."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-37",
+      "question": "Reticulocytosis in anemia indicates (about):",
+      "options": [
+        "the appearance of hyper- or hypochromic red blood cells",
+        "increase the functional activity of bone marrow",
+        "a change in the shape of red blood cells",
+        "changing the diameter of red blood cells",
+        "megaloblastic type of hematopoiesis"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-38",
+      "question": "With a single massive blood loss occurs:",
+      "options": [
+        "iron deficiency anemia",
+        "B-12 deficiency anemia",
+        "acute hemolytic anemia",
+        "acute aplastic anemia",
+        "acute posthemorrhagic anemia"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-39",
+      "question": "The hereditary hemolytic anemia by the type of membranopathy includes:",
+      "options": [
+        "applies",
+        "microspherocytosis",
+        "anemia due to deficiency of glucose-6-phosphate dehydrogenase",
+        "a-thalassemia",
+        "sickle cell anemia",
+        "b- thalassemia"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-40",
+      "question": "The development of sickle cell anemia is associated with:",
+      "options": [
+        "genetic defect in the protein-lipid structure of the red blood cell membrane",
+        "impaired nucleotide metabolism",
+        "violation of the synthesis rate of globin beta-chains",
+        "blocking the oxidation reaction of glucose-6-phosphate in the pentose-phosphate cycle",
+        "substitution of glutamic acid in the beta chain of globin with valine."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-41",
+      "question": "Hemolytic anemia is characterized by:",
+      "options": [
+        "megaloblastic type of hematopoiesis",
+        "fatty degeneration of red bone marrow",
+        "shortening the life expectancy of red blood cells",
+        "iron deficiency in the body",
+        "increased osmotic resistance of red blood cells"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-42",
+      "question": "Iron deficiency anemia is characterized:",
+      "options": [
+        "reticulocytosis",
+        "hypochromia",
+        "megaloblastic type of hematopoiesis",
+        "hemosiderosis",
+        "hyperbilirubinemia"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-43",
+      "question": "With iron deficiency anemia in the peripheral blood is observed:",
+      "options": [
+        "reticulocytosis.",
+        "hyperchromia of red blood cells.",
+        "microcytes.",
+        "neutrophilic leukocytosis with a shift to the left.",
+        "sickle-shaped red blood cells."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-44",
+      "question": "The main link in the pathogenesis of B12-deficient anemia is:",
+      "options": [
+        "violation of the synthesis of fatty acids",
+        "violation of the formation of myelin",
+        "violation of DNA synthesis",
+        "violation of the synthesis of deoxyadenosylcobalamin",
+        "violation of the formation of succinic acid"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-45",
+      "question": "The megaloblastic type of hematopoiesis is characteristic of:",
+      "options": [
+        "iron deficiency anemia",
+        "aplastic anemia",
+        "vitamin B-12 deficiency anemia",
+        "posthemorrhagic anemia",
+        "hemolytic anemia"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-46",
+      "question": "Pancytopenia is characteristic of:",
+      "options": [
+        "sickle cell anemia",
+        "acute posthemorrhagic anemia",
+        "thalassemia",
+        "hemolytic anemia",
+        "hypo-aplastic anemia"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-47",
+      "question": "Which of the following anemias can be attributed to hyporegenerative?",
+      "options": [
+        "chronic posthemorrhagic anemia",
+        "acute posthemorrhagic anemia",
+        "anemia with diphyllobothriasis",
+        "hereditary aplastic anemia",
+        "hereditary microspherocytic anemia of Minkofsky-Shoffar"
+      ],
+      "correctAnswers": [0, 2, 3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-48",
+      "question": "Which of the following anemias can be attributed to regenerative?",
+      "options": [
+        "iron deficiency anemia",
+        "acute posthemorrhagic anemia",
+        "Hemolytic anemia of Minkowski-Shoffar",
+        "autoimmune hemolytic anemia",
+        "folic acid deficiency anemia"
+      ],
+      "correctAnswers": [1, 2, 3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-49",
+      "question": "What anemias are characterized by red blood cell microcytosis?",
+      "options": [
+        "iron deficiency anemia",
+        "hemolytic anemia of Minkowski-Shoffar",
+        "acute posthemorrhagic anemia",
+        "chronic posthemorrhagic anemia",
+        "hypoplastic anemia"
+      ],
+      "correctAnswers": [0, 1, 3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-50",
+      "question": "What anemias are characterized by severe red blood cell hypochromia?",
+      "options": [
+        "chronic posthemorrhagic anemia",
+        "hypoplastic anemia",
+        "acute posthemorrhagic anemia",
+        "anemia with diphyllobothriasis",
+        "thalassemia"
+      ],
+      "correctAnswers": [0, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-51",
+      "question": "Indicate what changes in hematological indications are characteristic of Addison-Birmer anemia:",
+      "options": [
+        "anisocytosis and poikilocytosis of red blood cells",
+        "neutropenia",
+        "thrombocytopenia",
+        "the appearance in the blood of red blood cells with Joli bodies and Kabo rings",
+        "neutrophilia with a nuclear shift to the left"
+      ],
+      "correctAnswers": [0, 1, 2, 3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-52",
+      "question": "Which of the following anemias are inherited?",
+      "options": [
+        "hemolytic anemia of the newborn",
+        "microspherocytic anemia",
+        "thalassemia",
+        "sickle cell anemia"
+      ],
+      "correctAnswers": [1, 2, 3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-53",
+      "question": "Which of the following anemias are attributed to hemoglobinopathies?",
+      "options": [
+        "hereditary microspherocytic",
+        "sickle cell",
+        "paroxysmal nocturnal hemoglobinuria",
+        "Addison-Birmer Anemia",
+        "thalassemia"
+      ],
+      "correctAnswers": [1, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-54",
+      "question": "Among the factors most often contributing to the development of iron deficiency anemia can be attributed:",
+      "options": [
+        "acute massive blood loss",
+        "chronic blood loss",
+        "Addison-Birmer Anemia",
+        "radiation",
+        "helminths invasions"
+      ],
+      "correctAnswers": [1, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-55",
+      "question": "Physiological leukocytosis is observed with:",
+      "options": [
+        "myocardial infarction",
+        "pneumonia",
+        "bone fractures",
+        "in newborns",
+        "acute posthemorrhagic anemia"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-56",
+      "question": "Physiological leukocytosis includes:",
+      "options": [
+        "myogenic",
+        "inflammatory",
+        "digestive",
+        "infectious",
+        "leukocytosis of newborns"
+      ],
+      "correctAnswers": [0, 2, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-57",
+      "question": "The main mechanisms of pathological leukocytosis are:",
+      "options": [
+        "redistribution of blood in the vascular bed",
+        "stimulation of leukopoiesis",
+        "white blood cell emigration",
+        "leukocyte diapedesis",
+        "Accelerated exit of leukocytes in peripheral blood",
+        "leukocyte phagocytosis"
+      ],
+      "correctAnswers": [1, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-58",
+      "question": "Eosinophilia is characteristic:",
+      "options": [
+        "acute purulent process",
+        "for bronchial asthma",
+        "sepsis",
+        "for infectious mononucleosis",
+        "parasitic and helminthes diseases"
+      ],
+      "correctAnswers": [1, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-59",
+      "question": "What leukocytosis does usually occur after acute blood loss?",
+      "options": [
+        "neutrophilic",
+        "eosinophilic",
+        "lymphocyte"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-60",
+      "question": "Neutrophilic leukocytosis is observed in:",
+      "options": [
+        "Allergic reactions",
+        "hypoplastic processes",
+        "helminthic invasion",
+        "Traumatic brain injury",
+        "Myocardial Infarction"
+      ],
+      "correctAnswers": [1, 3, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-61",
+      "question": "Lymphocytosis is characteristic of:",
+      "options": [
+        "tuberculosis",
+        "purulent-septic diseases",
+        "measles",
+        "whooping cough",
+        "disease of <cat's scratches>"
+      ],
+      "correctAnswers": [0, 2, 3, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-62",
+      "question": "Neutrophilic leukocytosis with a regenerative nuclear shift to the left is:",
+      "options": [
+        "leukocytosis with an increase in the content of stab neutrophils",
+        "leukocytosis with a predominance of hypersegmented neutrophils",
+        "leukocytosis with an increase in the content of band forms, metamyelocytes, myelocytes are revealed",
+        "the appearance in the hemogram of myeloblasts",
+        "the appearance in the hemogram of myelocytes."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-63",
+      "question": "Leukopenia can develop with:",
+      "options": [
+        "allergies",
+        "helminthic infestations",
+        "radiation sickness",
+        "emotional excitement",
+        "leukemoid reactions"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-64",
+      "question": "Leukopenia can leads to:",
+      "options": [
+        "lowering blood coagulation",
+        "lowering the body's resistance",
+        "development of sensitization of the body",
+        "the development of leukemia",
+        "reticulocytosis"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-65",
+      "question": "The basic mechanisms for quantitative changes in leukocytes are:",
+      "options": [
+        "Stimulated or suppressed leukopoesis",
+        "Recruitment of reserve leukocytes from haemopoietic organs",
+        "Redistribution of leukocytes in the vascular system",
+        "increased leukocyte destruction in peripheral tissues"
+      ],
+      "correctAnswers": [0, 1, 2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-66",
+      "question": "Causes for leukopenia are all of the stated, except for:",
+      "options": [
+        "exposure of ionizing radiation",
+        "Treatment with cytostatic drugs",
+        "excessive destruction of leukocytes",
+        "Increased sympathetic tone",
+        "impairment or depression of leukopoiesis"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-67",
+      "question": "The clinical manifestation of leukopenia is related to:",
+      "options": [
+        "Impaired defensive reactions of the organism",
+        "Development of oedematous syndrome",
+        "Disturbed control of anabolic processes",
+        "Postponed regenerative ability of the bone marrow",
+        "Thromboembolic diatheses"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-68",
+      "question": "Agranulocytosis is:",
+      "options": [
+        "Increase in the number of lymphocytes and monocytes in the blood",
+        "The acute decrease in the number of neutrophils and eosinophils in the blood",
+        "Increase the number of agranulocytes",
+        "Increase in the number of blood neutrophils hypersegmented",
+        "The acute decrease in the number of reticulocytes in the blood"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-69",
+      "question": "The effects of long-term pronounced leukopenia include:",
+      "options": [
+        "enhancing phagocytosis",
+        "violation of the immunity",
+        "reduction of antineoplastic resistance",
+        "generalization of infection",
+        "strengthening the processes of regeneration"
+      ],
+      "correctAnswers": [1, 2, 3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-70",
+      "question": "Specify which diseases are accompanied by relative lymphocytosis?",
+      "options": [
+        "immune form of agranulocytosis",
+        "viral infection",
+        "tuberculosis",
+        "hypoplastic anemia",
+        "infectious mononucleosis"
+      ],
+      "correctAnswers": [0, 3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-71",
+      "question": "The etiology of leukemia is related to:",
+      "options": [
+        "Ionizing radiation",
+        "RNA-viruses",
+        "Chromozome anomalies",
+        "Exogenous and endogenous cancerogenic substances",
+        "All of the above"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-72",
+      "question": "What diseases are accompanied by eosinophilia?",
+      "options": [
+        "hay fever",
+        "liver echinococcosis",
+        "feverless forms of tuberculosis",
+        "Addison-Birmer disease",
+        "chronic myeloid leukemia"
+      ],
+      "correctAnswers": [0, 1, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-73",
+      "question": "What diseases are often accompanied by the development of monocytosis?",
+      "options": [
+        "measles",
+        "bronchial asthma",
+        "myocardial infarction",
+        "endemic typhus",
+        "tuberculosis"
+      ],
+      "correctAnswers": [0, 3, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-74",
+      "question": "What hemogram changes are characteristic for chronic lymphocytic leukemia?",
+      "options": [
+        "the appearance in the blood of myelocytes",
+        "the appearance in the blood of prolymphocytes",
+        "the appearance in the blood smear of Botkin-Gumprecht shadows",
+        "relative lymphocytosis",
+        "anemia"
+      ],
+      "correctAnswers": [1, 2, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-75",
+      "question": "Pathological neutrophilic leukocytosis is observed with:",
+      "options": [
+        "furunculosis",
+        "pregnancy",
+        "otitis",
+        "feeling of fear",
+        "myocardial infarction"
+      ],
+      "correctAnswers": [0, 2, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-76",
+      "question": "Physiological leukocytosis includes:",
+      "options": [
+        "myogenic",
+        "inflammatory",
+        "digestive",
+        "infectious",
+        "emotional"
+      ],
+      "correctAnswers": [0, 2, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-77",
+      "question": "The basis for the development of leukemia is:",
+      "options": [
+        "increased ability of cells to differentiate and mature",
+        "increased activity of anti-blastoma resistance of the body",
+        "uncontrolled proliferation of hematopoietic cells",
+        "decreased mitotic activity of cells",
+        "reduced activity of proto-oncogenes and transforming oncogenes"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-78",
+      "question": "Characteristic for leukemia:",
+      "options": [
+        "erythroid red bone marrow hyperplasia",
+        "bleeding from the gums, nose, intestines",
+        "infectious complications",
+        "appearance of leukemic infiltrates in the tissues",
+        "reduction of blast cells in the bone marrow."
+      ],
+      "correctAnswers": [1, 2, 3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-79",
+      "question": "The prevalence of blast forms of granulocytes in the blood and the absence of intermediate forms of maturation with a small number of mature cells (Heatus leukemias) is characteristic of:",
+      "options": [
+        "chronic leukemia",
+        "acute leukemia",
+        "leukemoid reaction",
+        "leukocytosis",
+        "leukopenia"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-80",
+      "question": "Leukemic \"hiatus leukaemikus\" is:",
+      "options": [
+        "the absence of basophils and eosinophils in the leukocyte formula",
+        "the appearance of a significant number of myeloblasts in the leukocyte formula",
+        "the absence of intermediate forms in the presence of blast and mature forms of leukocytes",
+        "an increase in mature forms of white blood cells",
+        "the absence of blast forms of white blood cells."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-81",
+      "question": "A large number of blast cells in the blood is characteristic of:",
+      "options": [
+        "acute leukemia",
+        "chronic leukemia",
+        "leukocytosis",
+        "leukopenia",
+        "leukemoid reaction"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-82",
+      "question": "Hemorrhagic syndrome with leukemia is due to:",
+      "options": [
+        "leukopenia",
+        "erythrocytopenia",
+        "hemolysis of red blood cells",
+        "thrombocytopenia",
+        "antithrombin deficiency"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-83",
+      "question": "What is a leukemoid reaction?",
+      "options": [
+        "systemic disease of tumor nature arising from hematopoietic cells of bone marrow",
+        "symptomatic conditions characterized by a significant increase in the number of leukocytes in the blood with the appearance of a large number of young forms"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-84",
+      "question": "Leukemoid reactions can occur when:",
+      "options": [
+        "hard ongoing infection (measles, diphtheria, scarlet fever)",
+        "endocrine disorders",
+        "helminthoses",
+        "posthemorrhagic anemia"
+      ],
+      "correctAnswers": [0, 2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-85",
+      "question": "Neutrophilic type of leukemoid reactions is characterized:",
+      "options": [
+        "basophilic-eosinophilic association",
+        "hyperregenerative shift of the leukocyte formula to the left",
+        "the appearance in the blood of plasma cells",
+        "cell atypism of granulocytes",
+        "pancytopenia"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-86",
+      "question": "Leukemoid reactions, unlike leukemia, are characterized by:",
+      "options": [
+        "diffuse, malignant hematopoietic tissue metaplasia",
+        "absent Heatus leukemicas",
+        "present Heatus leukemicas",
+        "anemia",
+        "trombocytopenia",
+        "present all intermediate forms of leukocytes"
+      ],
+      "correctAnswers": [1, 5]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-87",
+      "question": "Name probable mechanism of leukemia:",
+      "options": [
+        "mutation of genes or epigenetic dysregulation division and differentiation of hematopoietic progenitor cells",
+        "disturbance of the immunological status with the emergence of clone \"forbidden\" cells."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-88",
+      "question": "By acute leukemia in the bone marrow it occurs:",
+      "options": [
+        "white blood elements hyperplasia",
+        "lack of white blood metaplasia elements;",
+        "decrease of the number of elements erythrocyte cell",
+        "increase the number of elements erythrocyte cell;",
+        "reduction in the number of megakaryocytes",
+        "increase in the number of megakaryocyte"
+      ],
+      "correctAnswers": [0, 2, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-89",
+      "question": "What changes in the peripheral blood are accompanied by the development of most of leukemia?",
+      "options": [
+        "anemia",
+        "erythrocytosis;",
+        "thrombocytopenia;",
+        "thrombocytosis"
+      ],
+      "correctAnswers": [0, 2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-90",
+      "question": "Manifestations of tumor progression in leukemia include the transformation:",
+      "options": [
+        "leukemia to leukemoid reaction;",
+        "monoclonal leukemia to polyclonal leukemia",
+        "normoblastic type of hematopoiesis to megaloblastic type;",
+        "hematopoietic stem cells to fat cells;",
+        "hematopoietic cells to hormone producing cells"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-91",
+      "question": "The presence of the Philadelphia chromosome in hematopoietic cells of bone marrow is typical for:",
+      "options": [
+        "acute myeloid leukemia;",
+        "acute lymphoblastic leukemia;",
+        "chronic monocytic leukemia",
+        "chronic myeloid leukemia;",
+        "myeloma"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-92",
+      "question": "For leukemoid reactions neutrophil type characteristic is:",
+      "options": [
+        "basophilic-eosinophilic association;",
+        "hyperregenerative leukocyte shift to the left",
+        "the appearance of plasma cells in the blood;",
+        "granulocyte cell atypia;",
+        "pancytopenia"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-93",
+      "question": "The emergence of basophilic-eosinophilic association is characteristic of:",
+      "options": [
+        "Acute lymphocytic leukemia",
+        "Acute myeloid leukemia",
+        "Chronic lymphocytic leukaemia",
+        "Chronic myeloid leukemia",
+        "Any leukemia"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-94",
+      "question": "What is the characteristic of leukemia cells?",
+      "options": [
+        "hypoplasia of the hematopoietic tissue",
+        "metaplasia",
+        "anaplasia",
+        "reversible hyperplasia",
+        "irreversible hyperplasia",
+        "accelerated maturation of cellular elements"
+      ],
+      "correctAnswers": [1, 2, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-95",
+      "question": "Dysfunction of the immune system in leukemia is manifested by:",
+      "options": [
+        "decreased phagocytic activity of leukocytes",
+        "increased phagocytic activity of leukocytes",
+        "decreased antibody formation",
+        "increased antibody formation",
+        "secondary infection",
+        "autoallergic reactions"
+      ],
+      "correctAnswers": [0, 2, 4, 5]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-96",
+      "question": "Acute myeloid leukemia is characterized by the appearance in the hemogram of:",
+      "options": [
+        "Basophilic-eosinophilic association",
+        "Thrombocytosis",
+        "Blast",
+        "Hiatus leukaemius",
+        "Anemia"
+      ],
+      "correctAnswers": [2, 3, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-97",
+      "question": "What type of leukemia is characterized by the presence of Botkin-Gumprecht shadows in a peripheral blood smear?",
+      "options": [
+        "lymphocytic leukemia",
+        "monocytic leukemia",
+        "myeloid leukemia."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-98",
+      "question": "\"Hiatus leukemic\" is:",
+      "options": [
+        "absence of young forms of leukocytes in peripheral blood",
+        "the absence of intermediate forms between blast maturing and mature forms of leukocytes",
+        "lack of young and mature forms of leucocytes with a predominance of intermediate"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-99",
+      "question": "Leukemia is characterized by:",
+      "options": [
+        "hyperplasia of erythroidal sprout of the bone marrow",
+        "bleeding from the gums, the nose, the intestine",
+        "infectious complications",
+        "the appearance of leukemic infiltrates in the tissues",
+        "reduction of blast cells in the bone marrow"
+      ],
+      "correctAnswers": [1, 2, 3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-100",
+      "question": "Leukemia is characterized by:",
+      "options": [
+        "hyperplasia of the erythroid lineage of the bone marrow",
+        "bleeding from the gums, nose, intestines",
+        "infectious complications",
+        "the appearance of leukemic infiltrates in tissues",
+        "a decrease in blast cells in the bone marrow"
+      ],
+      "correctAnswers": [1, 2, 3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-101",
+      "question": "Leukemia in which all forms of granulocyte differentiation are present in the blood is called:",
+      "options": [
+        "acute myeloid leukemia",
+        "chronic myeloid leukemia",
+        "acute lymphocytic leukemia",
+        "chronic lymphocytic leukemia",
+        "monocytic leukemia"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-102",
+      "question": "Specify what changes in hematological parameters are characteristic of chronic myeloid leukemia?",
+      "options": [
+        "lymphoblasts in the blood",
+        "myeloblasts in the blood",
+        "myelocytes and metamyelocytes in the blood",
+        "absolute neutrophilia",
+        "relative lymphopenia."
+      ],
+      "correctAnswers": [1, 2, 3, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-103",
+      "question": "Disturbances in haemostasis are classified as:",
+      "options": [
+        "Coagulopathies",
+        "Thrombocytopathies",
+        "Vasopathies",
+        "Fibrilopathies"
+      ],
+      "correctAnswers": [0, 1, 2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-104",
+      "question": "Coagulopathies develop as a result of:",
+      "options": [
+        "Quantitative and qualitative alterations in thrombocytes",
+        "Alterations in the permeability of the vessel wall",
+        "Quantitative and qualitative alterations in plasma factors",
+        "Quantitative and qualitative alterations in erythrocytes",
+        "Spontaneous hemodilution"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-105",
+      "question": "The genetically caused deficiency of factor VIII is a main pathogenetic unit in:",
+      "options": [
+        "Haemolytic disease of the newborn",
+        "Haemophilia A",
+        "Haemolytic anemia of Minkowski-Chauffard",
+        "Haemoglobinopathies",
+        "Thrombasthenias"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-106",
+      "question": "Which are the pathogenetic mechanisms in the development of thrombocytopenia?",
+      "options": [
+        "Suppressed thrombogenesis",
+        "Increased platelets destruction in the periphery",
+        "Suppressed thrombin synthesis"
+      ],
+      "correctAnswers": [0, 1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-107",
+      "question": "Hemophilia A is associated with (2)",
+      "options": [
+        "Mutation in the sex X chromosome",
+        "Deficiency of factor VIII",
+        "Factor IX deficiency",
+        "Deficiency Factor XI",
+        "Mutation in an autosome"
+      ],
+      "correctAnswers": [0, 1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-108",
+      "question": "Hemophilia B is associated with (2):",
+      "options": [
+        "Mutation in the sex X chromosome",
+        "Deficiency of factor VIII",
+        "Factor IX deficiency",
+        "Deficiency Factor XI",
+        "Mutation in an autosome"
+      ],
+      "correctAnswers": [0, 2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-109",
+      "question": "Dysfunction of thrombocytes can be observed with:",
+      "options": [
+        "Taking aspirin",
+        "Hemophilia A",
+        "Hemophilia B",
+        "Glanzmann thrombasthenia",
+        "Diseases of von Willebrand"
+      ],
+      "correctAnswers": [0, 3, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-110",
+      "question": "Type of bleeding with hemophilia A:",
+      "options": [
+        "Hematoma",
+        "Petechial spotted",
+        "Vasculitis magenta",
+        "Angiomatous",
+        "Mixed"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-111",
+      "question": "Specify the type of bleeding with thrombocytopenia and thrombocytopathy:",
+      "options": [
+        "Hematoma",
+        "Petechial haemorrhages",
+        "Vasculitis magenta",
+        "Angiomatous",
+        "Mixed"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-112",
+      "question": "For hemophilia A, the statement is true that it is due to (2)",
+      "options": [
+        "Violation of the external coagulation mechanism",
+        "Violation of the internal coagulation mechanism",
+        "Factor VIII deficiency",
+        "Factor IX deficiency",
+        "Factor XI deficiency"
+      ],
+      "correctAnswers": [1, 2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-113",
+      "question": "Indicate changes characteristic of von Willebrand disease:",
+      "options": [
+        "increase in the duration of capillary bleeding",
+        "prolongation of blood coagulation time",
+        "deficiency of von Willebrand factor",
+        "platelet aggregation activation",
+        "decrease in procoagulant activity of factor VIII"
+      ],
+      "correctAnswers": [0, 1, 2, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-114",
+      "question": "The following factors play a significant role in the pathogenesis of DIC syndrome:",
+      "options": [
+        "disseminated microthrombosis",
+        "massive damage to body tissues",
+        "lower tissue thromboplastin production",
+        "platelet aggregation activation",
+        "decreased activity of the fibrinolytic system"
+      ],
+      "correctAnswers": [0, 1, 3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-115",
+      "question": "Anticoagulants include:",
+      "options": [
+        "antithrombin III",
+        "heparin",
+        "prothrombinase",
+        "thromboxane A2"
+      ],
+      "correctAnswers": [0, 1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-116",
+      "question": "Indicate the factors causing the development of thrombocytopenia:",
+      "options": [
+        "inhibition of proliferation of megakaryoblasts",
+        "displacement of megakaryocytic bone marrow growth by leukemia cells",
+        "activation of leukocyte bone marrow growth in inflammation",
+        "increased \"consumption\" of platelets in the process of thrombosis",
+        "immune platelet damage"
+      ],
+      "correctAnswers": [0, 1, 3, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-117",
+      "question": "Indicate the causes of DIC:",
+      "options": [
+        "syndrome of \"prolonged crushing\"",
+        "acute leukemia",
+        "vitamin deficiency K",
+        "sepsis",
+        "shock"
+      ],
+      "correctAnswers": [0, 1, 3, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-118",
+      "question": "With hemophilia A, it will change:",
+      "options": [
+        "bleeding duration",
+        "spontaneous platelet aggregation",
+        "coagulation time",
+        "thrombin time",
+        "the amount of retraction of the clot"
+      ],
+      "correctAnswers": [0, 2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-119",
+      "question": "What pathological conditions have a high risk of thrombotic syndrome?",
+      "options": [
+        "Nephrotic syndrome",
+        "Congestive heart failure",
+        "Malignant tumors with disseminated metastases",
+        "Liver failure",
+        "Atherosclerosis",
+        "Hyperthyroidism"
+      ],
+      "correctAnswers": [1, 2, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-120",
+      "question": "How many platelets in the peripheral blood cause spontaneous bleeding?",
+      "options": [
+        "100 - 120 × 10 9 / 1",
+        "20 - 50 × 109 / 1",
+        "less than 20 × 109 / 1"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-121",
+      "question": "DIC syndrome is characterized by the following changes in the blood:",
+      "options": [
+        "Thrombocytopenia",
+        "Hypofibrinogenemia",
+        "Low levels of fibrinolysis products",
+        "The increased level of antithrombin III",
+        "The low content of factors II, V, VIII",
+        "Elevated levels of a2-antiplasmin"
+      ],
+      "correctAnswers": [0, 1, 4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-122",
+      "question": "Thrombocytopenia is caused by a violation of platelet production in the bone marrow in the following forms of pathology:",
+      "options": [
+        "Acute leukemia",
+        "Thrombotic thrombocytopenia purpura",
+        "Splenomegaly",
+        "Radiation sickness",
+        "B12-folic deficiency anemia",
+        "DIC",
+        "Aplastic anemia",
+        "Hemolytic uremic syndrome"
+      ],
+      "correctAnswers": [0, 3, 4, 6]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-123",
+      "question": "What syndromes and forms of pathology cause disseminated small blood vessel thrombosis?",
+      "options": [
+        "Disseminated intravascular coagulation",
+        "Thrombotic thrombocytopenic purpura",
+        "Atherosclerosis",
+        "Hemolytic uremic syndrome",
+        "The phenomenon of Arthus",
+        "AIDS",
+        "Vitamin K deficiency"
+      ],
+      "correctAnswers": [0, 1, 3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-124",
+      "question": "Manifestations of the hypocoagulation stage of DIC syndrome",
+      "options": [
+        "thrombocytopenia",
+        "hyperthromboplastinemia",
+        "shortening of blood clotting time"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-125",
+      "question": "To which group of hemorrhagic diathesis does hemophilia belong?",
+      "options": [
+        "associated with blood clotting disorder",
+        "associated with vascular wall disorder",
+        "associated with platelet system pathology",
+        "associated with anticoagulant system pathology"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-126",
+      "question": "In which vessels do blood clots form most often?",
+      "options": [
+        "in veins",
+        "in arteries",
+        "in capillaries",
+        "in lymphatic vessels"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-127",
+      "question": "Absolute deficiency of vitamin K in the body will lead to",
+      "options": [
+        "impaired platelet adhesion",
+        "intestinal dysbacteriosis",
+        "hypercoagulation",
+        "impaired platelet aggregation",
+        "deficiency of coagulation factors in blood plasma"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-128",
+      "question": "The first stage of coagulation hemostasis ends with the formation of",
+      "options": [
+        "prothrombin",
+        "prothrombinase",
+        "thrombin",
+        "fibrin",
+        "plasmin"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-129",
+      "question": "The second stage of coagulation hemostasis ends with the formation of",
+      "options": [
+        "prothrombin",
+        "prothrombinase",
+        "thrombin",
+        "fibrin",
+        "plasmin"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-130",
+      "question": "The third stage of coagulation hemostasis ends with the formation of",
+      "options": [
+        "prothrombin",
+        "prothrombinase",
+        "thrombin",
+        "fibrin",
+        "plasmin"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-131",
+      "question": "The intrinsic pathway of coagulation hemostasis begins with",
+      "options": [
+        "activation of prothrombin",
+        "release of thromboplastin",
+        "activation of contact factor",
+        "activation of prothrombinase",
+        "activation of platelets"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-132",
+      "question": "The extrinsic pathway of coagulation hemostasis begins with",
+      "options": [
+        "activation of prothrombin",
+        "release of thromboplastin",
+        "activation of contact factor",
+        "activation of prothrombinase",
+        "activation of platelets"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-133",
+      "question": "The causes of DIC syndrome are",
+      "options": [
+        "shock",
+        "leukopenia",
+        "erythemia",
+        "leukocytosis",
+        "hypervitaminosis K"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-134",
+      "question": "The hypocoagulation stage of DIC syndrome is mainly associated with",
+      "options": [
+        "an increase in the number of platelets",
+        "activation of hemostasis",
+        "consumption of blood coagulation factors",
+        "inhibition of fibrinolysis",
+        "activation of primary anticoagulants"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-135",
+      "question": "Hemophilia A is associated with",
+      "options": [
+        "a mutation in the Y sex chromosome",
+        "a deficiency of factor VIII",
+        "a deficiency of factor IX",
+        "a deficiency of factor XI",
+        "a mutation in an autosome"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-136",
+      "question": "Impaired platelet function can be observed in",
+      "options": [
+        "hemophilia C",
+        "hemophilia A",
+        "hemophilia B",
+        "Glanzmann's thrombasthenia",
+        "hypervitaminosis"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-137",
+      "question": "The most characteristic sign of hemophilia A",
+      "options": [
+        "prolongation of bleeding time",
+        "prolongation of blood clotting time",
+        "positive tourniquet test, pinch",
+        "decrease in prothrombin time",
+        "positive ethanol test"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-138",
+      "question": "Characteristic sign of thrombocytopenia",
+      "options": [
+        "prolongation of bleeding time",
+        "prolongation of blood clotting time",
+        "negative tourniquet test, pinch",
+        "decrease in prothrombin time",
+        "positive ethanol test"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-4-rbc-wbc-hemostasis-139",
+      "question": "Bleeding in hemophilia A is caused by",
+      "options": [
+        "impaired vascular-platelet hemostasis",
+        "impaired platelet hemostasis",
+        "impaired coagulation hemostasis",
+        "depletion of blood clotting factors",
+        "excess of blood clotting factors"
+      ],
+      "correctAnswers": [2]
+    }
+  ]
+}

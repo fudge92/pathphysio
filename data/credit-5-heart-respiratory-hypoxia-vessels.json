@@ -1,0 +1,1671 @@
+{
+  "title": "Credit 5: HEART, RESPIRATORY, HYPOXIA, VESSELS",
+  "id": "credit-5-heart-respiratory-hypoxia-vessels",
+  "questions": [
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-1",
+      "question": "The cause of acute right-sided heart failure may be:",
+      "options": [
+        "aortic insufficiency",
+        "mitral valve insufficiency",
+        "aortic stenosis",
+        "pulmonary stenosis",
+        "mitral stenosis"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-2",
+      "question": "The cause of right-sided heart failure may be:",
+      "options": [
+        "aortic valve insufficiency.",
+        "mitral valve insufficiency.",
+        "coarctation of the aorta.",
+        "arterial hypertension of the pulmonary circulation.",
+        "arterial hypotension of the pulmonary circulation."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-3",
+      "question": "One of the signs of right-sided heart failure is:",
+      "options": [
+        "pallor",
+        "asthma attacks",
+        "hemoptysis",
+        "pulmonary edema",
+        "cyanosis of the skin and visible mucous membranes, ascites"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-4",
+      "question": "One of the causes of left-sided heart failure is:",
+      "options": [
+        "lung diseases",
+        "stenosis of the valve of the pulmonary artery",
+        "tricuspid valve insufficiency",
+        "right ventricular infarction",
+        "mitral valve insufficiency"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-5",
+      "question": "One of the causes of left-sided heart failure is:",
+      "options": [
+        "pulmonary hypertension.",
+        "stenosis of the valve of the pulmonary artery.",
+        "right ventricular infarction",
+        "emphysema.",
+        "primary arterial hypertension"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-6",
+      "question": "With left-sided heart failure observed:",
+      "options": [
+        "ascites.",
+        "swelling in the lower extremities.",
+        "pulsation of the veins of the neck.",
+        "enlarged liver.",
+        "pulmonary edema"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-7",
+      "question": "Long-term adaptation of heart function provides:",
+      "options": [
+        "tachycardia",
+        "myocardial hypertrophy",
+        "heterometric mechanism of adaptation",
+        "homeometric mechanism of adaptation",
+        "myogenic dilatation"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-8",
+      "question": "The alarm stage of heart hypertrophy is characterized by:",
+      "options": [
+        "increased energy production and increased protein synthesis",
+        "hyperfunction of hypertrophic myocardium",
+        "normalization of energy production per unit mass of mikard",
+        "normalization of energy production per unit mass of mikard"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-9",
+      "question": "Myocardial form of heart failure occurs when:",
+      "options": [
+        "valvular heart disease",
+        "Hypertension",
+        "arteriovenous blood shunt",
+        "coarctation of the aorta",
+        "myocardial infarction"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-10",
+      "question": "Myocardial heart failure is a consequence of:",
+      "options": [
+        "hypertension of the pulmonary circulation.",
+        "hypertension of a large circle of blood circulation.",
+        "stenosis of the valve of the aorta.",
+        "primary metabolic disturbances in the heart muscle.",
+        "hypervolemia."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-11",
+      "question": "The consequence of acute myocardial ischemia is:",
+      "options": [
+        "development of heart disease",
+        "development of pericarditis",
+        "cell damage, up to necrosis",
+        "coarctation of the aorta",
+        "primary arterial hypertension"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-12",
+      "question": "In the stage of compensation of heart failure present such mechanisms:",
+      "options": [
+        "increased sympathetic stimulation of the heart",
+        "increased fluid retention with increased venous return",
+        "decreased blood pressure",
+        "increased ventricular volume and fiber length",
+        "ventricular hypertrophy"
+      ],
+      "correctAnswers": [0, 1, 3, 4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-13",
+      "question": "Indicate the factors, condition and diseases that can cause heart failure through direct damage to the myocardium:",
+      "options": [
+        "tricuspid valve insufficiency",
+        "deficiency of vitamin B1 (thiamine)",
+        "hypertension",
+        "septic conditions",
+        "alcohol"
+      ],
+      "correctAnswers": [1, 3, 4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-14",
+      "question": "Heart failure is characterized by:",
+      "options": [
+        "decreased contractility of the myocardium",
+        "usually a decrease in stroke volume",
+        "usually a decrease in cardiac output",
+        "usually an increase in cardiac output",
+        "dilatation of the heart cavities"
+      ],
+      "correctAnswers": [0, 1, 2, 4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-15",
+      "question": "Indicate the mechanisms of urgent cardiac compensation of hemodynamic disturbances in heart failure",
+      "options": [
+        "bradycardia",
+        "tachycardia",
+        "homeometric mechanism",
+        "frank-starling heterometric mechanism",
+        "myocardial hypertrophy",
+        "increase in circulating blood volume"
+      ],
+      "correctAnswers": [1, 2, 3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-16",
+      "question": "Heart failure by the nature of the clinical course is divided into:",
+      "options": [
+        "remitting",
+        "acute",
+        "permanent",
+        "labile",
+        "intermittent",
+        "chronic"
+      ],
+      "correctAnswers": [1, 5]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-17",
+      "question": "Indicate the mechanisms for urgent extracardial compensation of hemodynamic disturbances in heart failure:",
+      "options": [
+        "increasing of O2 utilization",
+        "increased activity of the parasympathetic nervous system",
+        "decrease in circulating blood volume",
+        "decreasing of peripheral vessels resistance",
+        "myocardial hypertrophy"
+      ],
+      "correctAnswers": [0, 3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-18",
+      "question": "Heart failure is characterized by:",
+      "options": [
+        "decreased contractility of the myocardium",
+        "decrease in stroke volume",
+        "usually a decrease in cardiac output",
+        "decrease in residual systolic blood volume",
+        "dilatation of the cavities of the heart"
+      ],
+      "correctAnswers": [0, 1, 2, 4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-19",
+      "question": "Myocardial ischemia is mainly a result of",
+      "options": [
+        "an increase in myocardial metabolic demands",
+        "coronary obstruction",
+        "acute falling of systemic arterial pressure",
+        "severe anemia",
+        "heart remodelling."
+      ],
+      "correctAnswers": [0, 1, 2, 3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-20",
+      "question": "The essence of myocardial ischemia is:",
+      "options": [
+        "mismatch between import and export ofoxygen in the myocardium.",
+        "inadequacy between arterial and venous circulation of the heart",
+        "mismatch between coronary blood flow and myocardial demands",
+        "inactivated myocardial oxygen.",
+        "circadian oxygen imbalance in the myocardium."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-21",
+      "question": "Which of the following causes refer to the \"risk factors\" for IHD?",
+      "options": [
+        "atherogenic dyslipoproteinemia, smoking",
+        "arterial hypertension, diabetes",
+        "fasting and increased physical activity.",
+        "obesity, decrease physical activity"
+      ],
+      "correctAnswers": [0, 1, 3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-22",
+      "question": "The main causes of IHD are:",
+      "options": [
+        "coronary atherosclerosis",
+        "platelet aggregation in the coronary vessels",
+        "impaired oxygen transport function of the blood",
+        "coronary spasm induced by gastro- coronary reflex",
+        "decrease in oxygen demands of the myocardium."
+      ],
+      "correctAnswers": [0, 1, 2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-23",
+      "question": "What is angina pectoris?",
+      "options": [
+        "respiratory-related chest pain.",
+        "transient ischemic chest pain",
+        "neuralgic chest pain.",
+        "chest pain which depends on the position of the body.",
+        "neuralgic pain in a fixed location."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-24",
+      "question": "The main pathogenetic mechanism of stable angina pectorisis:",
+      "options": [
+        "increased oxygen requirements of the myocardium",
+        "rapidly progressive coronary stenosis.",
+        "coronary thrombosis.",
+        "coronary dissection.",
+        "acute coronaritis."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-25",
+      "question": "The main pathogenetic mechanism of unstable angina pectoris is:",
+      "options": [
+        "intramural myocardial coronary compression.",
+        "fixed coronary stenosis with primary arterial hypotension.",
+        "result of atherosclerotic plaque disruption",
+        "hormonal oxidative phosphorylation explosion in myocardium.",
+        "exacerbated coronaritis."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-26",
+      "question": "What is acute myocardial infarction?",
+      "options": [
+        "myocardial dystrophy.",
+        "ischemic necrosis of the myocardium",
+        "myocardial fibrosis.",
+        "acute inflammatory process.",
+        "spontaneous apoptosis of myocardiocytes."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-27",
+      "question": "The most common complications of acute myocardial infarction are:",
+      "options": [
+        "pulmonary embolism",
+        "cardiogenic shock",
+        "ventricular aneurysm",
+        "pericarditis",
+        "mural thrombi"
+      ],
+      "correctAnswers": [0, 1, 2, 3, 4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-28",
+      "question": "The most common complications of acute myocardial infarction are:",
+      "options": [
+        "thromboembolism of cerebral vessels",
+        "angina pectoris",
+        "heart aneurysm",
+        "rhythm and conduction disorders",
+        "acute pericarditis"
+      ],
+      "correctAnswers": [0, 2, 3, 4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-29",
+      "question": "Which is the most common causes of sudden cardiac death?",
+      "options": [
+        "ventricular fibrillation",
+        "ventricular rupture",
+        "cardiac tamponade",
+        "angina pectoris",
+        "sudden block in ventricular contractions"
+      ],
+      "correctAnswers": [0, 1, 2, 4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-30",
+      "question": "Condition leading to activation of the Frank-Starling mechanism is:",
+      "options": [
+        "increased afterload",
+        "increased preload",
+        "sinus tachycardia",
+        "physical exercise",
+        "increased myocardium contractility"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-31",
+      "question": "Pathological hypertrophy is characterized by:",
+      "options": [
+        "excessive hypertrophy of organelles, cells and capillaries of cardiomyocytes",
+        "hyperplasia of cardiomyocytes.",
+        "cardiomyocyte polyploidy",
+        "multiplication of cardiac connective tissue elements.",
+        "massive intramyocardial hemorrhage."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-32",
+      "question": "Which defense mechanism of the respiratory system has a reflex character?",
+      "options": [
+        "Cough.",
+        "Alveolar macrophage system.",
+        "Mucociliary escalator.",
+        "Antioxidant systems.",
+        "Nasopharyngeal filter."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-33",
+      "question": "The most important outcome of alveolar hypoventilation is: (1)",
+      "options": [
+        "Cyanosis.",
+        "Increased airway resistance.",
+        "Dyspnea.",
+        "Orthopnea.",
+        "Respiratory acidosis."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-34",
+      "question": "What does ventilation/perfusion mismatch mean? (1)",
+      "options": [
+        "Absolutely increased or decreased ventilation and blood flow in the lungs.",
+        "Inadequately distributed blood flow in the lungs.",
+        "Limited capillary blood flow during maximal inspiration.",
+        "Mismatch between the airflow in the lungs and capillary blood flow",
+        "Discrepancy between the ventilation and perfusion in the different parts of the lung."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-35",
+      "question": "The diffusion capacity of the lungs decreases in all of the following, except one:",
+      "options": [
+        "Anemia.",
+        "Interstitial fibrosis.",
+        "Bullous emphysema.",
+        "Pulmonary edema.",
+        "Increased cardiac output."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-36",
+      "question": "Hypercapnia could be due to: (1)",
+      "options": [
+        "Hyperventilation.",
+        "State of anxiety and excitement.",
+        "Hypoxic stimuli.",
+        "Drugs suppressing the respiratory center.",
+        "Increased physical activity."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-37",
+      "question": "Cyanosis in respiratory failure is mostly due to: (1)",
+      "options": [
+        "Polycythemia.",
+        "Hypercapnia.",
+        "Increased fraction of reduced hemoglobin.",
+        "Peripheral vascular spasm.",
+        "Decreased dyshemoglobin"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-38",
+      "question": "Which disease is typically accompanied by chest pain while breathing: (1)",
+      "options": [
+        "Pulmonary emphysema.",
+        "Bronchial asthma.",
+        "Tuberculosis.",
+        "Pleural impairment.",
+        "Pulmonary edema."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-39",
+      "question": "What is characteristic for obstructive pulmonary diseases? (3)",
+      "options": [
+        "Hyperventilation.",
+        "Decreased bronchial conductivity.",
+        "Increased bronchial resistance.",
+        "Decreased static lung volumes.",
+        "Decreased dynamic lung volumes."
+      ],
+      "correctAnswers": [1, 2, 4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-40",
+      "question": "The pathologic characteristics of bronchial asthma includes: (1)",
+      "options": [
+        "Bronchospasm, bronchial edema, viscous mucus.",
+        "Peribronchial and interstitial infiltrate.",
+        "Alveolar and peribronchial destruction.",
+        "Recurrent bronchial epithelial necrosis.",
+        "Alveolar-capillary destruction."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-41",
+      "question": "In manifested pulmonary failure the observed polycythemia is due to: (1)",
+      "options": [
+        "Decreased lysis of red blood cells.",
+        "Increased red blood cell life.",
+        "Hypoxia-induced erythropoesis.",
+        "Dehydration and hemoconcentration.",
+        "Hypercapnia-dependent increased size of the red blood cells."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-42",
+      "question": "Restrictive ventilatory disturbance leads to: (1)",
+      "options": [
+        "Cheyne-Stokes breathing.",
+        "Inhomogenous alveolar ventilation.",
+        "Decrease in the lung volumes.",
+        "Incomplete functional shunt.",
+        "Increase of the functional residual capacity."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-43",
+      "question": "What is the key pathogenetic unit of pneumothorax? (1)",
+      "options": [
+        "Presence of air in the mediastinum.",
+        "Collapse of the alveoli.",
+        "Increased pleural resistance.",
+        "Presence of air in the pleural cavity.",
+        "Alveolar edema"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-44",
+      "question": "What is the basic pathogenetic unit in the respiratory distress syndrome of the newborn:",
+      "options": [
+        "Immaturity of the surfactant.",
+        "Bronchiolar constriction.",
+        "Pleural fibrosis.",
+        "Alveolar edema.",
+        "Narrow airways."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-45",
+      "question": "What is the key pathogenetic factor in the respiratory distress syndrome in adults?",
+      "options": [
+        "Bronchospasm and laryngospasm.",
+        "Alveolar hyperventilation.",
+        "Increased permeability of the alveolocapillary membrane.",
+        "Pulmonary hypertension.",
+        "Systemic hypertension."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-46",
+      "question": "All of the following could lead to acute respiratory failure, except for one:",
+      "options": [
+        "Respiratory muscles paralysis.",
+        "Acute obstruction of the airways.",
+        "Respiratory center suppression.",
+        "Anemia and polycythemia.",
+        "Thoracic cage damages."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-47",
+      "question": "Central respiratory failure occurs when: (1)",
+      "options": [
+        "lung pathology;",
+        "pathology of the internal respiration system;",
+        "pathology of the respiratory center;",
+        "pathology of the respiratory muscles;",
+        "with pleural pathology."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-48",
+      "question": "An obstructive type of hypoventilation develops with: (1)",
+      "options": [
+        "Damage to spinal cord motor neurons.",
+        "Limiting lung expansion during breathing.",
+        "Reduction of the pulmonary surface.",
+        "Airway obstruction.",
+        "Inhibition of the function of the respiratory center."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-49",
+      "question": "Obstructive type of respiratory failure occurs when: (1)",
+      "options": [
+        "with pneumosclerosis.",
+        "with pneumonia.",
+        "with a fracture of the ribs.",
+        "with paralysis of the respiratory center.",
+        "with laryngospasm."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-50",
+      "question": "Restrictive respiratory failure develops as a result of: (1)",
+      "options": [
+        "diffuse pulmonary fibrosis.",
+        "swelling of the airways.",
+        "airway obstruction.",
+        "spasm of the smooth muscles of the bronchi.",
+        "airway compression.",
+        "pneumosclerosis"
+      ],
+      "correctAnswers": [0, 5]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-51",
+      "question": "Restrictive type of hypoventilation develops with: (2)",
+      "options": [
+        "a decrease in the total lumen of the bronchi",
+        "restriction of lung expansion during breathing",
+        "reduction of the pulmonary surface",
+        "violation of patency of the airways",
+        "bronchial spasm"
+      ],
+      "correctAnswers": [1, 2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-52",
+      "question": "Restrictive respiratory failure develops as a result of: (2)",
+      "options": [
+        "airway edema",
+        "surfactant deficiency",
+        "spasm of the smooth muscles of the bronchi",
+        "lung removal",
+        "airway compression"
+      ],
+      "correctAnswers": [1, 3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-53",
+      "question": "Asphyxia is: (1)",
+      "options": [
+        "respiratory arrest",
+        "and lengthening the breath",
+        "difficulty and prolongation of exhalation",
+        "lung hyperventilation",
+        "acute respiratory failure."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-54",
+      "question": "Respiratory failure is characterized by:",
+      "options": [
+        "shortness of breath",
+        "anemia",
+        "cyanosis",
+        "change in the pressure of O2 and CO2 in the blood",
+        "change in acid-base state"
+      ],
+      "correctAnswers": [0, 2, 3, 4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-55",
+      "question": "Characterize breathing with inspiratory dyspnea: (1)",
+      "options": [
+        "constant amplitude",
+        "difficulty and prolonged inhalation",
+        "difficulty and prolonged exhalation",
+        "difficulty in inhaling and exhaling"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-56",
+      "question": "Characterize respiration during expiratory dyspnea: (1)",
+      "options": [
+        "constant amplitude",
+        "difficulty and prolonged inhalation",
+        "difficulty and prolonged exhalation",
+        "difficulty in inhaling and exhaling"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-57",
+      "question": "In what cases does the respiratory surface of the lungs decrease?",
+      "options": [
+        "with increased muscle work",
+        "pneumothorax",
+        "with croupous pneumonia",
+        "with significant blood loss",
+        "with lung atelectasis"
+      ],
+      "correctAnswers": [1, 2, 4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-58",
+      "question": "Centrogenic ventilation failure occurs when:",
+      "options": [
+        "lung diseases;",
+        "the pathology of internal breathing;",
+        "pathology of the respiratory center;",
+        "pathology of respiratory muscles;",
+        "pathology of pleura."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-59",
+      "question": "Inhibition of the respiratory center leads to:",
+      "options": [
+        "the diffusion form of respiratory failure;",
+        "ventilation form of respiratory failure;",
+        "perfusion form of respiratory failure;",
+        "obstructive type of violations of the pulmonary ventilation;",
+        "the valve mechanism of bronchial obstruction."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-60",
+      "question": "Obstructive type of hypoventilation develops at:",
+      "options": [
+        "reducing of the total lumen of bronchi;",
+        "the restriction of unfolding of the lungs during breathing;",
+        "decrease in pulmonary surface;",
+        "impaired patency of the airway;",
+        "inhibition of the function of the respiratory center."
+      ],
+      "correctAnswers": [0, 3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-61",
+      "question": "Obstructive respiratory failure may be due to:",
+      "options": [
+        "inhibition of the respiratory center;",
+        "pulmonary edema;",
+        "pulmonary emphysema;",
+        "spasm of smooth muscles of the diaphragm;",
+        "pulmonary fibrosis."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-62",
+      "question": "Obstructive type of hypoventilation occurs when:",
+      "options": [
+        "spasm of the bronchi and bronchioles;",
+        "thickening of the bronchial mucosa;",
+        "violation of the respiratory muscles;",
+        "laryngeal edema;",
+        "reduction of the respiratory surface of the lungs"
+      ],
+      "correctAnswers": [0, 1, 3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-63",
+      "question": "Restrictive respiratory failure develops as a result of:",
+      "options": [
+        "diffuse pulmonary fibrosis;",
+        "airway edema;",
+        "obstructive airways disease;",
+        "spasm of bronchial smooth muscle;",
+        "compression of the airway"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-64",
+      "question": "Restrictive type of hypoventilation occurs when:",
+      "options": [
+        "laryngeal edema;",
+        "hypersecretion of the bronchial mucosa;",
+        "spasm of bronchioles;",
+        "strangulation;",
+        "pleuritis"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-65",
+      "question": "Restrictive type of hypoventilation develops when:",
+      "options": [
+        "reducing the total lumen of the bronchi;",
+        "restriction of the unfolding of the lungs during breathing;",
+        "reduction of pulmonary surface;",
+        "violation of patency of the airway;",
+        "spasm of bronchioles."
+      ],
+      "correctAnswers": [1, 2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-66",
+      "question": "Restrictive type of hypoventilation occurs when:",
+      "options": [
+        "laryngeal edema;",
+        "hypersecretion of the bronchial mucosa;",
+        "pulmonary edema;",
+        "pneumonia;",
+        "pleuritis."
+      ],
+      "correctAnswers": [2, 3, 4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-67",
+      "question": "The distance for diffusion of gases can be increased:",
+      "options": [
+        "during hyperventilation;",
+        "in violation of the mechanics of breathing;",
+        "by increasing the number of functioning alveoli;",
+        "when fibrotic changes in the lungs;",
+        "the depression of the respiratory center."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-68",
+      "question": "Bradypnea is observed at:",
+      "options": [
+        "lowering blood pressure;",
+        "depression of the respiratory center;",
+        "heart failure;",
+        "hypoxia;",
+        "pneumonia."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-69",
+      "question": "Tachypnea is observed at:",
+      "options": [
+        "drug poisoning;",
+        "pneumonia;",
+        "edema of the larynx;",
+        "fever;",
+        "increase in blood pressure."
+      ],
+      "correctAnswers": [1, 3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-70",
+      "question": "Periodic breathing is:",
+      "options": [
+        "breathing with changing the ratio between inhalation and exhalation;",
+        "alternating periods of breathing with periods of apnea;",
+        "rapid breathing;",
+        "breathing with varying amplitude;",
+        "respiratory arrest"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-71",
+      "question": "In the pathogenesis of periodic breathing is important:",
+      "options": [
+        "reducing the sensitivity of the respiratory center to CO2 ;",
+        "the increased sensitivity of the respiratory center to CO2 ;",
+        "stimulation of the respiratory center;",
+        "the constant stimulation of inspiratory neurons of the respiratory center;",
+        "reduction of the respiratory surface of the lungs"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-72",
+      "question": "Biot's respiration is:",
+      "options": [
+        "the alternation of apnea with respiratory movements that are growing by depth, and then decrease;",
+        "the alternation of apnea with respiratory movements of the same frequency and depth;",
+        "deep, rare respiratory movements;",
+        "deep, frequent respiratory movements;",
+        "gradually fading respiratory movements"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-73",
+      "question": "Cheyne-Stokes respiration - is:",
+      "options": [
+        "the alternation of apnea with respiratory movements that are growing by depth, and then decrease;",
+        "the alternation of apnea with respiratory movements of the same frequency and depth;"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-74",
+      "question": "Terminal breathing include breathing of:",
+      "options": [
+        "Biota;",
+        "Cheyne-Stokes;",
+        "external;",
+        "dissociated;",
+        "gasping."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-75",
+      "question": "Hypoxia is",
+      "options": [
+        "typical pathological process",
+        "pathological reaction",
+        "pathological condition",
+        "illness",
+        "symptom complex"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-76",
+      "question": "Hypoxia, developing with a decrease in the partial pressure of oxygen in the inhaled air, is called",
+      "options": [
+        "exogenous",
+        "hemic",
+        "circulatory",
+        "endogenous"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-77",
+      "question": "What is \"hypoxia\"?",
+      "options": [
+        "Disrupted oxygen exchange.",
+        "Oxygen toxicity.",
+        "decrease in biological oxidation, leading to depletion of ATP",
+        "Reduced oxygen needs.",
+        "Limited aerobic capacity."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-78",
+      "question": "Exogenic hypobaric hypoxia is a result of:",
+      "options": [
+        "Disturbance in respiratory lung function.",
+        "Decreased pO2 in the inhaled air.",
+        "Damaged respiratory center.",
+        "Increased pO2 in the exhaled air.",
+        "Disorders of the respiratory muscles."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-79",
+      "question": "Which statement refers to exogenous hypobaric hypoxia (2)?",
+      "options": [
+        "Respiratory system is seriously compromised.",
+        "Respiratory system is intact.",
+        "Must be accompanied by hypercapnia.",
+        "Dramatically reduction of hemoglobin amount.",
+        "respiratory alkalosis can arise"
+      ],
+      "correctAnswers": [1, 4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-80",
+      "question": "What is the general effect from the development of circulatory hypoxia?",
+      "options": [
+        "Methemoglobin reductase block.",
+        "Decreased ventilation/perfusion ratio.",
+        "Effective hemoglobin deficiency.",
+        "Direct mitochondrial decoupling.",
+        "Tissue hypoperfusion."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-81",
+      "question": "Basic mechanisms for development of histotoxic hypoxia area:",
+      "options": [
+        "Increased mitochondrial oxygen reduction.",
+        "Decreased mitochondrial oxygen reduction.",
+        "Reduced efficiency of the oxygen energy production.",
+        "Insufficient functional energy provision."
+      ],
+      "correctAnswers": [1, 2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-82",
+      "question": "Exogenous normobaric hypoxia occurs when",
+      "options": [
+        "climbing mountains",
+        "lift in aircraft",
+        "caisson works",
+        "decrease in PCO2 in air",
+        "being in an unventilated room."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-83",
+      "question": "Exogenous hypobaric hypoxia is observed with",
+      "options": [
+        "being in the mines",
+        "at divers",
+        "in case of malfunction of anesthesia-respiratory equipment",
+        "when climbing to a high altitude",
+        "when sailing in submarines"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-84",
+      "question": "Indicate a characteristic change in blood composition with exogenous hypobaric hypoxia",
+      "options": [
+        "hyperglycemia",
+        "hypocapnia",
+        "hypercapnia",
+        "decrease in blood lactate",
+        "hyperproteinemia"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-85",
+      "question": "Hypoxia associated with the development of disorders in the blood system is called",
+      "options": [
+        "exogenous",
+        "circulatory",
+        "tissue",
+        "ischemic",
+        "anemic"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-86",
+      "question": "Carbon monoxide poisoning leads to the development of hypoxia.",
+      "options": [
+        "tissue",
+        "anemic",
+        "circulatory",
+        "respiratory",
+        "exogenous"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-87",
+      "question": "Hypoxia, developing in the pathology of the cardiovascular system,",
+      "options": [
+        "tissue",
+        "exogenous;",
+        "respiratory;",
+        "hemic;",
+        "circulatory;"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-88",
+      "question": "Specify the reasons of hemic hypoxia:",
+      "options": [
+        "CO poisoning;",
+        "emphysema of lungs;",
+        "nitrate poisoning;",
+        "chronic blood loss;",
+        "hypovitaminosis B12;",
+        "a decrease in excitability of the respiratory center."
+      ],
+      "correctAnswers": [0, 2, 3, 4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-89",
+      "question": "Indicate the causes of respiratory-type hypoxia:",
+      "options": [
+        "CO poisoning",
+        "pulmonary emphysema",
+        "nitrate poisoning",
+        "chronic blood loss",
+        "hypovitaminosis B12",
+        "a decrease in the excitability of the respiratory center"
+      ],
+      "correctAnswers": [1, 5]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-90",
+      "question": "In the pathogenesis of tissue hypoxia, it matters:",
+      "options": [
+        "inactivation of respiratory enzymes;",
+        "violation of the synthesis of respiratory enzymes;",
+        "dissociation of oxidation and phosphorylation;",
+        "damage to mitochondria;",
+        "reduced tissue oxygen demand"
+      ],
+      "correctAnswers": [0, 1, 2, 3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-91",
+      "question": "The circulatory-hemic (mixed) type of hypoxia is characteristic of",
+      "options": [
+        "dehydration",
+        "pneumonia",
+        "acute blood loss",
+        "hemolytic anemia",
+        "carbon monoxide poisoning (CO)"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-92",
+      "question": "The most sensitive to oxygen deficiency is:",
+      "options": [
+        "bones",
+        "muscles",
+        "connective tissue",
+        "structure of the nervous system",
+        "kidney"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-93",
+      "question": "Urgent compensatory reactions in hypoxia are (3):",
+      "options": [
+        "release of deposited blood",
+        "tachycardia",
+        "hyperpnea",
+        "hypertrophy of the respiratory muscles;",
+        "activation of erythropoiesis"
+      ],
+      "correctAnswers": [0, 1, 2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-94",
+      "question": "Long-term adaptation to hypoxia provides",
+      "options": [
+        "release of deposited blood",
+        "tachycardia;",
+        "hyperpnea",
+        "hypertrophy of the respiratory muscles",
+        "activation of erythropoiesis"
+      ],
+      "correctAnswers": [3, 4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-95",
+      "question": "What are the mechanisms leading to an increase in oxygen capacity blood with moderate repeated hypoxia:",
+      "options": [
+        "increased cardiac output",
+        "an increase in the formation of erythropoietin",
+        "accelerating the release of red blood cells from the bone marrow into the blood"
+      ],
+      "correctAnswers": [1, 2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-96",
+      "question": "The main pathogenetic unit of circulatory hypoxia is:",
+      "options": [
+        "Reduced effective hemoglobin.",
+        "Systolic cardiac dysfunction.",
+        "Reduced effective circulatory volume",
+        "Decreased hematocrit.",
+        "Blood depots depletion."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-97",
+      "question": "In which hypoxia type the processes of O2 intake, transport and delivery to the cells are not disturbed?:",
+      "options": [
+        "Circulatory hypoxia.",
+        "Hypoxic hypoxia.",
+        "Hemic hypoxia of anemic type",
+        "Overutilization hypoxia.",
+        "Hemic hypoxia of inactivity type."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-98",
+      "question": "Basic mechanisms for development of histotoxic hypoxia are:",
+      "options": [
+        "Increased mitochondrial oxygen reduction.",
+        "Decreased mitochondrial oxygen reduction.",
+        "Reduced efficiency of the oxygen energy production",
+        "Insufficient functional energy provision."
+      ],
+      "correctAnswers": [1, 2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-99",
+      "question": "Tissue hypoxia is the final result of:",
+      "options": [
+        "Reduced physical activity.",
+        "Absolute starvation.",
+        "Each metabolic abnormality.",
+        "Severe and/or progressive systemic hypoxia"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-100",
+      "question": "Increased oxygen transporting capacity of the blood is a result of:",
+      "options": [
+        "Increased blood pressure.",
+        "Increased tissues vascularization.",
+        "Compensatory heart hypertrophy.",
+        "Compensatory diminished erithrolysis.",
+        "Compensatory erythropoesis."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-101",
+      "question": "Exogenous normobaric hypoxia occurs when:",
+      "options": [
+        "the climb in the mountains;",
+        "the climb in aircraft;",
+        "diving operations;",
+        "reducing the PCO2 in the air;",
+        "in unvented premises."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-102",
+      "question": "Exogenous normobaric hypoxia occurs when:",
+      "options": [
+        "the climb in the mountains;",
+        "increase in barometric pressure;",
+        "decrease in barometric pressure;",
+        "an increase in pO2 in the air;",
+        "being in a closed room."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-103",
+      "question": "A typical change in the composition of blood when exogenous normobaric hypoxia is:",
+      "options": [
+        "hypacapnia;",
+        "hypoxemia;",
+        "alkalosis;",
+        "hyperlipidemia;",
+        "hyperproteinemia."
+      ],
+      "correctAnswers": [0, 1]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-104",
+      "question": "Indicate the characteristic change in the composition of the blood when exogenous hypobaric hypoxia:",
+      "options": [
+        "hyperglycemia;",
+        "hypacapnia;",
+        "hypercapnia;",
+        "reduction of blood lactate;",
+        "hyperproteinemia."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-105",
+      "question": "Specify the changes in the blood which are characteristic for exogenous hypobaric hypoxia:",
+      "options": [
+        "hypercapnia;",
+        "hypacapnia;",
+        "hypoxemia;",
+        "gas alkalosis;",
+        "gas acidosis."
+      ],
+      "correctAnswers": [1, 2, 3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-106",
+      "question": "The partial arterial oxygen pressure - 70 mm Hg, partial pressure of carbon dioxide in the arterial blood - 58 mmHg is characteristic for:",
+      "options": [
+        "exogenous hypobaric type of hypoxia;",
+        "hemic type of hypoxia;",
+        "tissue type of hypoxia;",
+        "respiratory type of hypoxia;",
+        "circulatory type of hypoxia."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-107",
+      "question": "Specify the reasons of hemic hypoxia:",
+      "options": [
+        "CO poisoning;",
+        "emphysema of lungs;",
+        "nitrate poisoning;",
+        "chronic blood loss;",
+        "hypovitaminosis B12;",
+        "a decrease in excitability of the respiratory center."
+      ],
+      "correctAnswers": [0, 2, 3, 4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-108",
+      "question": "Specify the reasons of the hypoxia of respiratory type:",
+      "options": [
+        "CO poisoning;",
+        "emphysema of lungs;",
+        "nitrate poisoning;",
+        "chronic blood loss;",
+        "hypovitaminosis B12;",
+        "decrease in excitability of the respiratory center."
+      ],
+      "correctAnswers": [1, 5]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-109",
+      "question": "In the pathogenesis of hypoxic cell damage has a value:",
+      "options": [
+        "an increase of the sodium in the cell;",
+        "activation of phospholipase;",
+        "release of lysosomal enzymes;",
+        "reduction in the intensity of lipid peroxidation;",
+        "accumulation of calcium in mitochondria;",
+        "disruption of the membrane pump systems."
+      ],
+      "correctAnswers": [0, 1, 2, 4, 5]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-110",
+      "question": "Provide the long-term adaptation to hypoxia:",
+      "options": [
+        "the release of deposited blood;",
+        "tachycardia;",
+        "hyperpnea;",
+        "hypertrophy of the respiratory muscles;",
+        "activation of erythropoiesis."
+      ],
+      "correctAnswers": [3, 4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-111",
+      "question": "Specify the reasons of hemic hypoxia:",
+      "options": [
+        "CO poisoning;",
+        "emphysema of lungs;",
+        "nitrate poisoning;",
+        "chronic blood loss;",
+        "hypovitaminosis B12;",
+        "a decrease in excitability of the respiratory center."
+      ],
+      "correctAnswers": [0, 2, 3, 4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-112",
+      "question": "The most sensitive to oxygen deficiency are:",
+      "options": [
+        "bone;",
+        "muscles;",
+        "connective tissue;",
+        "structures nervous system;",
+        "kidneys."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-113",
+      "question": "Specify the emergency reactions of adaptation to hypoxia:",
+      "options": [
+        "an increase in alveolar ventilation;",
+        "mobilization of deposited blood;",
+        "enhancement of anaerobic glycolysis;",
+        "reduction of the oxyhemoglobin dissociation;",
+        "increase the number of mitochondria in the cell."
+      ],
+      "correctAnswers": [0, 1, 2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-114",
+      "question": "What changes in the cell can be considered as compensatory during hypoxia?",
+      "options": [
+        "lowering activity of Na/K+ and Ca2+ - ATPase",
+        "activation of glycolysis;",
+        "activation of phospholipase A2;",
+        "mobilization of glycogen;",
+        "activation of POL."
+      ],
+      "correctAnswers": [1, 3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-115",
+      "question": "Systolic blood pressure is elevated when it is over:",
+      "options": [
+        "120mmHg",
+        "130mmHg",
+        "160mmHg",
+        "140mmHg",
+        "150mmHg"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-116",
+      "question": "Diastolic blood pressure is elevated when it is over:",
+      "options": [
+        "80mmHg",
+        "90mmHg",
+        "95mmHg",
+        "100mmHg",
+        "110mmHg"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-117",
+      "question": "Which factors are able to increase systemic blood pressure?(2)",
+      "options": [
+        "Stroke volume of the heart.",
+        "Cardiac output",
+        "Total peripheral vascular resistance (TPR)",
+        "Activation of depressor factors",
+        "Genetically, higher extracellular volume"
+      ],
+      "correctAnswers": [1, 2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-118",
+      "question": "Blood pressure is increased when there is: (2)",
+      "options": [
+        "Prevalence of pressor mechanisms",
+        "Activation of pressor and depressor factors",
+        "Insufficient depressor factors",
+        "Pressor-depressor dissociation"
+      ],
+      "correctAnswers": [0, 2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-119",
+      "question": "Arterial hypertension is a condition of:",
+      "options": [
+        "Elevated blood pressure adequate to metabolic needs.",
+        "Form of adaptation to generalized hyperperfusion.",
+        "Functionally inadequate elevated blood pressure",
+        "Form of maintaining blood flow in vital organs.",
+        "Circulatory overcompensation."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-120",
+      "question": "What is the pathogenetic classification of arterial hypertension?",
+      "options": [
+        "Congenital and acquired.",
+        "Uncompensated and overcompensated.",
+        "Infectious and non-infectious.",
+        "Essential and symptomatic"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-121",
+      "question": "Which factors play an important role in the genesis of essential hypertension? (2)",
+      "options": [
+        "Acute infections.",
+        "Psychological traumas, stress",
+        "Genetic predisposition",
+        "Kidney diseases."
+      ],
+      "correctAnswers": [1, 2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-122",
+      "question": "The main pathogenetic unit of volume-dependent arterial hypertension is: (1)",
+      "options": [
+        "Decreased renal excretion of sodium and water",
+        "Increased sympathetic tone.",
+        "Lost baroreceptor depressor mechanism.",
+        "Genetically, higher extracellular volume.",
+        "Ineffective Darrow-Yannet mechanism."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-123",
+      "question": "Arterial hypertension in atherosclerosis is a result of: (1)",
+      "options": [
+        "Increased Na+ concentration in the blood.",
+        "Increased release of pressor factors.",
+        "Reduced elasticity of the large arterial vessels",
+        "Increased pressor effect of the vasomotorcenter."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-124",
+      "question": "The one hypertensive mechanism in hyperglucocorticism is: (1)",
+      "options": [
+        "Peripheral blood vessels spasm.",
+        "Increased Na+ and water retention in the body.",
+        "Sensitization of the vascular wall to pressor factors",
+        "Hypertrophy of the vascular wall.",
+        "Altered sensitivity of stretch- and chemoreceptors."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-125",
+      "question": "The one hypertensive mechanism in glucocorticoid excess is: (1)",
+      "options": [
+        "Peripheral blood vessels spasm.",
+        "Increased Na+ and water retention in the body.",
+        "Stimulation of angiotensinogen secretion by the liver",
+        "Hypertrophy of the vascular wall.",
+        "Altered sensitivity of baro- and chemoreceptors."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-126",
+      "question": "Depressant substances include: (1)",
+      "options": [
+        "Nitric oxide",
+        "Angiotensin-II.",
+        "Aldosterone",
+        "Endothelin.",
+        "Adrenaline."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-127",
+      "question": "Secondary (symptomatic) arterial hypertension is one of the symptoms of diseases:",
+      "options": [
+        "liver",
+        "gastrointestinal tract",
+        "kidney",
+        "spleen",
+        "lungs."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-128",
+      "question": "Crucial in the pathogenesis of renovascular renal hypertension is",
+      "options": [
+        "activation of the renin-angiotensin-aldosterone system;",
+        "increased secretion of glucocorticoids;",
+        "a decrease in the production of depressant substances in the kidneys;",
+        "increased secretion of adrenaline;",
+        "increased secretion of vasopressin;"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-129",
+      "question": "The pathogenesis of primary hypertension involves: (1)",
+      "options": [
+        "Persistent increased irritability and hyperergy of the higher sympathetic nerve centers.",
+        "Prolonged inhibition of emotional centers.",
+        "Increased inhibitory effect of the cerebral cortex on the pressor centers.",
+        "Increased production of natriuretic hormone.",
+        "Insufficiency of the adrenal cortex."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-130",
+      "question": "The pathogenesis of primary hypertension involves:",
+      "options": [
+        "the vascular endothelium",
+        "a defective Na+ - K+ - 2Cl- co-transport system in the plasma membrane",
+        "excess sodium intake and renal sodium retention",
+        "sympathetic nervous hyperactivity",
+        "renin-angiotensin system"
+      ],
+      "correctAnswers": [0, 1, 2, 3, 4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-131",
+      "question": "Orthostatic hypotension (collapse) occurs when (1)",
+      "options": [
+        "massive blood loss",
+        "pancreatic crush",
+        "rapid decrease in oxygen in the inhaled air",
+        "intestinal infections",
+        "a sharp transition from horizontal to vertical"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-132",
+      "question": "Indicate the types of symptomatic hypertension: (5)",
+      "options": [
+        "hypovolemic",
+        "thyroid",
+        "portal",
+        "cerebro-ischemic",
+        "renal",
+        "essential",
+        "adrenal"
+      ],
+      "correctAnswers": [1, 3, 4, 6]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-133",
+      "question": "The term \"arterial hypertension\" means: (1)",
+      "options": [
+        "a persistent increase in blood pressure: systolic above 140 mm Hg, diastolic - 90 mm Hg",
+        "increase in blood pressure: systolic above 160 mm Hg, diastolic - 95 mm Hg normalizing immediately after the cessation of the causative factor"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-134",
+      "question": "Indicate the probable causes of primary hypertension: (4)",
+      "options": [
+        "hyperthyroidism",
+        "chronic psycho-emotional overstrain",
+        "chronic nephritis",
+        "repeated lingering negative emotions",
+        "atherosclerotic vascular disease",
+        "genetic defects of the centers of the autonomic nervous system that regulate blood pressure"
+      ],
+      "correctAnswers": [1, 3, 4, 5]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-135",
+      "question": "The risk factors for the development of hypertension include: (5)",
+      "options": [
+        "hyperergic sympathetic adrenal system",
+        "hypergeria of the parasympathetic system",
+        "physical inactivity",
+        "hyperthyroidism",
+        "diabetes",
+        "weight loss",
+        "obesity"
+      ],
+      "correctAnswers": [0, 2, 3, 4, 6]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-136",
+      "question": "Endocrine hypertension occurs when: (3)",
+      "options": [
+        "total hypofunction of the adrenal cortex",
+        "hyperfunction of the adrenal medulla",
+        "hyperfunction of the glomerular zone of the adrenal cortex",
+        "hypothyroidism",
+        "pituitary cachexia",
+        "thyrotoxicosis"
+      ],
+      "correctAnswers": [1, 2, 5]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-137",
+      "question": "Indicate the possible consequences of chronic hypertension: (5)",
+      "options": [
+        "congestive heart failure",
+        "heart hypertrophy",
+        "myocarditis",
+        "cardiosclerosis",
+        "stroke",
+        "hypoadsteroism",
+        "hypertensive encephalopathy"
+      ],
+      "correctAnswers": [0, 1, 3, 4, 6]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-138",
+      "question": "Endocrine hypertension occurs when:",
+      "options": [
+        "total hypofunction of the adrenal cortex",
+        "adrenal medulla hyperfunction",
+        "hyperfunction of the glomerular zone of the adrenal cortex",
+        "thyroid hypofunction",
+        "thyrotoxicosis"
+      ],
+      "correctAnswers": [1, 2, 4]
+    },
+    {
+      "id": "credit-5-heart-respiratory-hypoxia-vessels-139",
+      "question": "Risk factors for the development of essential hypertension are:",
+      "options": [
+        "overweight",
+        "frequent stresses",
+        "excessive salt intake",
+        "active lifestyle",
+        "physical inactivity"
+      ],
+      "correctAnswers": [0, 1, 2, 4]
+    }
+  ]
+}

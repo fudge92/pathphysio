@@ -1,0 +1,1191 @@
+{
+  "title": "Credit 1: GN, PEF, FEVER",
+  "id": "credit 1: pef gn fever",
+  "questions": [
+    {
+      "id": "credit-1-pef-gn-fever-1",
+      "question": "Pathological physiology studies (1)",
+      "options": [
+        "structural features",
+        "functions of the main systems and organs",
+        "metabolic processes in the body",
+        "manifestations of disease",
+        "functional activity of defective organ, and other organs and systems in a sick organism, mechanisms of disease development and methods of treatment"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-2",
+      "question": "The main in pathophysiologic experiment is (1)",
+      "options": [
+        "modeling of human disease in animals",
+        "study of functional indicators",
+        "the study of morphological indicators",
+        "the study of biochemical parameters",
+        "the study of clinical indicators of the disease"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-3",
+      "question": "The main factor limiting the application of the experimental method in medicine is (1)",
+      "options": [
+        "the difference in the structure of animals and humans",
+        "the difference in the characteristics of metabolism in animals and humans",
+        "different life spans of humans and animals",
+        "difficulties in determining the initial level of health in experimental animals",
+        "the social nature of man"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-4",
+      "question": "Disease is (1)",
+      "options": [
+        "an unusual reaction of the body to any effect",
+        "a combination of damage phenomena and protective-adaptive reactions in damaged tissues, organs or the body",
+        "persistent deviation from the norm, not having adaptive value for the body",
+        "life of a sick organism in condition, under the compensation of the impaired functions"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-5",
+      "question": "Disease is characterized by",
+      "options": [
+        "state of complete physical, mental and social well-being",
+        "reduced ability to work",
+        "state of the norm",
+        "\"third\" state",
+        "the development of pre-disease"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-6",
+      "question": "Pre-disease is (1)",
+      "options": [
+        "condition when a person has some problems with \"normal\" health during relatively short period",
+        "special state of an organism characterized by limitation or disturbance of one or several compensatory mechanisms of recovery or their complexes",
+        "the simplest form of the pathological process",
+        "non-specific symptoms of the disease",
+        "the first stage of the disease"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-7",
+      "question": "Typical pathological processes include",
+      "options": [
+        "anemia",
+        "inflammation",
+        "fever",
+        "hypoxia",
+        "pneumonia",
+        "allergy"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-8",
+      "question": "Pathological reaction is",
+      "options": [
+        "relatively short-term reaction of a separate functional system of organism in response to initial stimulation",
+        "a steady, slowly developing process or its consequences",
+        "painful change in function and structure",
+        "symptom of the disease",
+        "disease complication"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-9",
+      "question": "Pathological reaction is",
+      "options": [
+        "a steady, slowly developing process or its consequences",
+        "painful change in function and structure",
+        "inadequate in quantitative or qualitative sense, and may be manifestation of not only disorder but also of defensive and adaptive mechanisms",
+        "symptom of the disease",
+        "disease complication"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-10",
+      "question": "Narrowing of heart valve which lead to heart insufficiency is (1)",
+      "options": [
+        "pathological condition",
+        "pathological process",
+        "pathological reaction",
+        "nosological form (disease)",
+        "symptom of the disease"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-11",
+      "question": "Indicate examples of pathological state (3)",
+      "options": [
+        "hypoglycemia due to the introduction of large doses of insulin",
+        "scar tissue changes",
+        "atrophy of the alveolar processes of the jaw in connection with the removal of teeth",
+        "spasm of cardiac arterioles with pulmonary thrombosis",
+        "acquired defect of the valvular apparatus of the heart"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-12",
+      "question": "Inflammation is",
+      "options": [
+        "typical pathological process",
+        "pathological reaction",
+        "pathological state"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-13",
+      "question": "Pathological state is",
+      "options": [
+        "inadequate in quantitative or qualitative sense, and may be manifestation of not only disorder but also of defensive and adaptive mechanisms",
+        "relatively persistent and stable abnormality of the body, limiting its adaptive potential"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-14",
+      "question": "Norm is",
+      "options": [
+        "a state of complete physical, mental, and social well-being and not only the absence of disease or infirmity",
+        "an average size, which characterizes properties or parameters of an organism",
+        "the biological optimum for the functioning and development of the organism",
+        "special state of an organism characterized by limitation or disturbance of one or several compensatory mechanisms of recovery or their complexes"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-15",
+      "question": "The cause of the disease is a factor (1)",
+      "options": [
+        "contributing to the occurrence of the disease",
+        "which causes the disease and gives it specific features",
+        "determining the non-specificity of the disease",
+        "affecting the incidence of the disease",
+        "affecting the severity and duration of the disease"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-16",
+      "question": "Condition of health is characterized by following 3 special features (3)",
+      "options": [
+        "a special state of an organism",
+        "condition when an individual has good interrelation with surrounding",
+        "can develop on the different levels of organization such as molecular, cellular, tissue, organ, systematic by presence of good labours activity in work",
+        "preserving of the organism integrity and absence of severe physical defects"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-17",
+      "question": "What is pathogenesis?",
+      "options": [
+        "the doctrine of the mechanisms of occurrence, course and outcome of the disease",
+        "the study of the causes and conditions of the disease",
+        "specific mechanisms for the development of pathological processes",
+        "the study of typical pathological processes",
+        "the study of typical forms of organ pathology"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-18",
+      "question": "Disease is",
+      "options": [
+        "condition when a person has some problems with \"normal\" health during relatively short period",
+        "life of a sick organism in condition, under the compensation of the impaired functions"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-19",
+      "question": "Etiology is a science",
+      "options": [
+        "that studies the treatment of the disease",
+        "that studies the outcome of the disease",
+        "that studies causes and conditions of diseases"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-20",
+      "question": "Monocausalism is",
+      "options": [
+        "the direction which denies the main role of cause in the beginning of a disease",
+        "the direction in the general etiology, according to which the cause is the main factor in progress of the illness and each disease has only one cause",
+        "direction, the breach of psychical activity is the base of the diseases appearing"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-21",
+      "question": "The vicious circle in the pathogenesis of diseases is",
+      "options": [
+        "the transition of the initial acute phase into a chronic form with periods of exacerbation and remission",
+        "the cyclical course of the disease, in which each new cycle differs from the previous one in a progressive increase of disorders severity",
+        "the initial disorder becomes a factor of the subsequent disorder which, in turn, maintains and enhances the original defect forming a positive feedback loop"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-22",
+      "question": "Pathogenesis is a doctrine (1)",
+      "options": [
+        "about the causes and conditions of the development of the disease",
+        "about the disease",
+        "about the mechanisms of the development of the disease",
+        "about the reactivity of the body",
+        "about the heredity of the body"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-23",
+      "question": "Sanogenesis is",
+      "options": [
+        "The doctrine about the causes and conditions of the development of the disease",
+        "The doctrine about of health maintenance and mechanism of convalesce",
+        "doctrine about mechanisms of development and progress of a disease"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-24",
+      "question": "Reactivity is",
+      "options": [
+        "the response of the body to the stimulus",
+        "the property of organism and its structures to reply by changes of life activity to the influence of the environmental factors",
+        "a protective reaction of the body to the action of a pathogenic irritant",
+        "mechanism elimination, normalization of functions, compensation of impaired processes",
+        "nonspecific body resistance"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-25",
+      "question": "There are 3 systems which participate in formation of organ reactivity",
+      "options": [
+        "endocrine system",
+        "respiratory system",
+        "the cardiovascular system",
+        "immune systems",
+        "central nervous system"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-26",
+      "question": "Newborns are more likely to tolerate hypoxia than adults. That's an example (1)",
+      "options": [
+        "biological reactivity",
+        "species reactivity",
+        "age-related reactivity",
+        "sexual reactivity",
+        "individual reactivity"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-27",
+      "question": "Non-specific reactivity examples are (2)",
+      "options": [
+        "allergy",
+        "reactions during the acting of high and low temperature",
+        "phagocytosis",
+        "immunity"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-28",
+      "question": "Specific reactivity examples are (2)",
+      "options": [
+        "allergy",
+        "reactions during the acting of high and low temperature",
+        "phagocytosis",
+        "immunity"
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-29",
+      "question": "The uniqueness of each individual is determined",
+      "options": [
+        "species reactivity",
+        "group reactivity",
+        "individual reactivity",
+        "gender",
+        "constitutional features"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-30",
+      "question": "Resistance of an organism is a property of an organism (1)",
+      "options": [
+        "respond to any environmental impact",
+        "respond to the physiological effects of the environment",
+        "respond only to extreme environmental factors",
+        "resist the pathogenic effects of the environment",
+        "resist any environmental influences"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-31",
+      "question": "The resistance of the body is (1)",
+      "options": [
+        "the ability of the body to respond to changes in life activity on environmental influences",
+        "the response of the body to the stimulus",
+        "reduced body response to stimulus",
+        "stability of organism to the acting of pathogenic factors",
+        "body sensitivity to environmental factors"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-32",
+      "question": "The basic component of the pathogenesis of the disease is",
+      "options": [
+        "damage resulting in vicious circles",
+        "initial change or injury which is caused directly by action of etiologic agent",
+        "causes and conditions of the disease",
+        "damage that is irreversible"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-33",
+      "question": "Sunstroke occurs during action of",
+      "options": [
+        "high ambient temperature",
+        "sunlight on an uncovered head",
+        "sun rays on a human body protected by clothing",
+        "visible rays of the solar spectrum",
+        "infrared rays"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-34",
+      "question": "The greatest resistance to electric current has",
+      "options": [
+        "skin",
+        "muscles",
+        "bones",
+        "blood"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-35",
+      "question": "The trigger mechanism in the pathogenesis of traumatic shock is",
+      "options": [
+        "inflammation",
+        "toxemia",
+        "pain irritation",
+        "septicopyemia",
+        "vascular permeability increasing"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-36",
+      "question": "The main factor in the development of altitude sickness is",
+      "options": [
+        "high barometric pressure",
+        "reduced partial pressure of oxygen in the air",
+        "ultraviolet radiation",
+        "infrared rays",
+        "low temperature"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-37",
+      "question": "The pathogenesis of cyanosis in high-altitude disease is due to excess blood levels (1)",
+      "options": [
+        "oxyhemoglobin",
+        "carbhemoglobin",
+        "carboxyhemoglobin",
+        "deoxyhemoglobin",
+        "methemoglobin"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-38",
+      "question": "The role of environmental factors in the origin of diseases",
+      "options": [
+        "environmental factor may be the cause of the disease",
+        "environmental factor may be a condition of the disease",
+        "environmental factor is not a condition of the disease",
+        "environmental factor can not be the cause of the disease",
+        "environmental factors may be the cause and condition of disease"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-39",
+      "question": "Defensive-compensatory reactions in case of hypothermia",
+      "options": [
+        "decreasing of sweating",
+        "spasm of the peripheral vessels",
+        "rising of the thermoisolation qualities",
+        "increasing of the contraction thermogenesis",
+        "increasing of the uncontractive thermogenesis",
+        "vasodilation"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-40",
+      "question": "Defensive-compensatory reactions in case of hyperthermia",
+      "options": [
+        "increasing of the uncontractive thermogenesis",
+        "extension of the peripheral vessels",
+        "spasm of the peripheral vessels",
+        "increasing of sweating",
+        "position change"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-41",
+      "question": "There are several stages of the burn disease",
+      "options": [
+        "burn shock",
+        "burn toxemia",
+        "anxiety stage",
+        "burn infection",
+        "stage of hypertrophy",
+        "burn exhausting",
+        "outcome"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-42",
+      "question": "When do people suffer from the effect of the high atmosphere pressure?",
+      "options": [
+        "water diving",
+        "when oxygen is consumed by combustion in closed space",
+        "when decreases a percentage of oxygen in inhaled air",
+        "finding of people in small or badly ventilated place (coal mine, elevator)",
+        "in high altitude"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-43",
+      "question": "Causes of decompression disease",
+      "options": [
+        "occurs upon rapid return from elevated atmospheric pressure to a normal atmosphere",
+        "occurs in case of quick shift of the atmosphere pressure from normal to low",
+        "when decreases a percentage of oxygen in inhaled air",
+        "when decreases the environmental temperature"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-44",
+      "question": "Causes of bursting decompression",
+      "options": [
+        "occurs upon rapid return from elevated atmospheric pressure to a normal atmosphere",
+        "occurs in case of quick shift of the atmosphere pressure from normal to low",
+        "when decreases a percentage of oxygen in inhaled air",
+        "when decreases the environmental temperature"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-45",
+      "question": "Burn exhausting is characterized by",
+      "options": [
+        "dystrophic changes in the inner organs",
+        "progressive cachexia",
+        "anemia",
+        "insufficiency of the adrenal gland",
+        "edema",
+        "hyperhydration",
+        "decreases viscosity of the blood"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-46",
+      "question": "Fever is",
+      "options": [
+        "pathological reaction",
+        "typical pathological process",
+        "pathological condition",
+        "disease",
+        "complication of the disease"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-47",
+      "question": "Fever is a pathologic process that develops due to the action of",
+      "options": [
+        "carcinogens",
+        "mutagens",
+        "pyrogens",
+        "stimulants",
+        "thymosins"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-48",
+      "question": "Specify the mechanisms involved in the increase in body temperature in fever",
+      "options": [
+        "an increase in the conjugation of oxidation and phosphorylation",
+        "peripheral vasoconstriction",
+        "enhancing contractile muscle thermogenesis",
+        "decrease sweating",
+        "activation of oxidative processes"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-49",
+      "question": "Increasing body temperature (stadium incrementi) in fever, is mainly a result of (1)",
+      "options": [
+        "increased heat production",
+        "increased heat production and decreased heat dissipation",
+        "reduced heat dissipation",
+        "initiated mechanism of tissue conductivity",
+        "1, 2, 3",
+        "1, 2, 3, 4"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-50",
+      "question": "An increase in temperature during fever is due to the influence of secondary pyrogens on the thermoregulation center, which is located in (1)",
+      "options": [
+        "cerebral cortex",
+        "reticular formation",
+        "hypothalamus",
+        "medulla oblongata",
+        "limbic system"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-51",
+      "question": "The mechanisms of chemical thermoregulation in fever include",
+      "options": [
+        "an increase in heat production",
+        "heat production does not change",
+        "decrease in heat transfer"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-52",
+      "question": "The peak stage (stadium fastigii) of fever is characterized by (1)",
+      "options": [
+        "deficiency of heat production",
+        "new set point of the heat production/heat dissipation balance",
+        "limited heat dissipation",
+        "enhanced heat production",
+        "change in the heat production/heat dissipation ratio"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-53",
+      "question": "This statement is correct",
+      "options": [
+        "in the first stage of fever, skin temperature is lower than blood temperature",
+        "muscle trembling reduces heat production",
+        "blood pressure in the first stage of fever is lowered, sometimes very sharply",
+        "in the first stage of fever, diuresis decreases",
+        "heat balance in the second stage of fever is characterized by the predominance of heat production over heat transfer"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-54",
+      "question": "Critical drop in temperature in stadium decrementi of fever may lead to acute circulatory failure due to",
+      "options": [
+        "sympathetic stimulation",
+        "cardiac arrest",
+        "vasodilation, hypotension and reduced MCO (minute cardiac output)",
+        "depressed vasomotor center",
+        "any of the foregoing"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-55",
+      "question": "Under the influence of secondary pyrogens in the pituitary cells, synthesis is enhanced",
+      "options": [
+        "leukotrienes",
+        "prostaglandins",
+        "histamine",
+        "nitric oxide"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-56",
+      "question": "The statement is correct",
+      "options": [
+        "endogenous pyrogens act on heat-sensitive peripheral receptors",
+        "typical fever is observed in homeothermic animals",
+        "The first stage of a fever is called 'stadium fastigium'",
+        "the second stage of the fever is called 'stadium decrement'",
+        "in the first stage of fever, there are decreases sensitivity of cold receptors and an increases in sensitivity of heat receptors in thermoregulatory center"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-57",
+      "question": "Heat transfer decreases in fever as a result of (1)",
+      "options": [
+        "vasodilation of the skin",
+        "increased sweating",
+        "increased tone of the parasympathetic nervous system",
+        "rapid breathing",
+        "increased tone of the sympathetic nervous system"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-58",
+      "question": "The mechanisms of physical thermoregulation in fever include",
+      "options": [
+        "a decrease in heat transfer",
+        "an increase in heat production",
+        "heat production does not change"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-59",
+      "question": "Secondary pyrogens are formed in",
+      "options": [
+        "erythrocytes",
+        "platelets",
+        "leukocytes",
+        "hepatocytes",
+        "parenchymal cells"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-60",
+      "question": "Producers of endogenous pyrogens are",
+      "options": [
+        "macrophages",
+        "mast cells",
+        "plasma cells",
+        "neutrophils",
+        "erythrocytes"
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-61",
+      "question": "Secondary pyrogens include",
+      "options": [
+        "interleukin 1",
+        "interleukin 4",
+        "interleukin 8",
+        "interleukin 6",
+        "tumor necrosis factor",
+        "endotoxins of microorganisms"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-62",
+      "question": "Leukocyte pyrogens act on",
+      "options": [
+        "thermosensitive peripheral receptors",
+        "otoneurons of the spinal cord",
+        "neurons of the preoptic region of the hypothalamus",
+        "nerve pathways",
+        "spino-cortical pathways"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-63",
+      "question": "Under the influence of endogenous pyrogens in the endothelium of the capillaries of the brain",
+      "options": [
+        "the synthesis of prostaglandins increases",
+        "the synthesis of prostaglandins decreases"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-64",
+      "question": "An increase in temperature with fever is due to the effect of endopyrogens on",
+      "options": [
+        "the center of thermoregulation, which is located in the cerebral cortex",
+        "reticular formations",
+        "hypothalamus",
+        "the medulla oblongata",
+        "limbic system"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-65",
+      "question": "The correct statement is",
+      "options": [
+        "the pyrogenic properties of bacterial cells depend on their virulence",
+        "endotoxins of gram-negative bacteria are endogenous pyrogens",
+        "exogenous pyrogens are lipopolysaccharides",
+        "the degree of temperature rise in fever depends on the ambient temperature",
+        "with fever, the mechanisms of thermoregulation are impaired"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-66",
+      "question": "The correct statement is",
+      "options": [
+        "endogenous pyrogens act on thermosensitive peripheral receptors",
+        "typical fever is observed in homeothermic animals",
+        "the first stage of fever is called stadium fastigium",
+        "the second stage of fever is called stadium decrementum",
+        "in the first stage of fever, there is a decrease in sensitivity to cold and an increase sensitivity to heat"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-67",
+      "question": "Fever is characterized by",
+      "options": [
+        "restructuring the mechanisms of thermoregulation",
+        "the mechanisms of thermoregulation do not change"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-68",
+      "question": "Reducing heat transfer is facilitated by",
+      "options": [
+        "vasodilation of the skin vessels",
+        "increased sweating",
+        "increased tone of the parasympathetic nervous system",
+        "increased breathing",
+        "increasing the tone of the sympathetic nervous system"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-69",
+      "question": "A rapid rise in temperature in the first stage of fever is accompanied by",
+      "options": [
+        "muscle tremors and chills",
+        "tachypnea",
+        "redness of the skin",
+        "decrease blood pressure",
+        "increased sweating"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-70",
+      "question": "The degree of increase in body temperature with fever depends on",
+      "options": [
+        "the concentration of exogenous pyrogens in the tissues",
+        "the intensity of the formation of cytokines by producing cells",
+        "the sensitivity of the center of thermoregulation to the action of pyrogens",
+        "the patient's age",
+        "the heat-insulating properties of clothing"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-71",
+      "question": "The correct statement is",
+      "options": [
+        "in the first stage of fever, the skin temperature is lower than the blood temperature",
+        "muscle tremors reduce heat production",
+        "blood pressure in the first stage of fever is lowered, sometimes very sharply",
+        "in the first stage of fever, diuresis decreases",
+        "the heat balance in the second stage of fever is characterized by the predominance of heat production over heat transfer"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-72",
+      "question": "In the first stage of fever, there is",
+      "options": [
+        "enhancement of heat production without changing heat transfer",
+        "enhancement of heat production and heat transfer",
+        "a decrease in heat transfer and an increase in heat production",
+        "decrease in heat production and heat transfer",
+        "a decrease in heat production and an increase in heat transfer"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-73",
+      "question": "The first stage of fever is characterized by",
+      "options": [
+        "increased blood pressure",
+        "tachycardia",
+        "chills, muscle tremors",
+        "decrease in urine output",
+        "increased sweating"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-74",
+      "question": "The second stage of fever is characterized by",
+      "options": [
+        "bradycardia",
+        "skin redness",
+        "increased motility of the gastrointestinal tract",
+        "increased urine output",
+        "tachycardia"
+      ],
+      "correctAnswers": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-75",
+      "question": "The third stage of fever is characterized by",
+      "options": [
+        "lowering blood pressure",
+        "increased blood pressure"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-76",
+      "question": "Increased heat transfer in the third stage of fever is associated with",
+      "options": [
+        "vasoconstriction",
+        "suppression of sweating processes",
+        "increased metabolism",
+        "increased sweating",
+        "high blood pressure"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-77",
+      "question": "'Critical' temperature drop with fever is dangerous",
+      "options": [
+        "the development of collapse",
+        "increased motility of the gastrointestinal tract",
+        "the development of hypohydration",
+        "increased heart rate",
+        "increased blood pressure"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-78",
+      "question": "With an increase in body temperature by 1 C, the heart rate increases by",
+      "options": [
+        "18-20 in one minute",
+        "6-7 in one minute",
+        "8-10 in one minute",
+        "50-60 in one minute",
+        "30-40 in one minute"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-79",
+      "question": "Tachycardia in fever results from the direct action of warm blood",
+      "options": [
+        "to the set point",
+        "on the sinus node",
+        "on the thermostat",
+        "on the spinal center thermoregulation",
+        "to peripheral thermosensitive receptors"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-80",
+      "question": "Fever is characterized by",
+      "options": [
+        "the predominance of lipogenesis processes over lipolysis",
+        "the predominance of glycogenogenesis over glycogenolysis",
+        "activation of glycogenolysis and lipolysis",
+        "suppression of ketogenesis",
+        "inhibition of proteolysis"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-81",
+      "question": "Changes in water-salt metabolism in the second stage of fever are characterized by",
+      "options": [
+        "hyperosmolar dehydration",
+        "excretion of sodium and water from the body",
+        "isoosmolar dehydration",
+        "hypoosmolar dehydration",
+        "retention of sodium and chloride in the body"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-82",
+      "question": "The correct statement is",
+      "options": [
+        "chills are a characteristic manifestation of the second stage of fever",
+        "a feeling of thermal comfort is characteristic of the first stage of fever",
+        "pallor and coldness of the skin are characteristic of the first stage of fever",
+        "sweating is most pronounced in the first stage of fever",
+        "urine output decreases in the third stage of fever"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-83",
+      "question": "The negative value of fever is",
+      "options": [
+        "activation of antibody synthesis",
+        "an increase in the formation of interferons",
+        "depletion of energy reserves",
+        "activation of phagocytosis",
+        "reducing the multiplication of microbes"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "credit-1-pef-gn-fever-84",
+      "question": "The positive role of fever is",
+      "options": [
+        "a decrease in the antitoxic function of the liver",
+        "suppression of antibody synthesis",
+        "increased phagocytosis",
+        "increased reproduction of fibroblasts",
+        "strengthening of catabolic processes"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    }
+  ]
+}

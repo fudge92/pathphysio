@@ -1,0 +1,1467 @@
+{
+  "title": "Credit 2: MC 1, MC 2, IPP",
+  "id": "credit-2-mc-1-mc-2-ipp",
+  "questions": [
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-1",
+      "question": "What forms of peripheral circulatory disorders are accompanied by a decrease in local temperature?",
+      "options": [
+        "stasis",
+        "ischemia",
+        "arterial hyperemia",
+        "venous hyperemia"
+      ],
+      "correctAnswers": [0, 1, 3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-2",
+      "question": "What forms of peripheral circulation disturbance is characterize a increase the volumetric rare of blood flow?",
+      "options": [
+        "stasis",
+        "ischemia",
+        "arterial hyperemia",
+        "venous hyperemia"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-3",
+      "question": "Arterial hyperemia is:",
+      "options": [
+        "Increased incoming amount of blood to a certain organ with decreased outflow.",
+        "Increased of blood inflow to a certain organ with normal outflow.",
+        "Decreased incoming amount of blood with normal outflow.",
+        "Decreased or blocked incoming of blood.",
+        "Disturbed perfusion of a tissue."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-4",
+      "question": "Arterial hyperemia could be a result of:",
+      "options": [
+        "Increased function of an organ.",
+        "Inflammation.",
+        "The action of mechanical, chemical irritants, etc.",
+        "Thrombosis and embolism of the vessel."
+      ],
+      "correctAnswers": [0, 1, 2]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-5",
+      "question": "Neurotonic arterial hyperemia is mainly the result of:",
+      "options": [
+        "Increased tone of the vasodilatatory nerves.",
+        "Increased tone of the vasoconstrictive nerves.",
+        "Decreased vasoconstrictive tone."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-6",
+      "question": "Point out the clinical and functional signs of arterial hyperemia:",
+      "options": [
+        "Redness",
+        "Increased of local temperature.",
+        "Cyanosis",
+        "Decreased of local temperature.",
+        "Edema.",
+        "Increased turgor."
+      ],
+      "correctAnswers": [0, 1, 5]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-7",
+      "question": "Microcirculatoty changes in arterial hyperemia is characterized by:",
+      "options": [
+        "Increased diameter of the vessels and more rapid blood flow.",
+        "Increased diameter of the vessels and slowed down blood flow.",
+        "Normal diameter of the vessels and slowed down blood flow.",
+        "Reduced vascular network."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-8",
+      "question": "Increased tissue turgor in arterial hyperemia is caused by:",
+      "options": [
+        "increased volumetric blood flow rate",
+        "dilation of functioning capillaries",
+        "opening of new vessels",
+        "edema",
+        "increased lymph formation"
+      ],
+      "correctAnswers": [1, 4]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-9",
+      "question": "Which of the following factors can cause venous hyperemia?",
+      "options": [
+        "heart failure",
+        "vein obstruction",
+        "vascular atherosclerosis",
+        "vein compression",
+        "occlusion of arteries by a thrombus",
+        "hemoconcentration"
+      ],
+      "correctAnswers": [0, 1, 3, 5]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-10",
+      "question": "Microcirculatory changes in venous hyperemia is characterized by:",
+      "options": [
+        "Increased diameter of the vessels and more rapid blood flow.",
+        "Increased diameter of the vessels and slowed down blood flow",
+        "Reduced vascular diameter, slowed down blood flow.",
+        "Increased vascular network."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-11",
+      "question": "Under what conditions does a pendulum-like blood flow occur?",
+      "options": [
+        "pressure in the bringing arteries is balanced with diastolic pressure",
+        "pressure in the bringing arteries exceeds diastolic pressure",
+        "pressure in the bringing arteries is less than diastolic pressure"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-12",
+      "question": "Point out the factors leading to the development of edema with venous hyperemia:",
+      "options": [
+        "decrease in the intensity of metabolic processes",
+        "slowing blood flow",
+        "change in the permeability of the vascular wall",
+        "increased intracapillary pressure",
+        "dilation of microvessels"
+      ],
+      "correctAnswers": [2, 3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-13",
+      "question": "Make a list the signs of ischemia:",
+      "options": [
+        "redness",
+        "cyanosis",
+        "paleness",
+        "swelling",
+        "increased of local temperature",
+        "pain syndrome",
+        "reduction of the organ (tissue) in volume",
+        "decreased of local temperature"
+      ],
+      "correctAnswers": [2, 5, 6, 7]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-14",
+      "question": "Ischemia is a state of:",
+      "options": [
+        "Decreased or completely stopping arterial blood supply.",
+        "Normal amount of incoming blood with disturbed outflow.",
+        "Increased arterial blood flow with normal outflow.",
+        "Increased 'pumping out' of the blood from an area.",
+        "Centralisation of the blood flow"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-15",
+      "question": "Microcirculatory changes in arterial hyperemia is characterized:",
+      "options": [
+        "an increase in the linear rate of blood flow",
+        "a decrease in the linear rate of blood flow",
+        "increase in volumetric blood flow velocity",
+        "decrease in volumetric blood flow velocity",
+        "an increase in diameter of blood vessels",
+        "reduction in diameter of blood vessels"
+      ],
+      "correctAnswers": [0, 2, 4]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-16",
+      "question": "Cyanosis with venous hyperemia is due to:",
+      "options": [
+        "increased blood levels of deoxygenating hemoglobin",
+        "redistribution of red blood cells in the bloodstream and a decrease in their number",
+        "accumulation of carboxyhemoglobin in the blood"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-17",
+      "question": "Neuroparalytic arterial hyperemia is mainly the result of:",
+      "options": [
+        "Increased tone of the vasodilatatory nerves.",
+        "Increased tone of the vasoconstrictive nerves.",
+        "Decreased vasoconstrictive tone."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-18",
+      "question": "The basic part of pathogenesis of microcirculation changes in arterial hyperemia",
+      "options": [
+        "increased pressure in precapillary arterioles",
+        "dilation of the arterioles",
+        "increase in volumetric blood flow velocity",
+        "an increase in the number of functioning capillaries"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-19",
+      "question": "Make a list the symptoms of venous hyperemia:",
+      "options": [
+        "redness",
+        "cyanosis",
+        "paleness",
+        "swelling",
+        "increased of local temperature",
+        "decreased of local temperature"
+      ],
+      "correctAnswers": [1, 3, 5]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-20",
+      "question": "Microcirculatory changes in ischemia is characterized:",
+      "options": [
+        "an increase in the linear rate of blood flow",
+        "a decrease in the linear rate of blood flow",
+        "increase in volumetric blood flow velocity",
+        "decrease in volumetric blood flow velocity",
+        "an increase in diameter of blood vessels",
+        "reduction in diameter of blood vessels"
+      ],
+      "correctAnswers": [1, 3, 5]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-21",
+      "question": "How does the blood supply to cells change during venous hyperemia?",
+      "options": [
+        "increases",
+        "does not change",
+        "decreases"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-22",
+      "question": "What changes are characteristic of tissues with venous congestion?",
+      "options": [
+        "increased activity of glycolytic processes",
+        "decreased activity of glycolytic processes",
+        "increased collagen synthesis",
+        "decreased collagen synthesis",
+        "increased permeability of cell membranes"
+      ],
+      "correctAnswers": [0, 2, 4]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-23",
+      "question": "Specify a method for reproducing experimental neuroparalytic hyperemia in a rabbit's ear?",
+      "options": [
+        "irritation of the cervical sympathetic trunk",
+        "transection of the cervical sympathetic trunk",
+        "cervical novocaine block",
+        "transection of the vagus nerve",
+        "blockade of peripheral vascular adrenoreceptors"
+      ],
+      "correctAnswers": [1, 2, 4]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-24",
+      "question": "Specify the factors causing a local increase in temperature during arterial hyperemia:",
+      "options": [
+        "increased lymph circulation",
+        "increased intensity of aerobic oxidative processes",
+        "increased intensity of anaerobic oxidative processes",
+        "increased volumetric blood flow rate",
+        "increased heat transfer"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-25",
+      "question": "Specify the signs of arterial hyperemia:",
+      "options": [
+        "redness",
+        "cyanosis",
+        "increased tissue turgor",
+        "local increase in temperature",
+        "local decrease in temperature"
+      ],
+      "correctAnswers": [0, 2, 3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-26",
+      "question": "What form of microcirculation disorder is characterized by an increase in hydrostatic pressure in the capillaries?",
+      "options": [
+        "stasis",
+        "ischemia",
+        "arterial hyperemia",
+        "venous hyperemia"
+      ],
+      "correctAnswers": [2, 3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-27",
+      "question": "Give a classification of types of ischemia",
+      "options": [
+        "neurotonic",
+        "obstructive",
+        "myoparatylic",
+        "angiosplastic",
+        "orthostatic",
+        "compression"
+      ],
+      "correctAnswers": [1, 3, 5]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-28",
+      "question": "According to etiology, arterial hyperemia is divided into",
+      "options": [
+        "physiological",
+        "pathological",
+        "primary",
+        "secondary",
+        "exogenous",
+        "endogenous"
+      ],
+      "correctAnswers": [4, 5]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-29",
+      "question": "The positive effect of venous hyperemia is",
+      "options": [
+        "proliferation of connective tissue in the area of ulcers",
+        "hypertrophy of parenchymatous organs",
+        "increase in fluid content in tissues",
+        "activation of blood supply"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-30",
+      "question": "Negative effects of arterial hyperemia are",
+      "options": [
+        "hypertrophy, hyperplasia and even accelerated development of organs and tissues",
+        "atrophy of connective tissue",
+        "rupture of vascular edema and development of bleeding",
+        "proliferation of connective tissue in the area of ulcers"
+      ],
+      "correctAnswers": [0, 2]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-31",
+      "question": "Possible causes of gas embolism:",
+      "options": [
+        "rapid increase in barometric pressure",
+        "injury to large veins of the neck",
+        "inhalation of air with a high concentration of inert gases",
+        "rapid change in barometric pressure from high to normal or from normal to low"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-32",
+      "question": "Sludge is:",
+      "options": [
+        "first stage of intravascular blood coagulation",
+        "vital aggregation of formed elements of the blood in the lumen of microvessels in combination with increased viscosity and separation of blood",
+        "generalized formation of thrombo-leukocyte aggregates on the walls of microvessels",
+        "coagulation of blood proteins in the lumen of microvessels",
+        "separation of blood into formed elements and plasma."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-33",
+      "question": "Stasis can be of the following types:",
+      "options": [
+        "venous",
+        "ischemic",
+        "true",
+        "all answers are correct"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-34",
+      "question": "The most sensitive tissue to ischemia is:",
+      "options": [
+        "muscle",
+        "connective",
+        "nervous",
+        "epithelial"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-35",
+      "question": "The most dangerous consequence of ischemia is:",
+      "options": [
+        "hypoxia",
+        "necrosis",
+        "metabolic acidosis",
+        "dystrophy"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-36",
+      "question": "With thrombophlebitis of the lower extremities, the most likely development of embolism is:",
+      "options": [
+        "cerebral arteries",
+        "coronary arteries",
+        "pulmonary arteries"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-37",
+      "question": "Under stress, thrombus formation is usually:",
+      "options": [
+        "activated",
+        "inhibited",
+        "not changed",
+        "all answers are incorrect"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-38",
+      "question": "The development of collaterals occurs faster and more intensively in:",
+      "options": [
+        "ischemia",
+        "venous hyperemia",
+        "stasis",
+        "arterial hyperemia"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-39",
+      "question": "Sludge development is most typical for:",
+      "options": [
+        "ischemic stasis",
+        "capillary stasis",
+        "venous stasis",
+        "all answers are correct"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-40",
+      "question": "In ischemia, the development of infarction is most typical for organs:",
+      "options": [
+        "lungs and liver",
+        "brain and heart",
+        "spleen and uterus",
+        "intestines and stomach"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-41",
+      "question": "With psycho-emotional excitement, the mucous membrane of the digestive tract usually develops:",
+      "options": [
+        "ischemia",
+        "arterial hyperemia",
+        "venous hyperemia",
+        "stasis"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-42",
+      "question": "Probable outcomes of prolonged ischemia:",
+      "options": [
+        "acidosis, dystrophy, necrosis",
+        "alkalosis, hypoxia, necrosis",
+        "decreased metabolism and functions, alkalosis",
+        "increased metabolism and functions, dystrophy"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-43",
+      "question": "Signs of ischemic tissue are:",
+      "options": [
+        "decreased metabolism, cyanosis, pain",
+        "cyanosis, decreased temperature, increased volume",
+        "paleness, pain, decreased temperature",
+        "redness, pain, increased temperature"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-44",
+      "question": "Applying a tourniquet to a limb during bleeding ensures the development of:",
+      "options": [
+        "arterial hyperemia",
+        "ischemia",
+        "venous hyperemia",
+        "true stasis"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-45",
+      "question": "The tissue most sensitive to ischemia is:",
+      "options": [
+        "smooth muscle tissue",
+        "connective tissue",
+        "intestinal mucosa",
+        "spermatogenic epithelium"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-46",
+      "question": "Sludge phenomenon is the main mechanism of development of:",
+      "options": [
+        "arterial hyperemia",
+        "stasis",
+        "venous hyperemia",
+        "thrombosis",
+        "ischemia"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-47",
+      "question": "The consequence of embolism of an arterial vessel may be:",
+      "options": [
+        "arterial hyperemia",
+        "venous hyperemia",
+        "ischemia",
+        "thromboembolism"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-48",
+      "question": "What type of embolism can develop when moving from a zone of increased barometric pressure to normal?",
+      "options": [
+        "fat embolism",
+        "thromboembolism",
+        "gas embolism",
+        "retrograde",
+        "tissue"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-49",
+      "question": "Specify the signs characteristic of ischemia:",
+      "options": [
+        "decrease in temperature of superficial tissues",
+        "decrease in temperature of internal organs",
+        "cyanosis of an organ",
+        "pallor of an organ or tissue",
+        "pain",
+        "decreased tissue turgor"
+      ],
+      "correctAnswers": [0, 3, 4, 5]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-50",
+      "question": "What microcirculation changes are characteristic of ischemia?",
+      "options": [
+        "increase in arteriovenous pressure difference",
+        "decrease in intravascular pressure",
+        "increase in linear blood flow velocity",
+        "increase in fluid resorption from tissue into capillaries",
+        "decrease in the number of functioning capillaries"
+      ],
+      "correctAnswers": [1, 3, 4]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-51",
+      "question": "Which of the following factors can lead to the development of ischemia?",
+      "options": [
+        "obstruction of an arteriole by a thrombus",
+        "compression of veins by scar tissue",
+        "angiospasm",
+        "atherosclerotic changes in blood vessels",
+        "compression of an artery by a tumor"
+      ],
+      "correctAnswers": [0, 2, 3, 4]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-52",
+      "question": "What are the possible early consequences of myocardial tissue reperfusion after short-term (up to 10 min) ischemia?",
+      "options": [
+        "restoration of intensity and tissue respiration in mitochondria",
+        "increased glycolysis",
+        "focal necrosis",
+        "elimination of hypoxia",
+        "development of arterial hyperemia in the reperfusion zone",
+        "stabilization of cell membranes",
+        "activation of free radical reactions and lipid peroxidation"
+      ],
+      "correctAnswers": [0, 3, 4, 6]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-53",
+      "question": "What biologically active substances can cause ischemia?",
+      "options": [
+        "histamine",
+        "catecholamines",
+        "acetylcholine",
+        "bradykinin",
+        "thromboxane A2"
+      ],
+      "correctAnswers": [1, 4]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-54",
+      "question": "What changes can occur in the ischemic zone?",
+      "options": [
+        "necrosis",
+        "acidosis",
+        "weakening of function",
+        "strengthening of function",
+        "accumulation of Ca in the haploplasm of cells",
+        "increase in the content of K4 in cells",
+        "increase in the content of Na in cells"
+      ],
+      "correctAnswers": [0, 1, 2, 4, 6]
+    },
+        {
+      "id": "credit-2-mc-1-mc-2-ipp-55",
+      "question": "Which organs have absolutely insufficient collaterals?",
+      "options": [
+        "brain",
+        "skeletol muscle",
+        "heart",
+        "spleen",
+        "kidney",
+        "liver",
+        "stomach wall"
+      ],
+      "correctAnswers": [0, 2, 3, 4]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-56",
+      "question": "Specify the factors that contribute to the 'switching on' of collateral circulation in the ischemic zone and around it:",
+      "options": [
+        "increase in the concentration of adenosine in the ischemic tissue",
+        "tachycardia",
+        "increase in the blood pressure gradient in the arterial vessels above and below the occlusion of the artery",
+        "acidosis in the ischemic zone",
+        "K-hyperionia in the ischemic zone",
+        "hypokalemia in the ischemic zone"
+      ],
+      "correctAnswers": [0, 2, 3, 4]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-57",
+      "question": "Specify possible causes of gas embolism:",
+      "options": [
+        "rapid increase in barometric pressure",
+        "injury to large veins of the neck",
+        "rapid decrease in barometric pressure from high to normal",
+        "inhalation of air with a high concentration of inert gases",
+        "rapid change in barometric pressure from normal to low"
+      ],
+      "correctAnswers": [2, 4]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-58",
+      "question": "Specify the factors that contribute to stasis:",
+      "options": [
+        "increase in albumin filtration into surrounding tissues",
+        "direct effect of high or low temperature on tissues",
+        "dilation of afferent vessels",
+        "tissue damage by acids or alkalis"
+      ],
+      "correctAnswers": [0, 1, 3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-59",
+      "question": "What factors contribute to the disruption of the rheological properties of blood in microvessels?",
+      "options": [
+        "decrease in the rigidity of the erythrocyte membrane",
+        "decrease in the deformability of erythrocytes",
+        "increased aggregation of erythrocytes with the formation of a mesh suspension",
+        "adhesion of erythrocytes and the formation of 'coin columns'",
+        "change in the structure of blood flow in the capillaries",
+        "increase in the concentration of erythrocytes in the circulatory system"
+      ],
+      "correctAnswers": [1, 2, 3, 5]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-60",
+      "question": "Specify emboli of endogenous origin:",
+      "options": [
+        "cells of decaying tumors",
+        "droplets of fat in fractures of tubular bones",
+        "accumulation of parasites",
+        "detached thrombi",
+        "air bubbles"
+      ],
+      "correctAnswers": [0, 1, 3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-61",
+      "question": "What are the consequences of emboli entering the arteries of the systemic circulation?",
+      "options": [
+        "embolism of the cerebral vessels",
+        "thromboembolism of the pulmonary arteries",
+        "portal hypertension",
+        "embolism of the renal vessels",
+        "embolism of the intestinal vessels"
+      ],
+      "correctAnswers": [0, 3, 4]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-62",
+      "question": "Specify the possible consequences of deep vein thrombosis of the lower extremities:",
+      "options": [
+        "embolism of the cerebral arteries",
+        "thromboembolism of the pulmonary arteries",
+        "portal hypertension",
+        "embolism of the renal vessels",
+        "embolism of the intestinal vessels"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-63",
+      "question": "The term 'retrograde embolism' is used when:",
+      "options": [
+        "an embolus passes from one circulatory system to another, bypassing the capillary bed",
+        "embolus moves against the blood flow",
+        "embolus moves through arteriovenous shunts",
+        "embolus moves through an unclosed interatrial septum",
+        "embolus moves through an unclosed ductus arteriosus"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-64",
+      "question": "Specify the types of ischemia by causes of occurrence:",
+      "options": [
+        "vacant",
+        "postanemic",
+        "compression",
+        "reflex",
+        "neuroparalytic",
+        "obstructive",
+        "inflammatory"
+      ],
+      "correctAnswers": [2, 3, 5]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-65",
+      "question": "Specify the types of embolism depending on the location of the embolus:",
+      "options": [
+        "retrograde",
+        "paradoxical",
+        "capillary",
+        "systemic circulation",
+        "pulmonary circulation",
+        "portal vein"
+      ],
+      "correctAnswers": [3, 4, 5]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-66",
+      "question": "What causes can cause air embolism?",
+      "options": [
+        "rapid ascent to altitude",
+        "heart surgery",
+        "change in atmospheric pressure from high to normal in divers and caissons workers",
+        "damage to large veins (cervix, uterus)",
+        "depressurization of the aircraft cabin"
+      ],
+      "correctAnswers": [1, 3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-67",
+      "question": "What causes fat embolism?",
+      "options": [
+        "fracture of tubular bones and pelvic bones",
+        "fracture of the spine and ribs",
+        "intravenous injections of oil solutions",
+        "intramuscular injections of oil solutions",
+        "crushing of subcutaneous fat"
+      ],
+      "correctAnswers": [0, 2, 4]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-68",
+      "question": "What central hemodynamic disturbances may indicate pulmonary embolism?",
+      "options": [
+        "sharp increase in arterial pressure in the systemic circulation",
+        "sharp decrease in arterial pressure in the systemic circulation",
+        "increase in pressure in the pulmonary artery",
+        "decrease in pressure in the pulmonary artery"
+      ],
+      "correctAnswers": [1, 2]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-69",
+      "question": "From which parts of the cardiovascular system can emboli be carried into the pulmonary circulation?",
+      "options": [
+        "venous system of the systemic circulation",
+        "arterial system of the systemic circulation",
+        "arterial system of the pulmonary circulation",
+        "venous system of the pulmonary circulation",
+        "right heart",
+        "left heart"
+      ],
+      "correctAnswers": [0, 2, 4]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-70",
+      "question": "From which parts of the cardiovascular system can emboli be carried into the systemic circulation?",
+      "options": [
+        "venous system of the systemic circulation",
+        "arterial system of the systemic circulation",
+        "arterial system of the pulmonary circulation",
+        "venous system of the pulmonary circulation",
+        "right heart",
+        "left heart"
+      ],
+      "correctAnswers": [1, 3, 5]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-71",
+      "question": "Specify the classic clinical triad of portal vein embolism:",
+      "options": [
+        "ascites",
+        "hydropericardium",
+        "splenomegaly",
+        "dilation of the veins of the anterior abdominal wall"
+      ],
+      "correctAnswers": [0, 2, 3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-72",
+      "question": "What prevents compensation of blood flow disturbance during ischemia?",
+      "options": [
+        "insufficient number of arterial anastomoses in the ischemic area",
+        "accumulation of biologically active substances (adenosine, PGE, prostacyclin, kinins) in the ischemic area",
+        "atherosclerotic changes in the walls of collaterals",
+        "increased blood viscosity",
+        "general circulatory disorders caused by heart failure"
+      ],
+      "correctAnswers": [0, 2, 3, 4]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-73",
+      "question": "What factors determine the outcome of ischemia?",
+      "options": [
+        "rate of ischemia development",
+        "duration of ischemia",
+        "sensitivity of the organ or tissue to hypoxia",
+        "degree of development of collateral circulation",
+        "previous functional state of the organ or tissue"
+      ],
+      "correctAnswers": [1, 2, 3, 4]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-74",
+      "question": "A high risk of developing air embolism occurs when the following is injured:",
+      "options": [
+        "jugular vein",
+        "subclavian vein",
+        "sinuses of the dura mater",
+        "pulmonary vessels"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-75",
+      "question": "Gas embolism occurs in the event of a rapid transition:",
+      "options": [
+        "from high atmospheric pressure to normal",
+        "from normal atmospheric pressure to sharply low",
+        "from normal atmospheric pressure to high",
+        "from low atmospheric pressure to high"
+      ],
+      "correctAnswers": [0, 1]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-76",
+      "question": "Paradoxical embolism can be observed in:",
+      "options": [
+        "aortic valve insufficiency",
+        "mitral valve stenosis",
+        "patent ductus arteriosus",
+        "congenital ventricular septal defect"
+      ],
+      "correctAnswers": [2, 3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-77",
+      "question": "What changes can occur in the ischemic zone?",
+      "options": [
+        "alkalosis",
+        "necrosis",
+        "organ function does not change",
+        "function enhancement",
+        "K+ content in cells decreases, Na+ content in cells increases"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-78",
+      "question": "Possible causes of gas embolism",
+      "options": [
+        "rapid increase in barometric pressure",
+        "injury to large veins of the neck",
+        "rapid decrease in barometric pressure from high to normal",
+        "inhalation of air with a high concentration of inert gases",
+        "slow increase in barometric pressure from normal to low"
+      ],
+      "correctAnswers": [2]
+    },
+        {
+      "id": "credit-2-mc-1-mc-2-ipp-79",
+      "question": "Emboli of endogenous origin",
+      "options": [
+        "cells of decaying tumors",
+        "accumulation of microorganisms in vessels",
+        "accumulation of parasites",
+        "air bubbles",
+        "gas bubbles"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-80",
+      "question": "Symptoms of ischemia",
+      "options": [
+        "decreased rigidity of the red blood cell membrane",
+        "decreased temperature of internal organs",
+        "cyanosis of the organ",
+        "pallor of the organ or tissue",
+        "increased organ function"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-81",
+      "question": "The main target of HIV are:",
+      "options": [
+        "lymphocytes;",
+        "T-killer lymphocytes;",
+        "T-helper lymphocytes;",
+        "NK-cells."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-82",
+      "question": "Indicate the correct statement:",
+      "options": [
+        "receptor for the HIV virus infection is a molecule of CD4;",
+        "when HIV infection population of T-helper lymphocytes is depleted;",
+        "when HIV anti-infective immunity is disrupted;",
+        "all statements are true."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-83",
+      "question": "Active sensitization of the organism may be caused by:",
+      "options": [
+        "the introduction of specific antibodies;",
+        "introduction of antigens;",
+        "the introduction of the sensitized lymphocytes-effectors;",
+        "introduction of immunostimulators;",
+        "administration of the immunosuppressants."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-84",
+      "question": "What does not refer to primary immunodeficiency:",
+      "options": [
+        "HIV infection;",
+        "DiGeorge syndrome;",
+        "Bruton agammaglobulinemia;",
+        "agammaglobulinemia of Swiss type."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-85",
+      "question": "Hereditary and congenital immunodeficiency may be:",
+      "options": [
+        "combined: with the defeat of the cell (T) and humoral (B) components of immunity;",
+        "with preferred defects of cellular immunity;",
+        "with preferred defects of antibody production by B-lymphocytes;",
+        "with defects of phagocytosis by microphages (neutro-, baso-, eosinophils);",
+        "with defects of the system of mononuclear phagocytes;",
+        "with defects of the production of chemotactic factors;",
+        "with insufficiency of the humoral factors of nonspecific protection."
+      ],
+      "correctAnswers": [0, 1, 2, 4]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-86",
+      "question": "Autoimmune diseases can be caused by:",
+      "options": [
+        "disorders of the immune system, manifested in the appearance of antibodies to antigens of own normal cells;",
+        "protein denaturation of own cells and tissues;",
+        "formation of antibodies to proteins of cells and organs that are isolated in the ontogeny from the immune system;",
+        "formation of antibodies that cross-react with foreign and self proteins;",
+        "the effect of biogenic amines which released by mast cells;",
+        "the development of tolerance to tumor Ag."
+      ],
+      "correctAnswers": [0, 1, 2, 3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-87",
+      "question": "Secondary immunodeficiencies may occur when:",
+      "options": [
+        "extensive burns;",
+        "X-ray irradiation, corticosteroid therapy, thymectomy;",
+        "leukemia;",
+        "viral, bacterial, fungal, protozoal infections and helminthoses;",
+        "malignant tumors;",
+        "all of the above."
+      ],
+      "correctAnswers": [5]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-88",
+      "question": "Immunodeficiencies may be based on insufficiency of the following 'factors' and/or processes:",
+      "options": [
+        "antibody production;",
+        "phagocytosis with involving of mononuclear phagocytes;",
+        "T-lymphocytes;",
+        "complement system;",
+        "all of the above."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-89",
+      "question": "What cells of the immune system cells are the main target for the AIDS virus:",
+      "options": [
+        "B-lymphocytes;",
+        "T-killers;",
+        "T-helper cells;",
+        "T-suppressors."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-90",
+      "question": "What organs and tissues can be attributed to 'behind a barrier'?",
+      "options": [
+        "red blood cells;",
+        "lens of the eye;",
+        "colloid of the thyroid gland;",
+        "kidney;",
+        "gray matter of the brain;",
+        "testes."
+      ],
+      "correctAnswers": [1, 2, 4, 5]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-91",
+      "question": "Indicate diseases that are autoimmune:",
+      "options": [
+        "Hashimoto thyroiditis;",
+        "serum sickness;",
+        "pollinosis;",
+        "rheumatoid arthritis;",
+        "systemic lupus erythematosus."
+      ],
+      "correctAnswers": [0, 3, 4]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-92",
+      "question": "What part of immunity plays the most significant role in causing of autoimmune diseases?",
+      "options": [
+        "cell;",
+        "humoral."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-93",
+      "question": "Indicate the primary immunodeficiency:",
+      "options": [
+        "thymic hypoplasia (DiGeorge syndrome);",
+        "acquired immunodeficiency syndrome in childhood;",
+        "Bruton's agammaglobulinemia;",
+        "Klinefelter's syndrome."
+      ],
+      "correctAnswers": [0, 2]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-94",
+      "question": "Which of the following statements are true?",
+      "options": [
+        "receptors for virus of HIV-infection is a molecule of CD4;",
+        "when HIV-infection is depleted population of T-lymphocytes helpers;",
+        "when HIV-infection is disrupted of the anti-infective immunity;",
+        "all statements are true."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-95",
+      "question": "Is it true: pathogenetic essence of reaction 'graft versus host' is that the cells contained in the graft, settle in the organism of recipient and damage its cell?",
+      "options": [
+        "yes;",
+        "no."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-96",
+      "question": "Indicate the cells, tissues and organs containing autoantigens:",
+      "options": [
+        "the thyroid gland;",
+        "lens of the eye;",
+        "cells of the periosteum;",
+        "nerve cells."
+      ],
+      "correctAnswers": [0, 1, 3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-97",
+      "question": "Which of the following pathological processes relate to typical forms of violation of immunity?",
+      "options": [
+        "hypotrophy of thymus;",
+        "lymphadenopathy;",
+        "immunodeficiency states;",
+        "pathological tolerance;",
+        "lymphocytic leukemia;",
+        "reaction of 'graft-versus-host disease.'"
+      ],
+      "correctAnswers": [2, 3, 5]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-98",
+      "question": "What is one of the important differences between antigen-presenting cells of the immune system from other cells having phagocytic activity?",
+      "options": [
+        "is not capable to completeness of phagocytosis;",
+        "have a more high phagocytic activity;",
+        "have the phagocytic activity only in cooperation with the T- and B-lymphocytes;",
+        "are able to transmit information about alien Ag to T- and B-lymphocytes."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-99",
+      "question": "What cells of the transplanted tissue ensure the development of reaction 'graft versus host'?",
+      "options": [
+        "stromal;",
+        "blood cells contained in the transplanted organ;",
+        "cells of the immune system that are in the tissues;",
+        "the cells containing genes of major histocompatibility complex."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-100",
+      "question": "Immunodeficiency states with predominant lesion of cellular immunity include:",
+      "options": [
+        "DiGeorge syndrome;",
+        "Higashi syndrome;",
+        "Wiskott-Aldrich syndrome;",
+        "Louis-Bar syndrome."
+      ],
+      "correctAnswers": [0, 2]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-101",
+      "question": "Di Giorgi syndrome is characterized by the following features:",
+      "options": [
+        "congenital pathology;",
+        "the genetic nature of the disease;",
+        "hypoplasia of the thymus;",
+        "hypocalcemia;",
+        "hypercalcemia."
+      ],
+      "correctAnswers": [0, 2, 3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-102",
+      "question": "Reduction of efficiency of phagocytosis is observed in the conditions of:",
+      "options": [
+        "leukopenia;",
+        "activation of sympathoadrenaladrenal system;",
+        "activation of complement system;",
+        "deficit of opsonines."
+      ],
+      "correctAnswers": [0, 3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-103",
+      "question": "The reasons for incomplete phagocytosis may be:",
+      "options": [
+        "an excess amount of glucocorticoids in the blood;",
+        "a moderate increase of body temperature;",
+        "failure of the myeloperoxidase system of leukocytes;",
+        "hypergammaglobulinemia."
+      ],
+      "correctAnswers": [0, 2]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-104",
+      "question": "What is the role of B-lymphocyte in the antibody genesis?",
+      "options": [
+        "convert antigen into an immunogenic form and differentiate into plasma cells - antibody producers;",
+        "produce an inductor of the immunopoiesis;",
+        "stimulate T-cell system of lymphocytes;",
+        "under the influence of specific and non-specific signal derived from T-helper cells proliferate and differentiate into plasma cells - antibody producers."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-105",
+      "question": "What is the role of T-suppressors in immunity?",
+      "options": [
+        "produce blocking antibodies;",
+        "inhibit phagocytosis;",
+        "inhibit formation of secondary endoallergens;",
+        "recognize antigens of own organism and form immune tolerance;",
+        "prevent autoimmune processes;",
+        "inhibit the differentiation of B-lymphocytes into plasma cells, and thereby inhibit antibody genesis;",
+        "inhibit the formation of sensitized lymphocytes, inhibiting cellular immunological reactions."
+      ],
+      "correctAnswers": [3, 4, 5, 6]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-106",
+      "question": "What is the role of T-effectors (killers, sensitized lymphocytes) in immunological reactions?",
+      "options": [
+        "recognize antigen;",
+        "produce the antigen;",
+        "stimulate B- system of lymphocyte;",
+        "under the influence of antigenic stimulation proliferate to form a clone of sensitized T-lymphocytes (killers) and carry out immune reactions of the cellular type;",
+        "together with the T-suppressor involved in the formation of immunological tolerance."
+      ],
+      "correctAnswers": [0, 3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-107",
+      "question": "Indicate reasons for primary immunodeficiency:",
+      "options": [
+        "toxic effects on the immune system in early childhood;",
+        "the effect of ionizing radiation;",
+        "frequent infections in childhood;",
+        "genetically determined blocks of lymphocytes at different stages of maturation."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-108",
+      "question": "Indicate the most important immunological mechanisms of failure in immunoglobulin production:",
+      "options": [
+        "defective of the B-system of lymphocytes;",
+        "defective of the T-helper cells;",
+        "excess (absolute or relative) and hyperactivity of the T-suppressors;",
+        "deficiency of the myeloperoxidase system of leukocytes;",
+        "hypergammaglobulinemia."
+      ],
+      "correctAnswers": [1, 2, 4]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-109",
+      "question": "Why does the deficit of protein in the body, caused by any reasons, lead to immunodeficiency?",
+      "options": [
+        "lymphoid cells have the highest level of mitotic activity, and in conditions of protein deficit is suppressed regeneration of immune organs, in them atrophy develops with inhibition of function;",
+        "when protein deficiency is disrupted hormonal regulation of the immune response;",
+        "lymphoid cells have the lowest level of mitotic activity, and in conditions of protein deficiency is suppressed regeneration of immune organs, in them atrophy develops with inhibition of function."
+      ],
+      "correctAnswers": [0, 1]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-110",
+      "question": "What is the main danger of immunodeficient states?",
+      "options": [
+        "in an increased tendency to infection, its chronization and generalization;",
+        "an increased tendency to neoplastic processes;",
+        "possibility of development of autoimmune diseases on the basis of immunodeficiency;",
+        "reduced propensity to neoplastic processes;",
+        "low propensity to infection, its chronization and generalization."
+      ],
+      "correctAnswers": [0, 1, 2]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-111",
+      "question": "What biologically active substances are secondary mediators of allergy (3):",
+      "options": [
+        "Heparin",
+        "leukotrienes C4, D4, E4",
+        "histamine",
+        "eosinophil chemotaxic factor",
+        "prostaglandins E2 and F2",
+        "neutrophil chemotaxis factor"
+      ],
+      "correctAnswers": [0, 2, 3, 5]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-112",
+      "question": "What biologically active substances are secondary mediators of allergy (3)?",
+      "options": [
+        "heparin",
+        "leukotrienes C4, D4, E4",
+        "histamine",
+        "eosinophil chemotaxis factor",
+        "prostaglandins E2 and F2",
+        "neutrophil chemotaxis factor",
+        "platelet activation factor"
+      ],
+      "correctAnswers": [1, 4, 6]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-113",
+      "question": "Make a list the effects of histamine (4):",
+      "options": [
+        "decrease in vascular permeability",
+        "increased vascular permeability",
+        "a increased in the tone of the smooth muscles of the bronchi",
+        "reduction of the smooth muscles of the bronchi",
+        "increased secretion of mucus",
+        "decreased mucus secretion",
+        "itching of skin"
+      ],
+      "correctAnswers": [1, 2, 4, 6]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-114",
+      "question": "What diseases are basically anaphylactic type of damage (3)?",
+      "options": [
+        "atopic bronchial asthma",
+        "serum sickness",
+        "allergic rhinitis",
+        "anaphylactic shock",
+        "contact dermatitis",
+        "hemolytic anemia"
+      ],
+      "correctAnswers": [0, 2, 3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-115",
+      "question": "What classes of immunoglobulin are cytotoxic antibodies (2)?",
+      "options": [
+        "IgE",
+        "IgM",
+        "IgG1,2,3",
+        "IgG4",
+        "IgA"
+      ],
+      "correctAnswers": [1, 2]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-116",
+      "question": "What diseases have a cytotoxic mechanism of damage (3)?",
+      "options": [
+        "serum sickness",
+        "immune thrombocytopenia",
+        "hay fever",
+        "immune hemolytic anemia",
+        "immune agranulocytosis",
+        "leukemia"
+      ],
+      "correctAnswers": [1, 3, 4]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-117",
+      "question": "What immunoglobulin causes immune complex allergic reactions (4)?",
+      "options": [
+        "IgG1",
+        "IgG2",
+        "IgG3",
+        "IgG4",
+        "IgA",
+        "IgM",
+        "IgE"
+      ],
+      "correctAnswers": [0, 1, 2, 5]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-118",
+      "question": "Point out the pathology with the main mechanism of damage according to the type of cell mediated reaction (4):",
+      "options": [
+        "serum sickness",
+        "transplant rejection",
+        "contact dermatitis",
+        "collagen diseases",
+        "bacterial allergy",
+        "hemolytic anemia"
+      ],
+      "correctAnswers": [1, 2, 3, 4]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-119",
+      "question": "What genetic defect of cells forms Chediak-Higassi syndrome (1)?",
+      "options": [
+        "myeloid stem cells",
+        "T- lymphocytes",
+        "B- lymphocyte",
+        "phagocytic cells"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-120",
+      "question": "What immune system disorders are found in Bruton syndrome (1)?",
+      "options": [
+        "changes of T-cell reactions",
+        "changes of B-cell reactions",
+        "changes of the phagocytic function of macro- and microphages",
+        "decreased synthesis of immunoglobulin by plasma cells"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-121",
+      "question": "What are causes of secondary immunodeficiency (3)?",
+      "options": [
+        "allergic diseases / bronchial asthma, hay fever /",
+        "prolonged infections",
+        "the effect of ionizing radiation",
+        "the use of corticosteroids, antimetabolites, cytostatics"
+      ],
+      "correctAnswers": [1, 2, 3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-122",
+      "question": "For delayed type of allergic reaction is specifically (2):",
+      "options": [
+        "sensitized T-lymphocytes play a basic role in pathogenesis",
+        "the basic role in the pathogenesis is played by IgM, IgG",
+        "the reaction manifests itself in 20-30 minutes",
+        "in clinical manifestations, the main role is played by lymphokines"
+      ],
+      "correctAnswers": [0, 3]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-123",
+      "question": "For immediate type of allergic reaction is specifically (2):",
+      "options": [
+        "the basic role is played by Ig",
+        "these reactions develop 24-48 hours after repeated contact with the allergen",
+        "the main role is played by histamine, prostaglandins, leukotrienes",
+        "the main role is played by lymphokine"
+      ],
+      "correctAnswers": [0, 2]
+    },
+    {
+      "id": "credit-2-mc-1-mc-2-ipp-124",
+      "question": "With Bruton syndrome the formation of...... is blocked (1):",
+      "options": [
+        "T - lymphocytes;",
+        "plasma cells;",
+        "granulocytes;",
+        "complement"
+      ],
+      "correctAnswers": [1]
+    }
+  ]
+}

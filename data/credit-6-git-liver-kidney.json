@@ -1,0 +1,818 @@
+{
+  "title": "Credit 6: GIT, LIVER, KIDNEY",
+  "id": "credit-6-git-liver-kidney",
+  "questions": [
+    {
+      "id": "credit-6-git-liver-kidney-1",
+      "question": "Which bacterial colonization of the stomach proven is essential for gastritis and peptic ulcer :",
+      "options": [
+        "staphylococcus aureus.",
+        "escherichia coli.",
+        "Helicobacter Pylori",
+        "rickettsia conori"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-2",
+      "question": "What is the central unit in the pathogenesis of ulcer on the body of the stomach :",
+      "options": [
+        "hyperfunction of the parietal cells of the stomach.",
+        "duodenal reflux.",
+        "reduced resistance of the gastric mucosa",
+        "lost neuro- humoral regulation of secretion"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-3",
+      "question": "Main stimuli for increased acid-peptic activity of the gastric juice are :",
+      "options": [
+        "increased tone of the vagal nerve",
+        "hypergastrinaemia",
+        "increased histamine secretion",
+        "increased pepsinogen secretion"
+      ],
+      "correctAnswers": [0, 1, 2]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-4",
+      "question": "How will the food evacuation from the stomach change with increased secretion of gastric juice?",
+      "options": [
+        "will slow down",
+        "will accelerate"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-5",
+      "question": "What are the manifestations of malabsorption syndrome :",
+      "options": [
+        "weight loss",
+        "vomiting, heartburn",
+        "vitamin deficiency",
+        "anemia",
+        "obesity",
+        "immunodeficiencies"
+      ],
+      "correctAnswers": [0, 2, 3, 5]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-6",
+      "question": "Point out the main factors of damage to the gastric mucosa :",
+      "options": [
+        "spicy food",
+        "alcohol",
+        "high pepsin activity",
+        "low hydrochloric acid"
+      ],
+      "correctAnswers": [0, 1, 2]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-7",
+      "question": "What are the main factors that protect the gastric mucosa :",
+      "options": [
+        "histamine",
+        "pepsin",
+        "bicarbonates",
+        "mucous",
+        "prostaglandins E2 and F2"
+      ],
+      "correctAnswers": [2, 3, 4]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-8",
+      "question": "Point out the main reasons of hypersalivation :",
+      "options": [
+        "the inflammatory process in the oral cavity and stomach",
+        "stimulation of the center of salivation in the medulla oblongata",
+        "fever",
+        "toxicosis of pregnancy",
+        "stress"
+      ],
+      "correctAnswers": [0, 1, 3, 4]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-9",
+      "question": "Point out the main reasons of hyposalivation (5):",
+      "options": [
+        "inflammation of salivary glands",
+        "tumor of the salivary glands",
+        "sialolithiasis",
+        "dehydration",
+        "toxicosis of pregnancy",
+        "stress"
+      ],
+      "correctAnswers": [0, 1, 2, 3, 5]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-10",
+      "question": "Indicate the main causes of chewing disorders :",
+      "options": [
+        "caries",
+        "paradontosis",
+        "inflammation in oral cavity",
+        "malocclusion"
+      ],
+      "correctAnswers": [0, 1, 2, 3]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-11",
+      "question": "What are the causes of diarrhea ?",
+      "options": [
+        "irritation of intestinal receptors by poorly digested food",
+        "the effect on the intestinal cells of poisons, toxins",
+        "impaired gastric motility."
+      ],
+      "correctAnswers": [0, 1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-12",
+      "question": "Indicate the consequences of poor chewing food :",
+      "options": [
+        "decreased secretion of gastric juice",
+        "mechanical damage to the mucosa of the esophagus, stomach",
+        "impaired gastric secretion and motility"
+      ],
+      "correctAnswers": [1, 2]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-13",
+      "question": "The main reasons for the development of malabsorption syndrome :",
+      "options": [
+        "atrophy of the small intestine mucosa",
+        "extensive resection of the small intestine",
+        "hyperacid gastritis",
+        "chronic enteritis"
+      ],
+      "correctAnswers": [0, 1, 3]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-14",
+      "question": "Anorexia is:",
+      "options": [
+        "lack of appetite",
+        "increased food intake",
+        "excessive appetite",
+        "inability to swallow"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-15",
+      "question": "Dysphagia is:",
+      "options": [
+        "lack of appetite",
+        "excessive appetite",
+        "increased food intake",
+        "difficulties of swallowing"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-16",
+      "question": "Neurotic anorexia occurs with :",
+      "options": [
+        "intestinal infections",
+        "diabetes",
+        "negative emotions",
+        "intoxication",
+        "vomiting."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-17",
+      "question": "Hyperrexia is observed with :",
+      "options": [
+        "diabetes",
+        "intoxication",
+        "pain",
+        "inhibition of the food center"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-18",
+      "question": "The consequences of hypersalivation include",
+      "options": [
+        "plaque in the language",
+        "the development of inflammatory processes in the oral cavity.",
+        "multiple dental caries",
+        "neutralization of the gastric juice"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-19",
+      "question": "Factors participating in the pathogenesis of heartburn :",
+      "options": [
+        "functional insufficiency of cardinal sphincter",
+        "overing the acidity of gastric juice",
+        "effects of certain foods and drugs"
+      ],
+      "correctAnswers": [0, 1, 2]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-20",
+      "question": "Hypokinesia of the stomach may be caused by :",
+      "options": [
+        "visceral reflexes",
+        "overeating",
+        "vitamin B1 deficit",
+        "Impaired gastric secretion"
+      ],
+      "correctAnswers": [0, 1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-21",
+      "question": "Examples of secretary diarrhea include :",
+      "options": [
+        "cholera",
+        "enzymes deficiency",
+        "hormones elaborated by hormone-producing tumours"
+      ],
+      "correctAnswers": [0, 2]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-22",
+      "question": "Hepatic jaundice is characterized:",
+      "options": [
+        "increase in blood of unconjugated bilirubin and urobilinogen",
+        "increase in blood conjugated bilirubin, bile acids and cholesterol",
+        "increase in urinary content of urobilin in stool stercobilin"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-23",
+      "question": "Hemolitic jaundice is characterized:",
+      "options": [
+        "increase in blood conjugated bilirubin, bile acids and cholesterol",
+        "increase in urine in the content of urobilin, in stool stercobilin, in the blood unconjugated bilirubin"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-24",
+      "question": "Pigment to improve dark color to urine in jaundice",
+      "options": [
+        "conjugated bilirubin",
+        "unconjugated bilirubin",
+        "urobilin",
+        "stercobilin"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-25",
+      "question": "The appearance of ascites in liver failure develop due to:",
+      "options": [
+        "hypoalbuminemia",
+        "portal hypertension",
+        "heart failure"
+      ],
+      "correctAnswers": [0, 1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-26",
+      "question": "What causes of preraphetic jaundice?",
+      "options": [
+        "effect of ionizing radiation on the body",
+        "effect of high external temperature",
+        "hemolytic poisons",
+        "acidosis"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-27",
+      "question": "Intrahepatic jaundice occurs when:",
+      "options": [
+        "action of hepatotropic poisons",
+        "effect of viral infection on the liver",
+        "acute radiation sickness",
+        "transfusion of incompatible blood"
+      ],
+      "correctAnswers": [0, 1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-28",
+      "question": "Posthepatic jaundice occurs with:",
+      "options": [
+        "biliary dyskinesia",
+        "effect on the liver of a viral infection",
+        "gallstone disease",
+        "tumors of the stomach",
+        "tumors of the Fatter papilla"
+      ],
+      "correctAnswers": [0, 2, 4]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-29",
+      "question": "What pathogenesis of jaundice is fecal discoloration possible?",
+      "options": [
+        "prehepatic jaundice",
+        "hepatocellular jaundice",
+        "posthepatic jaundice"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-30",
+      "question": "Normally, bilirubin circulating in the blood is associated with:",
+      "options": [
+        "blood albumin",
+        "blood globulins",
+        "with a specific carrier protein"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-31",
+      "question": "Indicate what type of jaundice develops during transfusion of incompatible blood:",
+      "options": [
+        "prerhepatic",
+        "hepatic",
+        "posthepatic"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-32",
+      "question": "What type of jaundice develops in the patient due to the presence of stones in the common bile duct:",
+      "options": [
+        "hepatic",
+        "prehepatic",
+        "posthepatic"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-33",
+      "question": "The most common cause of chronic hepatitis are",
+      "options": [
+        "viruses",
+        "bacteria",
+        "helminths",
+        "rickettsia"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-34",
+      "question": "The presence of bile salts in the blood causes",
+      "options": [
+        "tachycardia",
+        "bradycardia",
+        "fever",
+        "high blood pressure"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-35",
+      "question": "What is the reason for the deficiency of fat-soluble vitamins in hepatic cell failure?",
+      "options": [
+        "pancreatic trypsin deficiency",
+        "deficiency of bile and a decrease in the emulsification of fats in the intestine",
+        "enhanced emulsification of fat in the intestines"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-36",
+      "question": "In what organs is direct (conjugated) bilirubin formed?",
+      "options": [
+        "lungs",
+        "muscles",
+        "liver",
+        "kidneys"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-37",
+      "question": "Where is sterobilinogen formed?",
+      "options": [
+        "liver",
+        "kidneys",
+        "intestines"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-38",
+      "question": "What is mechanism itching formation in obstructive jaundice?",
+      "options": [
+        "decrease in the blood and tissues of bile acids",
+        "increase in the blood and tissues of bile acids"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-39",
+      "question": "Name the second stage of hepatic encephalopathy?",
+      "options": [
+        "prodromal stage",
+        "stupor",
+        "beginning coma",
+        "coma"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-40",
+      "question": "Name the third stage of hepatic encephalopathy?",
+      "options": [
+        "prodromal stage",
+        "stupor",
+        "beginning coma",
+        "coma"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-41",
+      "question": "What definition of renal failure is more correct?",
+      "options": [
+        "it is autointoxication of the organism that is associated primary with damage of the structural elements of the parenchyma by infectious or toxic factors;",
+        "it is such a change of renal function, which causes a disturbance of the state of the internal environment."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-42",
+      "question": "Specify the types of renal failure:",
+      "options": [
+        "acute, chronic, complete, partial;",
+        "terminal, unilateral, bilateral."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-43",
+      "question": "What form of renal failure includes renal diabetes, cystinuria, phosphate diabetes which are caused by inheritance of the corresponding genetic defects?",
+      "options": [
+        "acute;",
+        "terminal;",
+        "chronic;",
+        "unilateral;",
+        "full;",
+        "bilateral."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-44",
+      "question": "Specify the causes of acute renal failure type of \"shock kidney\":",
+      "options": [
+        "Crush syndrome, a disease occurring with uncontrollable vomiting and profuse diarrhea, leading to dehydration;",
+        "poisoning by carbon tetrachloride, bilateral obstruction of the urinary tract by stones."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-45",
+      "question": "Specify the reasons leading to acute renal failure type of \"vascular obstruction\"?",
+      "options": [
+        "acute glomerulonephritis, thrombosis and embolism of the renal arteries;",
+        "poisoning by vinegar essence;",
+        "prostate adenoma;",
+        "anaerobic infection."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-46",
+      "question": "Specify the reasons of acute renal failure type of \"urological obstruction\"?",
+      "options": [
+        "Crush syndrome;",
+        "unilateral blockage of the urinary tract by stones;",
+        "anaerobic infection;",
+        "acute glomerulonephritis."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-47",
+      "question": "Specify the stages of acute renal failure:",
+      "options": [
+        "latent, prodromal, urogenic sepsis, uremic;",
+        "oligo-anuric, initial, recovery of diuresis and polyuria, reconvalescence."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-48",
+      "question": "What is the stage of acute renal failure syndrome is characterized by development of uremia?",
+      "options": [
+        "initial;",
+        "reconvalescence;",
+        "oligo-anuric;",
+        "prodromal;",
+        "recovery of diuresis and polyuria."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-49",
+      "question": "What factors reduce the filtration in the renal glomerulus?",
+      "options": [
+        "reducing the hydrostatic pressure in the glomerular capillaries, increasing the oncotic pressure of the blood, increasing intraneal pressure, reduction of the filtering surface;",
+        "increase in hydrostatic pressure in the glomerular capillaries, decreased oncotic pressure of the blood, reducing the intraneal pressure, increased filtration surface."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-50",
+      "question": "How changes the hydrostatic pressure in the renal glomeruli when constriction of the renal artery and afferent arterioles?",
+      "options": [
+        "increases;",
+        "decreases."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-51",
+      "question": "How changes the filtration pressure when spasm of efferent arterioles?",
+      "options": [
+        "rises;",
+        "decreases."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-52",
+      "question": "Diffuse glomerulonephritis is accompanied by:",
+      "options": [
+        "increased permeability of glomerular basement membrane;",
+        "decrease in the permeability of the glomerular basement membrane."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-53",
+      "question": "Acute diffuse glomerulonephritis is accompanied by increase in glomerular filtration process?",
+      "options": [
+        "yes;",
+        "no."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-54",
+      "question": "What changes reduce the hydrostatic pressure in the renal glomeruli?",
+      "options": [
+        "increased blood pressure, increased cardiac output, increased blood volume, increased plasma volume;",
+        "decreased blood pressure, decreased cardiac output, decrease in blood volume, decreased plasma volume."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-55",
+      "question": "What factors contribute to increased water reabsorption in the renal tubules?",
+      "options": [
+        "increased production of ADH, increased sensitivity of epithelium of the renal tubules to ADH, increase of reabsorption of the osmotically active substances from tubules;",
+        "the decrease in production of ADH, reducing the sensitivity of epithelium of the renal tubules to ADH, reducing reabsorption of osmotically active substances from tubules."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-56",
+      "question": "What are the factors directly related to the defeat of tubular apparatus of the kidney in acute renal failure?",
+      "options": [
+        "infectious-toxic, hypoxia of the nephron, action of metabolites and breakdown of tissues (myoglobin, hemoglobin, etc.);",
+        "impaired renal lymph circulation, increase in intrarenal pressure."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-57",
+      "question": "What is determined by larger degree of decreased urine output than the degree of reduction of glomerular filtration at background isostenuria in oligo-anuric stage of acute renal failure?",
+      "options": [
+        "that oliguria in acute renal failure is associated not only with the change of filtration, but also with the development non-selective resorption of the ultrafiltrate of tubules;",
+        "that the crucial in the development of oliguria in acute renal failure belongs to a violation of resorption of the tubular ultrafiltrate."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-58",
+      "question": "What factors reduce renal blood flow in the early stages of the action of nephrotic poisons?",
+      "options": [
+        "reduction in energy production in the cells of tubular epithelium;",
+        "reduction of tubular sodium reabsorption;",
+        "an increase in renin production;",
+        "increasing the tonus of afferent arterioles of renal glomeruli;",
+        "all of the right."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-59",
+      "question": "What factors can cause anuria?",
+      "options": [
+        "severe trauma, significant pain stimuli, bend or compression of the ureters;",
+        "denervation of the kidney, a drop of hydrostatic pressure in glomerular capillaries up to 50 mm Hg."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-60",
+      "question": "What factors can cause a hyponatruires?",
+      "options": [
+        "increase in glomerular filtration rate, a decrease in aldosterone production, reducing the sensitivity of cells of the tubules to the aldosterone;",
+        "increased production of aldosterone, decrease in glomerular filtration rate, an increase in the sensitivity of cells of the tubules to the aldosterone."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-61",
+      "question": "What changes lead to a decrease in sodium reabsorption in the renal tubules?",
+      "options": [
+        "decrease in glomerular filtration rate;",
+        "increase in glomerular filtration rate;",
+        "increased production of aldosterone;",
+        "decrease in aldosterone production;",
+        "increase in the sensitivity of cells of the tubules to the aldosterone."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-62",
+      "question": "The combination of hyposenturia with polyuria indicates on the primary lesion of the nephron structures, such as:",
+      "options": [
+        "glomerulus;",
+        "tubules."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-63",
+      "question": "Reducing the elimination from the body of the urea and creatinine leads to:",
+      "options": [
+        "hyperasotemia;",
+        "diselectrolytemia;",
+        "acidosis."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-64",
+      "question": "What violations of plasma are typical for oligo-anuric stage of acute renal failure?",
+      "options": [
+        "hypernatremia, hypokalemia, hypomagnesemia;",
+        "hyponatremia, hyperkalemia, hypermagnesemia."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-65",
+      "question": "Hyperkalemia in acute renal failure is associated with violation of processes such as:",
+      "options": [
+        "filtration and reabsorption of potassium, reabsorption and secretion of potassium, increased protein anabolism processes;",
+        "filtration and secretion of potassium, increased protein catabolism."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-66",
+      "question": "What are the factors associated with the development of hyponatremia in the third stage of acute renal failure?",
+      "options": [
+        "increasing sodium excretion from the body, thinning (hemodilution) of blood, increased transition sodium from the extracellular space into the cell;",
+        "sharp drop of its filtration in third stage of acute renal failure, output of sodium from cells to the extracellular space, delay of potassium in the body."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-67",
+      "question": "Hyponatremia in acute renal failure leads to:",
+      "options": [
+        "intracellular dehydration;",
+        "intracellular hyperhydration."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-68",
+      "question": "What is the reason of hyponatremia in chronic renal failure?",
+      "options": [
+        "decrease in the sensitivity of the epithelium to the ADH, decrease in the rate of filtration of sodium in functioning glomeruli;",
+        "decrease in the sensitivity of the epithelium to the aldosterone, increased filtration rate of sodium in the functioning glomeruli."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-69",
+      "question": "Can extra- as well as intracellular hyperhydration develop when acute renal failure and chronic renal failure?",
+      "options": [
+        "yes;",
+        "no."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-70",
+      "question": "What is the reason of the acidosis in renal failure?",
+      "options": [
+        "reduction in the secretion of hydrogen ions in the tubules, decrease in filtration of phosphates, increased loss of bicarbonate;",
+        "increased secretion of hydrogen ions in the tubules, increased filtration of phosphates, decreased excretion of bicarbonate."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-71",
+      "question": "What accounts for dyspepsia (loss of appetite, nausea, vomiting, diarrhea) in chronic renal failure and uremia?",
+      "options": [
+        "acidosis;",
+        "diselectrolytemia, increased formation of ammonia in the gut."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-72",
+      "question": "Uremia is characterized by:",
+      "options": [
+        "anemia, leukocytosis, thrombocytopenia, hypocalcemia;",
+        "polycythemia, leukopenia, increase of platelets per unit volume of blood, hypercalcemia."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-73",
+      "question": "Specify the reasons of the prerenal form of acute renal failure:",
+      "options": [
+        "cardiogenic shock;",
+        "acute glomerulonephritis;",
+        "thrombosis and embolism of renal vessels;",
+        "acute pyelonephritis."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-74",
+      "question": "How changes the diuresis with a decrease in reabsorption of glucose in the renal tubules?",
+      "options": [
+        "rises;",
+        "decreases."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-75",
+      "question": "The tubular acidosis is a consequence of changes in the function of the nephron:",
+      "options": [
+        "glomerular filtration;",
+        "tubular secretion;",
+        "tubular reabsorption."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-76",
+      "question": "How changes filtration when selective increase in tonus efferent arterioles of renal glomeruli?",
+      "options": [
+        "is incremented;",
+        "decreases."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-77",
+      "question": "How changes the hydrostatic pressure in capillaries of the renal glomeruli when increases in tonus of afferent arterioles?",
+      "options": [
+        "increases;",
+        "decreases."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-78",
+      "question": "How changes the diuresis when decreases of reabsorption of glucose in the renal tubules?",
+      "options": [
+        "is incremented;",
+        "decreases."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-79",
+      "question": "What is the leading pathogenetic factor of prerenal form of acute renal failure?",
+      "options": [
+        "inhibition of systemic hemodynamics;",
+        "primary damage of the nephron;",
+        "difficulty of removing of urine from urinary tract."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "credit-6-git-liver-kidney-80",
+      "question": "Which are pathogenetic factors lead to reduction of renal blood flow in the development of prerenal form of acute renal failure?",
+      "options": [
+        "hypervolemia, lowering tonus of afferent arterioles;",
+        "hypovolemia, increased tonus of afferent arterioles, violation of hemorheological properties of blood."
+      ],
+      "correctAnswers": [1]
+    }
+  ]
+}

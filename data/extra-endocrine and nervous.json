@@ -1,0 +1,750 @@
+{
+  "title": "7. Extra: Endocrine and Nervous System",
+  "id": "extra-endocrine-nervous",
+  "questions": [
+    {
+      "id": "extra-endocrine-nervous-1",
+      "question": "Indicate the correct variant of transhypophyseal regulation of the endocrine glands:",
+      "options": [
+        "the cerebral cortex is the peripheral gland.",
+        "cortex - hypothalamus-pituitary gland - peripheral gland.",
+        "the cerebral cortex - the hypothalamus - nerve conductors - peripheral glands.",
+        "cortex - pituitary gland - hypothalamus - peripheral gland.",
+        "subcortical centers - nerve conduits - peripheral gland"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "extra-endocrine-nervous-2",
+      "question": "Transhypophyseal regulation is fundamental to:",
+      "options": [
+        "pancreas",
+        "thyroid gland",
+        "gonads",
+        "parathyroid glands",
+        "adrenal cortex"
+      ],
+      "correctAnswers": [1, 2, 4]
+    },
+    {
+      "id": "extra-endocrine-nervous-3",
+      "question": "Hormone metabolism is impaired in diseases of:",
+      "options": [
+        "liver",
+        "the spleen",
+        "hearts",
+        "lungs",
+        "nervous system"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "extra-endocrine-nervous-4",
+      "question": "Peripheral (non-glandular) mechanism of hormone activity disturbance is:",
+      "options": [
+        "deficiency of substrates for the formation of hormones.",
+        "inherited defect of hormone biosynthesis enzymes.",
+        "adenoma of the neurosecretory cells of the hypothalamus.",
+        "congenital malformations of the glands.",
+        "blockade of hormonal receptors."
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "extra-endocrine-nervous-5",
+      "question": "With eosinophilic pituitary adenoma, during the growth period of the body, it develops:",
+      "options": [
+        "acromegaly",
+        "gigantism",
+        "dysplasia",
+        "pituitary dwarfism",
+        "Itsenko-Cushing's disease"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "extra-endocrine-nervous-6",
+      "question": "A decrease in the production of adrenocorticotropic hormone leads to:",
+      "options": [
+        "a decrease in insulin synthesis",
+        "decrease the synthesis of hormones of the adrenal cortex",
+        "decrease the synthesis of hormones of the adrenal medulla",
+        "increased synthesis of thyroid hormones",
+        "increased synthesis of sex hormones"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "extra-endocrine-nervous-7",
+      "question": "Excessive production of adrenocorticotropic hormone leads to increased secretion:",
+      "options": [
+        "insulin",
+        "parathyroid hormone",
+        "thyroxin",
+        "cortisol."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "extra-endocrine-nervous-8",
+      "question": "Hypoproduction of growth hormone at a young age manifests itself in the form: (1)",
+      "options": [
+        "acromegaly",
+        "pituitary cachexia",
+        "adiposogenital dystrophy",
+        "pituitary gigantism",
+        "pituitary dwarfism"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "extra-endocrine-nervous-9",
+      "question": "The development of diabetes insipidus is due to: (1)",
+      "options": [
+        "hypersecretion of vasopressin",
+        "hyposecretion of vasopressin",
+        "hypersecretion of aldosterone",
+        "hypersecretion of aldosterone",
+        "the presence of insulin antagonists in the blood"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "extra-endocrine-nervous-10",
+      "question": "The cause of Addison's disease is most often: (1)",
+      "options": [
+        "hypertrophy of the adrenal glands",
+        "adrenal atrophy",
+        "pituitary tumor",
+        "autoimmune thyroiditis",
+        "pineal gland hyperplasia"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "extra-endocrine-nervous-11",
+      "question": "With insufficient iodine in food develops: (1)",
+      "options": [
+        "autoimmune thyroiditis",
+        "hyperthyroidism",
+        "hypoparathyroidism",
+        "endemic goiter",
+        "diffuse toxic goiter."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "extra-endocrine-nervous-12",
+      "question": "In severe cases, hypothyroidism in adults provides development: (1)",
+      "options": [
+        "cretinism",
+        "myxedema",
+        "eunuchoidism",
+        "dwarf dwarfism",
+        "hypergonadism"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "extra-endocrine-nervous-13",
+      "question": "Hypoparathyroidism occurs with pathology: (1)",
+      "options": [
+        "gonads",
+        "thyroid gland",
+        "parathyroid glands",
+        "thymus gland",
+        "pancreas"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "extra-endocrine-nervous-14",
+      "question": "Which endocrine disorder is defined as secondary/tertiary? (2)",
+      "options": [
+        "pathological process in a certain endocrine gland",
+        "it is a result of an increased releasing factors level",
+        "it is a result of an impaired tropic hormones regulation",
+        "it is a result of genetic defect in the gland"
+      ],
+      "correctAnswers": [1, 2]
+    },
+    {
+      "id": "extra-endocrine-nervous-15",
+      "question": "Tachycardia in hyperthyroidism is a result of: (1)",
+      "options": [
+        "blocked parasympathetic activation",
+        "increased cardiac afterload",
+        "decreased cardiac preload",
+        "increased sympathetic activation",
+        "malignant hyperthermia"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "extra-endocrine-nervous-16",
+      "question": "The pathogenesis of chronic hypocorticism is associated with decreased levels of: (2)",
+      "options": [
+        "GCS",
+        "MCS",
+        "suprarenal sex hormones",
+        "catecholamines"
+      ],
+      "correctAnswers": [0, 1]
+    },
+    {
+      "id": "extra-endocrine-nervous-17",
+      "question": "The biological effects of STH could be diminished in a deficiency of: (1)",
+      "options": [
+        "somatostatins",
+        "somatoliberins",
+        "somatomedins",
+        "prostaglandins",
+        "leukotriens"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "extra-endocrine-nervous-18",
+      "question": "What is the cause of primary diabetes insipidus?",
+      "options": [
+        "damage in the hypothalamus and hypophysis",
+        "hereditary defect of the adh receptors in the renal tubules",
+        "acquired defect of the adh receptors in the renal tubules",
+        "hyperplasia of the epiphysis",
+        "atrophy in substantia nigra"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "extra-endocrine-nervous-19",
+      "question": "Pheochromocytoma leads to: (1)",
+      "options": [
+        "elevated catecholamines",
+        "elevated aldosterone",
+        "increased level of tropic hormones",
+        "decreased level of catecholamines"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "extra-endocrine-nervous-20",
+      "question": "In primary hyperaldosteronism: (1)",
+      "options": [
+        "aldosterone does not affect renin secretion",
+        "there is increased level of aldosterone and increased level of renin",
+        "there is decreased level of aldosterone and decreased level of renin",
+        "there is increased level of aldosterone and decreased level of renin",
+        "aldosterone augments the circadian rhythm of renin secretion"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "extra-endocrine-nervous-21",
+      "question": "What signs are characteristic of severe hypothyroidism in adults? (5)",
+      "options": [
+        "obesity",
+        "sweating",
+        "slowed intellectual and motor activity",
+        "arterial hypertension",
+        "cool skin, cold intolerance",
+        "fatigue",
+        "tachycardia",
+        "hypercholesterolemia"
+      ],
+      "correctAnswers": [0, 2, 4, 5, 7]
+    },
+    {
+      "id": "extra-endocrine-nervous-22",
+      "question": "Indicate the possible causes of hyperthyroidism: (6)",
+      "options": [
+        "the lack of thyroiblerin",
+        "excess TTH",
+        "excess immunoglobulin TSIg (LATS)",
+        "thyroiditis",
+        "thyroid adenoma",
+        "weak transport connection with blood proteins",
+        "intensive conversion of T4 to T3 in target' cells",
+        "the increase in the number of receptors T3, T4"
+      ],
+      "correctAnswers": [1, 2, 4, 5, 6, 7]
+    },
+    {
+      "id": "extra-endocrine-nervous-23",
+      "question": "Is it true that hyperthyroidism can be autoimmune?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "extra-endocrine-nervous-24",
+      "question": "Indicate the main manifestations of hyperthyroidism: (6)",
+      "options": [
+        "increased basal metabolic rate",
+        "the tendency to hyperthermia",
+        "bradycardia",
+        "nervousness",
+        "hypoglycemia",
+        "hypercholesterolemia",
+        "systolic hypertension",
+        "weight loss",
+        "intolerance and sweating warm"
+      ],
+      "correctAnswers": [0, 1, 3, 6, 7, 8]
+    },
+    {
+      "id": "extra-endocrine-nervous-25",
+      "question": "Indicate the possible causes of hypothyroidism: (5)",
+      "options": [
+        "excess ACTH",
+        "excess thyroliberin",
+        "iodine deficiency",
+        "toxic blockade of iodine uptake and tyrosine compounds",
+        "surgical or radioiodine ablation of the thyroid gland",
+        "autoimmune thyroiditis",
+        "immunoglobulin deficiency",
+        "circulating cytotoxic antithyroid antibodies"
+      ],
+      "correctAnswers": [2, 3, 4, 5, 7]
+    },
+    {
+      "id": "extra-endocrine-nervous-26",
+      "question": "Violations of transpituitary regulation are the basis of changes in production of",
+      "options": [
+        "insulin",
+        "glucagon",
+        "parathyroid",
+        "catecholamines",
+        "thyroid hormones"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "extra-endocrine-nervous-27",
+      "question": "For thyrotoxicosis, the following set of symptoms is characteristic: (3)",
+      "options": [
+        "exophthalmos, cold skin, tachycardia",
+        "periorbital edema, tachycardia, muscle weakness",
+        "exophthalmos, tachycardia, increased basal metabolic rate",
+        "inhibition, hot skin, hypotension",
+        "sweating, fine tremor, shaky handwriting, clumsiness",
+        "hyperthermia, constipation, memory loss",
+        "hyperthermia, diarrhea, arterial hypertension"
+      ],
+      "correctAnswers": [2, 4, 6]
+    },
+    {
+      "id": "extra-endocrine-nervous-28",
+      "question": "For hypothyroidism, the following set of symptoms is characteristic: (4)",
+      "options": [
+        "coldness, slowing down of the basal metabolic rate, constipation",
+        "inhibition, hot skin, hypertension",
+        "cerebral ataxia, cold skin, bradycardia",
+        "arterial hypotension, sweating, irritability",
+        "decreased intelligence, hyperthermia, diarrhea",
+        "hypothermia, decreased memory, constipation",
+        "decreased memory, muscle weakness, periorbital puffiness"
+      ],
+      "correctAnswers": [0, 2, 5, 6]
+    },
+    {
+      "id": "extra-endocrine-nervous-29",
+      "question": "Hypoproteinemia is accompanied by",
+      "options": [
+        "an increase in the fraction of free hormone and increasing their effects",
+        "an increase in the fraction of free hormone and a decrease in their effects",
+        "a decrease in the fraction of free hormone and a decrease in their effects",
+        "a decrease in the fraction of free hormone and an increase in their effects",
+        "the perverse effect of hormones."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "extra-endocrine-nervous-30",
+      "question": "The peripheral (outside glandular) breaking mechanism of activity of hormones are:",
+      "options": [
+        "deficiency of substrates for the formation of hormones",
+        "hereditary defect of enzymes for biosynthesis of hormones",
+        "adenoma of neurosecretory cells of the hypothalamus",
+        "Congenital anomalies of development of glands",
+        "the blockade of hormone receptors"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "extra-endocrine-nervous-31",
+      "question": "When eosinophilic pituitary adenoma during the period of growth the organism develops",
+      "options": [
+        "acromegaly",
+        "gigantism",
+        "dysplasia",
+        "pituitary dwarfism",
+        "Itsenko-Cushing's disease"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "extra-endocrine-nervous-32",
+      "question": "The sudden cancellation of long-term corticosteroid therapy leads to insufficiency of:",
+      "options": [
+        "parathyroid hormone",
+        "growth hormone",
+        "epinephrine",
+        "ACTH"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "extra-endocrine-nervous-33",
+      "question": "Antidiuretic hormone deficiency is characterized by:",
+      "options": [
+        "polyuria, hyposenturia, polydipsia",
+        "polyuria, hyperstenuria, polydipsia",
+        "oliguria, edema",
+        "glycosuria, polyuria, polydipsia",
+        "oliguria, proteinuria, hematuria."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "extra-endocrine-nervous-34",
+      "question": "The excitation of the central nervous system, high blood pressure, hyperglycemia, osteoporosis, lymphocytosis are observed at hyperproduction of",
+      "options": [
+        "melanostimulating hormone",
+        "parathyroid hormone",
+        "sex hormones",
+        "leucocorticosteroids",
+        "catecholamines."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "extra-endocrine-nervous-35",
+      "question": "Cause Addison's disease most often",
+      "options": [
+        "adrenal hypertrophy",
+        "adrenal atrophy",
+        "pituitary tumor",
+        "autoimmune thyroiditis",
+        "hyperplasia epiphysis"
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "extra-endocrine-nervous-36",
+      "question": "In severe cases of hypothyroidism in adults arises",
+      "options": [
+        "cretinism",
+        "myxedema",
+        "eunuch syndrome",
+        "dwarfism",
+        "hypergonadism"
+      ],
+      "correctAnswers": [0, 1]
+    },
+    {
+      "id": "extra-endocrine-nervous-37",
+      "question": "Hypoparathyroidism occurs when the pathology of",
+      "options": [
+        "the gonads",
+        "thyroid gland",
+        "parathyroid glands",
+        "thymus",
+        "pancreas."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "extra-endocrine-nervous-38",
+      "question": "When insulin deficiency hyperglycemia is caused by:",
+      "options": [
+        "decreased glucose utilization by tissues",
+        "an increase in hepatic glucose production (gluconeogenesis)",
+        "an increase in lipogenesis",
+        "all mentioned factors."
+      ],
+      "correctAnswers": [0, 1]
+    },
+    {
+      "id": "extra-endocrine-nervous-39",
+      "question": "In which cases increased secretion of aldosterone?",
+      "options": [
+        "decrease in volume of circulating blood",
+        "an increase in volume of circulating blood",
+        "hyponatremia and hyperkalemia",
+        "hypernatremia and hypokalemia",
+        "increased activity of the renin-angiotensin system"
+      ],
+      "correctAnswers": [0, 2, 4]
+    },
+    {
+      "id": "extra-endocrine-nervous-40",
+      "question": "Enlargement of the thyroid gland, exophthalmus, increase of basal metabolism and heat production, tachycardia, increased mental excitability are characteristic",
+      "options": [
+        "diabetes mellitus",
+        "hypothyroidism",
+        "Addison's disease",
+        "Basedow's disease",
+        "Cushing's disease."
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "extra-endocrine-nervous-41",
+      "question": "Conn's syndrome (primary aldosteronism) is manifested by",
+      "options": [
+        "loss of sodium and potassium delay",
+        "the retention of sodium and loss of potassium",
+        "oliguria",
+        "hypotension",
+        "accumulation of hydrogen ions."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "extra-endocrine-nervous-42",
+      "question": "If not enough iodine in the diet develops:",
+      "options": [
+        "autoimmune thyroiditis",
+        "Hyperthyroidism",
+        "hypoparathyroidism",
+        "endemic goiter",
+        "diffuse toxic goiter"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "extra-endocrine-nervous-43",
+      "question": "The definition of pain, according to the World Health Organization is:",
+      "options": [
+        "Intensive sensation, obsessing attention",
+        "An alarm reaction of the organism (reflecting abnormality)",
+        "Unpleasant sensory or emotional experience associated with actual or potential tissue damage.",
+        "Defensive sensation, alarming for an imminent danger.",
+        "Physiological reaction of the CNS to unpleasant external or internal influences"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "extra-endocrine-nervous-44",
+      "question": "What is nociception?",
+      "options": [
+        "Subjective stress sensation",
+        "Receiving, transmitting and perception of information for tissue damage.",
+        "A type of vegetative dystonia.",
+        "A teaching for the mechanisms of cellular and tissue damage.",
+        "A teaching for sanogenesis."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "extra-endocrine-nervous-45",
+      "question": "From a physiological perspective pain is:",
+      "options": [
+        "important adaptive defense mechanism",
+        "Multilevel complex reaction of the CNS",
+        "Alteration in consciousness.",
+        "Sensation, characterizing precisely the qualities of the noxious stimulus",
+        "maladaptive and pathogenic significance"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "extra-endocrine-nervous-46",
+      "question": "The CNS interneurons with analgesic effect release:",
+      "options": [
+        "Acetylcholine, substance P.",
+        "Opioid endogenic peptides - endorphins, enkephalins.",
+        "Adrenalin, noradrenalin, dopamin.",
+        "Serotonin, calcitonin, somatostatin.",
+        "Glutamate, aspartate, adenosine."
+      ],
+      "correctAnswers": [1]
+    },
+    {
+      "id": "extra-endocrine-nervous-47",
+      "question": "Pain comprehension includes:",
+      "options": [
+        "Localization and characterizing of the pain sensation.",
+        "Assessment of the positive and negative effects of pain.",
+        "The necessity of targeted and adequate behaviour.",
+        "All options"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "extra-endocrine-nervous-48",
+      "question": "The \"pain gate\" in the posterior horns of the spinal cord \"opens\" in response to:",
+      "options": [
+        "Afferent signals from A(α) and A(β) fibers.",
+        "Descending serotoninergic impulses.",
+        "Stable nociceptive afferent stimulation from A(δ) or C fibers."
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "extra-endocrine-nervous-49",
+      "question": "Unlike physiological, pathological pain is characterized by: (3)",
+      "options": [
+        "maladaptive and pathogenic significance",
+        "causes the development of structural and functional changes and damage to internal organs",
+        "becomes pathogenic factor in the development of new pathological processes",
+        "as a rule, the temporary nature of the pain sensation",
+        "accurate local sensation"
+      ],
+      "correctAnswers": [0, 1, 2]
+    },
+    {
+      "id": "extra-endocrine-nervous-50",
+      "question": "Indicate biologically active substances and receptors that are important components of the nociceptive system: (4)",
+      "options": [
+        "nociceptive receptors",
+        "opiate receptors",
+        "PG",
+        "histamine",
+        "enkephalins",
+        "kinins",
+        "endorphins"
+      ],
+      "correctAnswers": [0, 2, 3, 5]
+    },
+    {
+      "id": "extra-endocrine-nervous-51",
+      "question": "There are 4 types of brain edema: (4)",
+      "options": [
+        "Vasogenic edema",
+        "Cytotoxic edema",
+        "Ischemic edema",
+        "glutamate edema",
+        "limiting edema",
+        "Interstitial edema"
+      ],
+      "correctAnswers": [0, 1, 2, 5]
+    },
+    {
+      "id": "extra-endocrine-nervous-52",
+      "question": "Pathological pain of peripheral origin occurs in: (4)",
+      "options": [
+        "chronic stimulation of pain receptors",
+        "damaged nociceptive fibers",
+        "damaged central nociceptive apparatus",
+        "damaged of spinal ganglia",
+        "damaged of dorsal root"
+      ],
+      "correctAnswers": [0, 1, 3, 4]
+    },
+    {
+      "id": "extra-endocrine-nervous-53",
+      "question": "The (presence of) pain is: (1)",
+      "options": [
+        "A mandatory symptom of every disease.",
+        "A subconscious neuroemotional reaction.",
+        "Unpleasant psychic self-detachment from reality.",
+        "A somatic-independent psychoemotional affect.",
+        "A signal for actual or potential tissue damage"
+      ],
+      "correctAnswers": [4]
+    },
+    {
+      "id": "extra-endocrine-nervous-54",
+      "question": "Disorders of the basal ganglia are characterized by(3)",
+      "options": [
+        "autonomic hyperreflexia",
+        "alterations in muscle tone",
+        "altered sensorimotor integrity",
+        "by involuntary movements",
+        "disturbances in posture"
+      ],
+      "correctAnswers": [1, 3, 4]
+    },
+    {
+      "id": "extra-endocrine-nervous-55",
+      "question": "Alterations in coordination of muscle movements and abnormal muscle movements result from disorders of: (2)",
+      "options": [
+        "neuromuscular junction",
+        "eye muscles",
+        "basal ganglia",
+        "connective tissue replacement",
+        "cerebellum"
+      ],
+      "correctAnswers": [2, 4]
+    },
+    {
+      "id": "extra-endocrine-nervous-56",
+      "question": "Disorders of peripheral nerves include: (2)",
+      "options": [
+        "reduction in striatal concentrations of dopamine",
+        "mononeuropathies",
+        "rapid movement in the body",
+        "polyneuropathies"
+      ],
+      "correctAnswers": [1, 3]
+    },
+    {
+      "id": "extra-endocrine-nervous-57",
+      "question": "Ischemic stroke, which is the most common type, is caused by: (2)",
+      "options": [
+        "brain swelling",
+        "thrombus",
+        "infection",
+        "emboli"
+      ],
+      "correctAnswers": [1, 3]
+    },
+    {
+      "id": "extra-endocrine-nervous-58",
+      "question": "This statement is correct:",
+      "options": [
+        "Communicating hydrocephalus results from impaired reabsorption of CSF from the arachnoid villi into the venous system",
+        "Communicating hydrocephalus occurs when obstruction in the ventricular system prevents the CSF from reaching the arachnoid villi."
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "extra-endocrine-nervous-59",
+      "question": "Cognitive disorders can be caused by: (1)",
+      "options": [
+        "disorder that permanently damages large cortical or subcortical areas of the hemispheres",
+        "by the rupture of a blood vessel and bleeding into the brain",
+        "subsequent brain swelling, an intracranial hematoma",
+        "infection"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "extra-endocrine-nervous-60",
+      "question": "Muscular dystrophy is a number of disorders that produce: (1)",
+      "options": [
+        "damages large cortical or subcortical areas of the hemispheres",
+        "symmetric sensory, motor, and mixed sensorimotor deficits",
+        "progressive degradation of skeletal muscle",
+        "reduction in striatal concentrations of dopamine"
+      ],
+      "correctAnswers": [2]
+    },
+    {
+      "id": "extra-endocrine-nervous-61",
+      "question": "Spinal cord injury is: (1)",
+      "options": [
+        "ruptured cerebral aneurysm",
+        "impairment of regulatory mechanisms that maintain cerebral blood flow and oxygen supply",
+        "enlargement of the CSF compartment",
+        "neurologic condition most commonly caused by motor vehicle accidents, falls, and sports injuries"
+      ],
+      "correctAnswers": [3]
+    },
+    {
+      "id": "extra-endocrine-nervous-62",
+      "question": "Parkinsonism is a syndrome of chronic progressive disorder of motor function and is clinically characterized by: (3)",
+      "options": [
+        "tremors",
+        "dementia",
+        "rigidity",
+        "disordered gait and posture",
+        "secondary metabolic diseases"
+      ],
+      "correctAnswers": [0, 2, 3]
+    }
+  ]
+}
