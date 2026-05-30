@@ -350,6 +350,18 @@
     },
     {
       "id": "extra-endocrine-nervous-29",
+      "question": "Metabolism of hormones is disrupted in diseases by",
+      "options": [
+        "liver",
+        "the spleen",
+        "heart",
+        "lungs",
+        "nervous system"
+      ],
+      "correctAnswers": [0]
+    },
+    {
+      "id": "extra-endocrine-nervous-30",
       "question": "Hypoproteinemia is accompanied by",
       "options": [
         "an increase in the fraction of free hormone and increasing their effects",
@@ -361,7 +373,7 @@
       "correctAnswers": [0]
     },
     {
-      "id": "extra-endocrine-nervous-30",
+      "id": "extra-endocrine-nervous-31",
       "question": "The peripheral (outside glandular) breaking mechanism of activity of hormones are:",
       "options": [
         "deficiency of substrates for the formation of hormones",
@@ -373,7 +385,7 @@
       "correctAnswers": [4]
     },
     {
-      "id": "extra-endocrine-nervous-31",
+      "id": "extra-endocrine-nervous-32",
       "question": "When eosinophilic pituitary adenoma during the period of growth the organism develops",
       "options": [
         "acromegaly",
@@ -385,7 +397,7 @@
       "correctAnswers": [1]
     },
     {
-      "id": "extra-endocrine-nervous-32",
+      "id": "extra-endocrine-nervous-33",
       "question": "The sudden cancellation of long-term corticosteroid therapy leads to insufficiency of:",
       "options": [
         "parathyroid hormone",
@@ -396,7 +408,7 @@
       "correctAnswers": [3]
     },
     {
-      "id": "extra-endocrine-nervous-33",
+      "id": "extra-endocrine-nervous-34",
       "question": "Antidiuretic hormone deficiency is characterized by:",
       "options": [
         "polyuria, hyposenturia, polydipsia",
@@ -408,7 +420,7 @@
       "correctAnswers": [0]
     },
     {
-      "id": "extra-endocrine-nervous-34",
+      "id": "extra-endocrine-nervous-35",
       "question": "The excitation of the central nervous system, high blood pressure, hyperglycemia, osteoporosis, lymphocytosis are observed at hyperproduction of",
       "options": [
         "melanostimulating hormone",
@@ -420,7 +432,7 @@
       "correctAnswers": [3]
     },
     {
-      "id": "extra-endocrine-nervous-35",
+      "id": "extra-endocrine-nervous-36",
       "question": "Cause Addison's disease most often",
       "options": [
         "adrenal hypertrophy",
@@ -432,7 +444,7 @@
       "correctAnswers": [1]
     },
     {
-      "id": "extra-endocrine-nervous-36",
+      "id": "extra-endocrine-nervous-37",
       "question": "In severe cases of hypothyroidism in adults arises",
       "options": [
         "cretinism",
@@ -441,10 +453,10 @@
         "dwarfism",
         "hypergonadism"
       ],
-      "correctAnswers": [0, 1]
+      "correctAnswers": [1]
     },
     {
-      "id": "extra-endocrine-nervous-37",
+      "id": "extra-endocrine-nervous-38",
       "question": "Hypoparathyroidism occurs when the pathology of",
       "options": [
         "the gonads",
@@ -456,7 +468,7 @@
       "correctAnswers": [2]
     },
     {
-      "id": "extra-endocrine-nervous-38",
+      "id": "extra-endocrine-nervous-39",
       "question": "When insulin deficiency hyperglycemia is caused by:",
       "options": [
         "decreased glucose utilization by tissues",
@@ -467,7 +479,7 @@
       "correctAnswers": [0, 1]
     },
     {
-      "id": "extra-endocrine-nervous-39",
+      "id": "extra-endocrine-nervous-40",
       "question": "In which cases increased secretion of aldosterone?",
       "options": [
         "decrease in volume of circulating blood",
@@ -479,7 +491,7 @@
       "correctAnswers": [0, 2, 4]
     },
     {
-      "id": "extra-endocrine-nervous-40",
+      "id": "extra-endocrine-nervous-41",
       "question": "Enlargement of the thyroid gland, exophthalmus, increase of basal metabolism and heat production, tachycardia, increased mental excitability are characteristic",
       "options": [
         "diabetes mellitus",
@@ -491,7 +503,7 @@
       "correctAnswers": [3]
     },
     {
-      "id": "extra-endocrine-nervous-41",
+      "id": "extra-endocrine-nervous-42",
       "question": "Conn's syndrome (primary aldosteronism) is manifested by",
       "options": [
         "loss of sodium and potassium delay",
@@ -503,7 +515,7 @@
       "correctAnswers": [1]
     },
     {
-      "id": "extra-endocrine-nervous-42",
+      "id": "extra-endocrine-nervous-43",
       "question": "If not enough iodine in the diet develops:",
       "options": [
         "autoimmune thyroiditis",
@@ -515,7 +527,7 @@
       "correctAnswers": [3]
     },
     {
-      "id": "extra-endocrine-nervous-43",
+      "id": "extra-endocrine-nervous-44",
       "question": "The definition of pain, according to the World Health Organization is:",
       "options": [
         "Intensive sensation, obsessing attention",
@@ -527,7 +539,7 @@
       "correctAnswers": [2]
     },
     {
-      "id": "extra-endocrine-nervous-44",
+      "id": "extra-endocrine-nervous-45",
       "question": "What is nociception?",
       "options": [
         "Subjective stress sensation",
@@ -539,7 +551,7 @@
       "correctAnswers": [1]
     },
     {
-      "id": "extra-endocrine-nervous-45",
+      "id": "extra-endocrine-nervous-46",
       "question": "From a physiological perspective pain is:",
       "options": [
         "important adaptive defense mechanism",
@@ -551,7 +563,7 @@
       "correctAnswers": [0]
     },
     {
-      "id": "extra-endocrine-nervous-46",
+      "id": "extra-endocrine-nervous-47",
       "question": "The CNS interneurons with analgesic effect release:",
       "options": [
         "Acetylcholine, substance P.",
@@ -563,7 +575,7 @@
       "correctAnswers": [1]
     },
     {
-      "id": "extra-endocrine-nervous-47",
+      "id": "extra-endocrine-nervous-48",
       "question": "Pain comprehension includes:",
       "options": [
         "Localization and characterizing of the pain sensation.",
@@ -574,7 +586,7 @@
       "correctAnswers": [3]
     },
     {
-      "id": "extra-endocrine-nervous-48",
+      "id": "extra-endocrine-nervous-49",
       "question": "The \"pain gate\" in the posterior horns of the spinal cord \"opens\" in response to:",
       "options": [
         "Afferent signals from A(α) and A(β) fibers.",
@@ -584,7 +596,7 @@
       "correctAnswers": [2]
     },
     {
-      "id": "extra-endocrine-nervous-49",
+      "id": "extra-endocrine-nervous-50",
       "question": "Unlike physiological, pathological pain is characterized by: (3)",
       "options": [
         "maladaptive and pathogenic significance",
@@ -596,7 +608,7 @@
       "correctAnswers": [0, 1, 2]
     },
     {
-      "id": "extra-endocrine-nervous-50",
+      "id": "extra-endocrine-nervous-51",
       "question": "Indicate biologically active substances and receptors that are important components of the nociceptive system: (4)",
       "options": [
         "nociceptive receptors",
@@ -610,7 +622,7 @@
       "correctAnswers": [0, 2, 3, 5]
     },
     {
-      "id": "extra-endocrine-nervous-51",
+      "id": "extra-endocrine-nervous-52",
       "question": "There are 4 types of brain edema: (4)",
       "options": [
         "Vasogenic edema",
@@ -623,7 +635,7 @@
       "correctAnswers": [0, 1, 2, 5]
     },
     {
-      "id": "extra-endocrine-nervous-52",
+      "id": "extra-endocrine-nervous-53",
       "question": "Pathological pain of peripheral origin occurs in: (4)",
       "options": [
         "chronic stimulation of pain receptors",
@@ -635,7 +647,7 @@
       "correctAnswers": [0, 1, 3, 4]
     },
     {
-      "id": "extra-endocrine-nervous-53",
+      "id": "extra-endocrine-nervous-54",
       "question": "The (presence of) pain is: (1)",
       "options": [
         "A mandatory symptom of every disease.",
@@ -647,7 +659,7 @@
       "correctAnswers": [4]
     },
     {
-      "id": "extra-endocrine-nervous-54",
+      "id": "extra-endocrine-nervous-55",
       "question": "Disorders of the basal ganglia are characterized by(3)",
       "options": [
         "autonomic hyperreflexia",
@@ -659,7 +671,7 @@
       "correctAnswers": [1, 3, 4]
     },
     {
-      "id": "extra-endocrine-nervous-55",
+      "id": "extra-endocrine-nervous-56",
       "question": "Alterations in coordination of muscle movements and abnormal muscle movements result from disorders of: (2)",
       "options": [
         "neuromuscular junction",
@@ -671,7 +683,7 @@
       "correctAnswers": [2, 4]
     },
     {
-      "id": "extra-endocrine-nervous-56",
+      "id": "extra-endocrine-nervous-57",
       "question": "Disorders of peripheral nerves include: (2)",
       "options": [
         "reduction in striatal concentrations of dopamine",
@@ -682,7 +694,7 @@
       "correctAnswers": [1, 3]
     },
     {
-      "id": "extra-endocrine-nervous-57",
+      "id": "extra-endocrine-nervous-58",
       "question": "Ischemic stroke, which is the most common type, is caused by: (2)",
       "options": [
         "brain swelling",
@@ -693,7 +705,7 @@
       "correctAnswers": [1, 3]
     },
     {
-      "id": "extra-endocrine-nervous-58",
+      "id": "extra-endocrine-nervous-59",
       "question": "This statement is correct:",
       "options": [
         "Communicating hydrocephalus results from impaired reabsorption of CSF from the arachnoid villi into the venous system",
@@ -702,7 +714,7 @@
       "correctAnswers": [0]
     },
     {
-      "id": "extra-endocrine-nervous-59",
+      "id": "extra-endocrine-nervous-60",
       "question": "Cognitive disorders can be caused by: (1)",
       "options": [
         "disorder that permanently damages large cortical or subcortical areas of the hemispheres",
@@ -713,7 +725,7 @@
       "correctAnswers": [0]
     },
     {
-      "id": "extra-endocrine-nervous-60",
+      "id": "extra-endocrine-nervous-61",
       "question": "Muscular dystrophy is a number of disorders that produce: (1)",
       "options": [
         "damages large cortical or subcortical areas of the hemispheres",
@@ -724,7 +736,7 @@
       "correctAnswers": [2]
     },
     {
-      "id": "extra-endocrine-nervous-61",
+      "id": "extra-endocrine-nervous-62",
       "question": "Spinal cord injury is: (1)",
       "options": [
         "ruptured cerebral aneurysm",
@@ -735,7 +747,7 @@
       "correctAnswers": [3]
     },
     {
-      "id": "extra-endocrine-nervous-62",
+      "id": "extra-endocrine-nervous-63",
       "question": "Parkinsonism is a syndrome of chronic progressive disorder of motor function and is clinically characterized by: (3)",
       "options": [
         "tremors",
