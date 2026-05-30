@@ -870,7 +870,11 @@
       "question": "Cheyne-Stokes respiration - is:",
       "options": [
         "the alternation of apnea with respiratory movements that are growing by depth, and then decrease;",
-        "the alternation of apnea with respiratory movements of the same frequency and depth;"
+        "the alternation of apnea with respiratory movements of the same frequency and depth;",
+        "frequency and depth;",
+        "deep, rare respiratory movements;",
+        "deep, frequent respiratory movements;",
+        "gradually fading respiratory movements"
       ],
       "correctAnswers": [0]
     },
@@ -1132,9 +1136,11 @@
       "options": [
         "increased cardiac output",
         "an increase in the formation of erythropoietin",
-        "accelerating the release of red blood cells from the bone marrow into the blood"
+        "accelerating the release of red blood cells from the bone marrow into the blood",
+        "an increase in the number of red blood cells in the blood",
+        "increase in alveolar ventilation"
       ],
-      "correctAnswers": [1, 2]
+      "correctAnswers": [1, 2, 3]
     },
     {
       "id": "credit-5-heart-respiratory-hypoxia-vessels-96",
@@ -1158,7 +1164,7 @@
         "Overutilization hypoxia.",
         "Hemic hypoxia of inactivity type."
       ],
-      "correctAnswers": [3]
+      "correctAnswers": [2]
     },
     {
       "id": "credit-5-heart-respiratory-hypoxia-vessels-98",
@@ -1235,7 +1241,7 @@
       "question": "Indicate the characteristic change in the composition of the blood when exogenous hypobaric hypoxia:",
       "options": [
         "hyperglycemia;",
-        "hypacapnia;",
+        "hypocapnia;",
         "hypercapnia;",
         "reduction of blood lactate;",
         "hyperproteinemia."
@@ -1247,7 +1253,7 @@
       "question": "Specify the changes in the blood which are characteristic for exogenous hypobaric hypoxia:",
       "options": [
         "hypercapnia;",
-        "hypacapnia;",
+        "hypocapnia;",
         "hypoxemia;",
         "gas alkalosis;",
         "gas acidosis."
