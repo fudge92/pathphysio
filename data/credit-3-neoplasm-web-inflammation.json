@@ -388,7 +388,7 @@
         "an increase in intracellular Ca 2+ ;",
         "reduction of cytoplasmic Ca 2+ ."
       ],
-      "correctAnswers": [0, 2, 3]
+      "correctAnswers": [0, 2, 3, 4]
     },
     {
       "id": "credit-3-neoplasm-web-inflammation-35",
@@ -1076,7 +1076,7 @@
         "transfusion of large quantities of hypotonic solutions",
         "overproduction of aldosterone"
       ],
-      "correctAnswers": [0, 3]
+      "correctAnswers": [0]
     },
     {
       "id": "credit-3-neoplasm-web-inflammation-93",
