@@ -1301,8 +1301,9 @@
         "eosinophil chemotaxic factor",
         "prostaglandins E2 and F2",
         "neutrophil chemotaxis factor"
+        "platelet activation factor"
       ],
-      "correctAnswers": [0, 2, 3, 5]
+      "correctAnswers": [1, 3, 5]
     },
     {
       "id": "credit-2-mc-1-mc-2-ipp-112",
