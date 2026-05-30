@@ -1300,7 +1300,7 @@
         "histamine",
         "eosinophil chemotaxic factor",
         "prostaglandins E2 and F2",
-        "neutrophil chemotaxis factor"
+        "neutrophil chemotaxis factor",
         "platelet activation factor"
       ],
       "correctAnswers": [1, 3, 5]
