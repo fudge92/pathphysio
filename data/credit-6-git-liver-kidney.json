@@ -103,7 +103,7 @@
         "toxicosis of pregnancy",
         "stress"
       ],
-      "correctAnswers": [0, 1, 2, 3, 5]
+      "correctAnswers": [0, 1, 2, 5]
     },
     {
       "id": "credit-6-git-liver-kidney-10",
@@ -211,7 +211,7 @@
         "overing the acidity of gastric juice",
         "effects of certain foods and drugs"
       ],
-      "correctAnswers": [0, 1, 2]
+      "correctAnswers": [0, 2]
     },
     {
       "id": "credit-6-git-liver-kidney-20",
